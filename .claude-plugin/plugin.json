@@ -1,0 +1,21 @@
+{
+  "name": "titanschedule-skills",
+  "version": "1.0.0",
+  "description": "Session learnings from the TitanSchedule tournament visualization project",
+  "skills": [
+    {
+      "name": "live-api-validation-cycle",
+      "category": "debugging",
+      "description": "Validate a Python scraper against a live REST API after unit tests pass; catch shape mismatches between assumed and real API responses",
+      "tags": ["scraping", "api", "debugging", "fixtures", "validation"],
+      "path": "skills/live-api-validation-cycle/SKILL.md"
+    },
+    {
+      "name": "fixed-height-dag-timeline",
+      "category": "architecture",
+      "description": "Replace dagre auto-layout with a fixed-height timeline layout using phase (X column) and globalRow (Y rank) coordinates for tournament/pipeline DAGs",
+      "tags": ["cytoscape", "dag", "layout", "timeline", "visualization", "filtering"],
+      "path": "skills/fixed-height-dag-timeline/SKILL.md"
+    }
+  ]
+}
