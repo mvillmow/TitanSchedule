@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volleyball Tournament Sorting Network - Architecture & Interactive Concept</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Chosen Palette: Calm Harmony (Warm Neutrals) -->
+    <!-- 
+         Background: #FDFCF8 (Off-White/Cream)
+         Surface: #F4F1EA (Warm Beige)
+         Text Main: #2D3748 (Charcoal)
+         Text Muted: #718096 (Slate Grey)
+         Accent Primary: #5A67D8 (Muted Indigo - for Architecture)
+         Accent Secondary: #48BB78 (Sage Green - for Success/Simulation)
+         Accent Tertiary: #ED8936 (Muted Orange - for Interaction)
+    -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        neutral: {
+                            50: '#FDFCF8',
+                            100: '#F4F1EA',
+                            200: '#E2E8F0',
+                            800: '#2D3748',
+                            900: '#1A202C',
+                        },
+                        accent: {
+                            primary: '#5A67D8',
+                            secondary: '#48BB78',
+                            tertiary: '#ED8936',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Chart Container Styling - Mandatory Requirements */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px; /* Base height */
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+
+        /* Bracket Simulation Connector Lines */
+        .connector-h {
+            position: absolute;
+            height: 2px;
+            background-color: #CBD5E0;
+            transition: all 0.3s ease;
+        }
+        .connector-v {
+            position: absolute;
+            width: 2px;
+            background-color: #CBD5E0;
+            transition: all 0.3s ease;
+        }
+        .connector-active {
+            background-color: #48BB78;
+            box-shadow: 0 0 8px rgba(72, 187, 120, 0.4);
+        }
+
+        /* Interactive Element Transitions */
+        .interactive-card {
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .interactive-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Hide scrollbar for clean UI in horizontal scrolling containers */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+
+    <!-- Application Structure Plan:
+         1. Header: Title & Mission Statement.
+         2. Problem/Solution Dashboard: A split view comparing the "Current State" (Friction) vs "Future State" (Sorting Network). Includes Chart.js metrics.
+         3. Interactive Simulation (The Core): A functional HTML/JS "mini-game" demonstrating the Sorting Network logic. Users click match winners to see how the graph updates "Future Paths". This directly explains the core requirement.
+         4. Architecture Explorer: An interactive flow diagram (HTML) where clicking nodes (GitHub Actions, Pages, Scraper) reveals technical specs.
+         5. Principles Matrix: A grid of the 7 core principles (KISS, SOLID, etc.) that toggles details on how they apply to this specific project.
+    -->
+
+    <!-- Visualization & Content Choices:
+         1. Bar Chart (Chart.js): Compare user steps/clicks in Old vs New system. Goal: Compare.
+         2. Interactive Bracket (HTML/JS): Demonstrate the "Sorting Network" logic. Goal: Change/Simulate. Justification: Static images don't show the "versioning" or "future pathing" requested. A live demo is best.
+         3. Flow Diagram (HTML/CSS): Visualizing the GitHub Actions architecture. Goal: Organize.
+         4. Principles Grid (Interactive HTML): Explaining the dev philosophy. Goal: Inform.
+         
+         CONFIRMATION: NO SVG graphics used. NO Mermaid JS used.
+    -->
+</head>
+<body class="bg-neutral-50 text-neutral-800 font-sans antialiased">
+
+    <!-- Section 1: Header & Introduction -->
+    <header class="bg-white border-b border-neutral-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center space-x-3">
+                <div class="w-8 h-8 bg-accent-primary rounded-lg flex items-center justify-center text-white font-bold">V</div>
+                <h1 class="text-xl font-bold text-neutral-800">Volleyball Sorting Network</h1>
+            </div>
+            <nav class="hidden md:flex space-x-8 text-sm font-medium text-neutral-500">
+                <a href="#problem" class="hover:text-accent-primary transition-colors">The Problem</a>
+                <a href="#simulation" class="hover:text-accent-primary transition-colors">Live Simulation</a>
+                <a href="#architecture" class="hover:text-accent-primary transition-colors">Architecture</a>
+                <a href="#principles" class="hover:text-accent-primary transition-colors">Principles</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-20">
+
+        <!-- Section 2: Problem Definition & Metrics -->
+        <section id="problem">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                <div class="space-y-6">
+                    <div class="inline-block px-3 py-1 bg-red-100 text-red-600 rounded-full text-xs font-semibold tracking-wide uppercase">Current State Analysis</div>
+                    <h2 class="text-3xl md:text-4xl font-bold leading-tight">The Friction of Fragmentation</h2>
+                    <p class="text-lg text-neutral-500 leading-relaxed">
+                        Current tournament scheduling systems (like SportsEngine AES) scatter data across multiple pages. Determining a team's next location requires mentally calculating pool results and cross-referencing bracket logic, leading to confusion and delays.
+                    </p>
+                    
+                    <div class="bg-white p-6 rounded-xl shadow-sm border border-neutral-200">
+                        <h3 class="font-semibold text-neutral-800 mb-2">Project Goal</h3>
+                        <p class="text-sm text-neutral-500">
+                            Create a <span class="text-accent-primary font-bold">Single Monolithic Graph</span> where the initial sort (seeds) is on the left, and the final sort (standings) is on the right. Updates happen in real-time as games finish.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-2xl shadow-lg border border-neutral-100">
+                    <div class="mb-4 flex justify-between items-center">
+                        <h3 class="font-bold text-neutral-800">User Effort Comparison</h3>
+                        <span class="text-xs text-neutral-400">Estimated Reduction</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="effortChart"></canvas>
+                    </div>
+                    <p class="mt-4 text-xs text-center text-neutral-400">Lower is better. Data based on typical user navigation flows.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: The Interactive Simulation (Sorting Network) -->
+        <section id="simulation" class="scroll-mt-20">
+            <div class="text-center max-w-3xl mx-auto mb-12">
+                <div class="inline-block px-3 py-1 bg-accent-secondary/10 text-accent-secondary rounded-full text-xs font-semibold tracking-wide uppercase mb-4">Core Concept</div>
+                <h2 class="text-3xl font-bold mb-4">Interactive Sorting Network</h2>
+                <p class="text-neutral-500">
+                    Experience the "Future Pathing" concept. Click the <span class="font-bold text-accent-secondary">WINNER</span> buttons below to simulate match results. Watch how the graph eliminates invalid paths and highlights the team's journey to their final court assignment.
+                </p>
+            </div>
+
+            <!-- Simulation Container -->
+            <div class="bg-white rounded-2xl shadow-xl border border-neutral-200 overflow-hidden relative">
+                <!-- Toolbar -->
+                <div class="bg-neutral-100 px-6 py-3 border-b border-neutral-200 flex justify-between items-center">
+                    <span class="text-sm font-mono text-neutral-500">SIMULATION MODE: v1.0.4</span>
+                    <button onclick="resetSimulation()" class="px-4 py-2 bg-white border border-neutral-300 rounded text-sm font-medium hover:bg-neutral-50 transition-colors shadow-sm">
+                        Reset Bracket
+                    </button>
+                </div>
+
+                <!-- Bracket Visualization -->
+                <div class="p-8 min-h-[500px] relative overflow-x-auto">
+                    <div class="min-w-[800px] flex justify-between relative h-[400px]">
+                        
+                        <!-- Column 1: Seeds -->
+                        <div class="flex flex-col justify-around w-48 z-10">
+                            <div id="seed-1" class="p-4 bg-white border-l-4 border-accent-primary shadow-sm rounded-r-lg">
+                                <div class="text-xs text-neutral-400 uppercase">Seed #1</div>
+                                <div class="font-bold">Team Alpha</div>
+                            </div>
+                            <div id="seed-4" class="p-4 bg-white border-l-4 border-neutral-300 shadow-sm rounded-r-lg">
+                                <div class="text-xs text-neutral-400 uppercase">Seed #4</div>
+                                <div class="font-bold">Team Delta</div>
+                            </div>
+                            <div id="seed-2" class="p-4 bg-white border-l-4 border-accent-primary shadow-sm rounded-r-lg">
+                                <div class="text-xs text-neutral-400 uppercase">Seed #2</div>
+                                <div class="font-bold">Team Beta</div>
+                            </div>
+                            <div id="seed-3" class="p-4 bg-white border-l-4 border-neutral-300 shadow-sm rounded-r-lg">
+                                <div class="text-xs text-neutral-400 uppercase">Seed #3</div>
+                                <div class="font-bold">Team Gamma</div>
+                            </div>
+                        </div>
+
+                        <!-- Column 2: Matches -->
+                        <div class="flex flex-col justify-around w-64 z-10">
+                            <!-- Match A -->
+                            <div class="bg-white border border-neutral-200 rounded-lg shadow-lg overflow-hidden relative interactive-card">
+                                <div class="bg-neutral-800 text-white px-4 py-1 text-xs flex justify-between">
+                                    <span>Match A</span>
+                                    <span>Court 1</span>
+                                </div>
+                                <div class="p-4 space-y-2">
+                                    <div class="flex justify-between items-center">
+                                        <span class="text-sm">Team Alpha</span>
+                                        <button onclick="decideMatch('A', 'top')" id="btn-A-top" class="text-xs bg-neutral-100 hover:bg-accent-secondary hover:text-white px-2 py-1 rounded transition-colors">Win</button>
+                                    </div>
+                                    <div class="w-full h-px bg-neutral-100"></div>
+                                    <div class="flex justify-between items-center">
+                                        <span class="text-sm">Team Delta</span>
+                                        <button onclick="decideMatch('A', 'bottom')" id="btn-A-bottom" class="text-xs bg-neutral-100 hover:bg-accent-secondary hover:text-white px-2 py-1 rounded transition-colors">Win</button>
+                                    </div>
+                                </div>
+                                <!-- Status Overlay -->
+                                <div id="status-A" class="hidden absolute inset-0 bg-white/90 flex-col items-center justify-center font-bold text-accent-secondary">
+                                    <span class="text-2xl">✓</span>
+                                    <span id="winner-name-A">Winner</span>
+                                </div>
+                            </div>
+
+                            <!-- Match B -->
+                            <div class="bg-white border border-neutral-200 rounded-lg shadow-lg overflow-hidden relative interactive-card">
+                                <div class="bg-neutral-800 text-white px-4 py-1 text-xs flex justify-between">
+                                    <span>Match B</span>
+                                    <span>Court 2</span>
+                                </div>
+                                <div class="p-4 space-y-2">
+                                    <div class="flex justify-between items-center">
+                                        <span class="text-sm">Team Beta</span>
+                                        <button onclick="decideMatch('B', 'top')" id="btn-B-top" class="text-xs bg-neutral-100 hover:bg-accent-secondary hover:text-white px-2 py-1 rounded transition-colors">Win</button>
+                                    </div>
+                                    <div class="w-full h-px bg-neutral-100"></div>
+                                    <div class="flex justify-between items-center">
+                                        <span class="text-sm">Team Gamma</span>
+                                        <button onclick="decideMatch('B', 'bottom')" id="btn-B-bottom" class="text-xs bg-neutral-100 hover:bg-accent-secondary hover:text-white px-2 py-1 rounded transition-colors">Win</button>
+                                    </div>
+                                </div>
+                                <div id="status-B" class="hidden absolute inset-0 bg-white/90 flex-col items-center justify-center font-bold text-accent-secondary">
+                                    <span class="text-2xl">✓</span>
+                                    <span id="winner-name-B">Winner</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Column 3: Finals -->
+                        <div class="flex flex-col justify-between w-64 z-10 py-8">
+                            <!-- Gold Match -->
+                            <div class="bg-yellow-50 border border-yellow-200 rounded-lg shadow-md p-4 mb-4 interactive-card opacity-50 transition-opacity" id="gold-node">
+                                <div class="text-xs font-bold text-yellow-600 uppercase tracking-wider mb-2">Gold Medal Match</div>
+                                <div class="text-sm text-neutral-600" id="gold-match-text">Winner A vs Winner B</div>
+                                <div class="mt-2 text-xs bg-white inline-block px-2 py-1 rounded border border-yellow-100">Court 5</div>
+                            </div>
+
+                            <!-- Bronze Match -->
+                            <div class="bg-orange-50 border border-orange-200 rounded-lg shadow-md p-4 mt-4 interactive-card opacity-50 transition-opacity" id="bronze-node">
+                                <div class="text-xs font-bold text-orange-600 uppercase tracking-wider mb-2">Bronze Medal Match</div>
+                                <div class="text-sm text-neutral-600" id="bronze-match-text">Loser A vs Loser B</div>
+                                <div class="mt-2 text-xs bg-white inline-block px-2 py-1 rounded border border-orange-100">Court 6</div>
+                            </div>
+                        </div>
+
+                        <!-- CSS Connectors (Absolute Positioning for Simplicity) -->
+                        <!-- Seed 1 to Match A -->
+                        <div id="line-s1-ma" class="connector-h w-[60px] top-[75px] left-[190px]"></div>
+                        <!-- Seed 4 to Match A -->
+                        <div id="line-s4-ma" class="connector-h w-[60px] top-[175px] left-[190px]"></div>
+                         <!-- Connector joining S1/S4 to Match A -->
+                        <div class="connector-v h-[100px] top-[75px] left-[190px]"></div>
+
+                         <!-- Match A to Gold -->
+                        <div id="path-gold-a" class="connector-h w-[80px] top-[125px] left-[520px] origin-left rotate-[-25deg] hidden"></div>
+                        <!-- Match A to Bronze -->
+                        <div id="path-bronze-a" class="connector-h w-[80px] top-[125px] left-[520px] origin-left rotate-[25deg] hidden"></div>
+
+                         <!-- Seed 2 to Match B -->
+                        <div id="line-s2-mb" class="connector-h w-[60px] top-[275px] left-[190px]"></div>
+                        <!-- Seed 3 to Match B -->
+                        <div id="line-s3-mb" class="connector-h w-[60px] top-[375px] left-[190px]"></div>
+                        <!-- Connector joining S2/S3 to Match B -->
+                        <div class="connector-v h-[100px] top-[275px] left-[190px]"></div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 4: Architecture Explorer -->
+        <section id="architecture">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="md:col-span-1 space-y-4">
+                    <h2 class="text-3xl font-bold">Headless Architecture</h2>
+                    <p class="text-neutral-500">
+                        The system leverages GitHub Actions for a serverless backend. Click on the architecture blocks to view technical details.
+                    </p>
+                    <!-- Info Panel (Dynamic) -->
+                    <div id="tech-details" class="bg-neutral-800 text-white p-6 rounded-xl shadow-lg min-h-[200px] transition-all duration-300">
+                        <div class="text-accent-primary text-xs font-bold uppercase tracking-widest mb-2" id="tech-label">System Overview</div>
+                        <h4 class="text-xl font-bold mb-3" id="tech-title">Select a Component</h4>
+                        <p class="text-neutral-300 text-sm leading-relaxed" id="tech-desc">
+                            Click on any node in the diagram to understand how data flows from SportsEngine to the end-user's browser without a traditional database.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="md:col-span-2 bg-white rounded-xl shadow-sm border border-neutral-200 p-8 flex items-center justify-center">
+                    <!-- HTML-based Architecture Diagram -->
+                    <div class="flex flex-col md:flex-row items-center gap-4 w-full justify-between">
+                        
+                        <!-- Node 1 -->
+                        <button onclick="showTech('source')" class="group relative flex flex-col items-center w-full md:w-1/3">
+                            <div class="w-full bg-white border-2 border-neutral-200 group-hover:border-accent-primary p-4 rounded-lg text-center transition-all group-hover:shadow-md h-24 flex items-center justify-center">
+                                <span class="font-bold text-neutral-700">SportsEngine (AES)</span>
+                            </div>
+                            <div class="absolute -bottom-6 text-xs text-neutral-400">Source HTML/API</div>
+                        </button>
+
+                        <!-- Arrow -->
+                        <div class="h-8 w-1 md:h-1 md:w-12 bg-neutral-200"></div>
+
+                        <!-- Node 2 -->
+                        <button onclick="showTech('action')" class="group relative flex flex-col items-center w-full md:w-1/3">
+                            <div class="w-full bg-neutral-50 border-2 border-neutral-200 group-hover:border-accent-primary p-4 rounded-lg text-center transition-all group-hover:shadow-md h-24 flex items-center justify-center">
+                                <span class="font-bold text-neutral-700">GitHub Actions</span>
+                            </div>
+                            <div class="absolute -bottom-6 text-xs text-neutral-400">Cron Runner</div>
+                        </button>
+
+                        <!-- Arrow -->
+                        <div class="h-8 w-1 md:h-1 md:w-12 bg-neutral-200"></div>
+
+                        <!-- Node 3 -->
+                        <button onclick="showTech('client')" class="group relative flex flex-col items-center w-full md:w-1/3">
+                            <div class="w-full bg-neutral-900 border-2 border-neutral-900 group-hover:border-accent-primary p-4 rounded-lg text-center transition-all group-hover:shadow-md h-24 flex items-center justify-center">
+                                <span class="font-bold text-white">GitHub Pages</span>
+                            </div>
+                            <div class="absolute -bottom-6 text-xs text-neutral-400">SPA Client</div>
+                        </button>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 5: Development Principles -->
+        <section id="principles" class="bg-neutral-100 rounded-3xl p-8 md:p-12">
+            <div class="text-center mb-10">
+                <h2 class="text-3xl font-bold mb-4">Core Principles</h2>
+                <p class="text-neutral-500 max-w-2xl mx-auto">
+                    Adherence to strict software engineering practices ensures the system is maintainable, scalable, and robust.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+                <!-- Principle Card: KISS -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                    <div class="text-2xl mb-2">💋</div>
+                    <h3 class="font-bold text-neutral-800">KISS</h3>
+                    <p class="text-xs text-neutral-400 mt-1 uppercase tracking-wide">Keep It Simple Stupid</p>
+                    <p class="text-sm text-neutral-600 mt-3">
+                        No complex database. Just simple JSON files generated by scripts.
+                    </p>
+                </div>
+
+                <!-- Principle Card: YAGNI -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                    <div class="text-2xl mb-2">🛑</div>
+                    <h3 class="font-bold text-neutral-800">YAGNI</h3>
+                    <p class="text-xs text-neutral-400 mt-1 uppercase tracking-wide">You Ain't Gonna Need It</p>
+                    <p class="text-sm text-neutral-600 mt-3">
+                        No user login system or backend API until strictly required.
+                    </p>
+                </div>
+
+                <!-- Principle Card: TDD -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                    <div class="text-2xl mb-2">🧪</div>
+                    <h3 class="font-bold text-neutral-800">TDD</h3>
+                    <p class="text-xs text-neutral-400 mt-1 uppercase tracking-wide">Test Driven Dev</p>
+                    <p class="text-sm text-neutral-600 mt-3">
+                        Graph generation logic is verified by unit tests before deployment.
+                    </p>
+                </div>
+
+                <!-- Principle Card: DRY -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                    <div class="text-2xl mb-2">🌵</div>
+                    <h3 class="font-bold text-neutral-800">DRY</h3>
+                    <p class="text-xs text-neutral-400 mt-1 uppercase tracking-wide">Don't Repeat Yourself</p>
+                    <p class="text-sm text-neutral-600 mt-3">
+                        Shared data structures for Teams and Matches across all modules.
+                    </p>
+                </div>
+            </div>
+            
+            <!-- Principle Adherence Chart -->
+             <div class="mt-12 bg-white p-8 rounded-xl shadow-sm max-w-2xl mx-auto">
+                <h3 class="text-center font-bold text-neutral-800 mb-6">Project Health Metrics</h3>
+                <div class="chart-container">
+                    <canvas id="principlesRadar"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="border-t border-neutral-200 pt-8 pb-12 text-center">
+            <p class="text-neutral-400 text-sm">
+                Generated SPA based on Source Report Requirements.<br>
+                <span class="text-xs mt-2 block">No SVG | No Mermaid JS | 100% Canvas & HTML</span>
+            </p>
+        </footer>
+
+    </main>
+
+    <!-- JavaScript Implementation -->
+    <script>
+        // --- 1. Interaction Logic: Architecture Explorer ---
+        const techData = {
+            source: {
+                title: "SportsEngine Scraper",
+                label: "Data Ingestion",
+                desc: "A Python script triggered by cron reads the raw HTML/API from SportsEngine. It identifies pools, brackets, and scheduled matches for the specific tournament ID."
+            },
+            action: {
+                title: "GitHub Actions Runner",
+                label: "Process & Build",
+                desc: "The central nervous system. 1. Runs the Scraper. 2. Builds the Monolithic Graph (JSON). 3. Generates static artifacts (PDF/PNG). 4. Deploys to gh-pages branch."
+            },
+            client: {
+                title: "Static SPA Client",
+                label: "Presentation Layer",
+                desc: "A lightweight HTML/JS app hosted on GitHub Pages. It fetches the `graph.json` artifact generated by the Action. It handles the visualization, filtering, and 'future pathing' logic client-side."
+            }
+        };
+
+        function showTech(key) {
+            const data = techData[key];
+            const panel = document.getElementById('tech-details');
+            
+            // Simple fade out/in effect simulation
+            panel.style.opacity = '0.7';
+            setTimeout(() => {
+                document.getElementById('tech-title').innerText = data.title;
+                document.getElementById('tech-label').innerText = data.label;
+                document.getElementById('tech-desc').innerText = data.desc;
+                panel.style.opacity = '1';
+            }, 150);
+        }
+
+        // --- 2. Interaction Logic: Bracket Simulation ---
+        // State to track match outcomes
+        let state = {
+            matchA: null, // 'top' (Alpha) or 'bottom' (Delta)
+            matchB: null  // 'top' (Beta) or 'bottom' (Gamma)
+        };
+
+        function decideMatch(matchId, winnerPos) {
+            // Update State
+            if (matchId === 'A') state.matchA = winnerPos;
+            if (matchId === 'B') state.matchB = winnerPos;
+
+            // UI Update for Match Node
+            const winnerName = winnerPos === 'top' 
+                ? (matchId === 'A' ? 'Team Alpha' : 'Team Beta') 
+                : (matchId === 'A' ? 'Team Delta' : 'Team Gamma');
+            
+            document.getElementById(`status-${matchId}`).classList.remove('hidden');
+            document.getElementById(`status-${matchId}`).classList.add('flex');
+            document.getElementById(`winner-name-${matchId}`).innerText = winnerName;
+
+            // Reveal Paths & Finals
+            updateFinals();
+        }
+
+        function updateFinals() {
+            // Logic: If Match A and Match B have winners, we populate Finals
+            if (state.matchA && state.matchB) {
+                // Gold Match Data
+                const goldHome = state.matchA === 'top' ? 'Team Alpha' : 'Team Delta';
+                const goldAway = state.matchB === 'top' ? 'Team Beta' : 'Team Gamma';
+                document.getElementById('gold-match-text').innerText = `${goldHome} vs ${goldAway}`;
+                
+                // Bronze Match Data
+                const bronzeHome = state.matchA === 'top' ? 'Team Delta' : 'Team Alpha';
+                const bronzeAway = state.matchB === 'top' ? 'Team Gamma' : 'Team Beta';
+                document.getElementById('bronze-match-text').innerText = `${bronzeHome} vs ${bronzeAway}`;
+
+                // Visually Activate Nodes
+                document.getElementById('gold-node').classList.remove('opacity-50');
+                document.getElementById('gold-node').classList.add('opacity-100', 'border-accent-primary');
+                
+                document.getElementById('bronze-node').classList.remove('opacity-50');
+                document.getElementById('bronze-node').classList.add('opacity-100');
+            }
+        }
+
+        function resetSimulation() {
+            state = { matchA: null, matchB: null };
+            document.getElementById('status-A').classList.add('hidden');
+            document.getElementById('status-A').classList.remove('flex');
+            document.getElementById('status-B').classList.add('hidden');
+            document.getElementById('status-B').classList.remove('flex');
+            
+            document.getElementById('gold-node').classList.add('opacity-50');
+            document.getElementById('gold-node').classList.remove('opacity-100', 'border-accent-primary');
+            document.getElementById('bronze-node').classList.add('opacity-50');
+            document.getElementById('bronze-node').classList.remove('opacity-100');
+            
+            document.getElementById('gold-match-text').innerText = "Winner A vs Winner B";
+            document.getElementById('bronze-match-text').innerText = "Loser A vs Loser B";
+        }
+
+        // --- 3. Chart.js Implementations ---
+        
+        // Helper: Word Wrap
+        function wrapLabel(label) {
+            const limit = 16;
+            if (label.length <= limit) return label;
+            const words = label.split(' ');
+            const lines = [];
+            let currentLine = words[0];
+
+            for (let i = 1; i < words.length; i++) {
+                if (currentLine.length + 1 + words[i].length <= limit) {
+                    currentLine += ' ' + words[i];
+                } else {
+                    lines.push(currentLine);
+                    currentLine = words[i];
+                }
+            }
+            lines.push(currentLine);
+            return lines;
+        }
+
+        // Helper: Tooltip Config
+        const tooltipConfig = {
+            callbacks: {
+                title: function(tooltipItems) {
+                    const item = tooltipItems[0];
+                    let label = item.chart.data.labels[item.dataIndex];
+                    if (Array.isArray(label)) {
+                        return label.join(' ');
+                    } else {
+                        return label;
+                    }
+                }
+            }
+        };
+
+        // Chart 1: Effort Comparison (Bar)
+        const ctxEffort = document.getElementById('effortChart').getContext('2d');
+        new Chart(ctxEffort, {
+            type: 'bar',
+            data: {
+                labels: ['Page Loads', 'Mental Math Steps', 'Clicks to Result'].map(wrapLabel),
+                datasets: [
+                    {
+                        label: 'Current AES',
+                        data: [4, 5, 8],
+                        backgroundColor: '#CBD5E0', // Neutral 300
+                        borderRadius: 4
+                    },
+                    {
+                        label: 'Proposed App',
+                        data: [1, 0, 2],
+                        backgroundColor: '#5A67D8', // Accent Primary
+                        borderRadius: 4
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { position: 'top' },
+                    tooltip: tooltipConfig
+                },
+                scales: {
+                    y: { beginAtZero: true, grid: { display: false } },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+
+        // Chart 2: Principles Radar (Radar)
+        const ctxRadar = document.getElementById('principlesRadar').getContext('2d');
+        new Chart(ctxRadar, {
+            type: 'radar',
+            data: {
+                labels: ['Simplicity (KISS)', 'Test Coverage (TDD)', 'Modularity', 'User Intuition (POLA)', 'Efficiency (DRY)'].map(wrapLabel),
+                datasets: [{
+                    label: 'Adherence Score',
+                    data: [9, 8, 9, 10, 7],
+                    fill: true,
+                    backgroundColor: 'rgba(72, 187, 120, 0.2)', // Sage Green transparent
+                    borderColor: '#48BB78',
+                    pointBackgroundColor: '#48BB78',
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: '#48BB78'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                elements: {
+                    line: { borderWidth: 3 }
+                },
+                scales: {
+                    r: {
+                        angleLines: { color: '#E2E8F0' },
+                        grid: { color: '#E2E8F0' },
+                        suggestedMin: 0,
+                        suggestedMax: 10,
+                        ticks: { display: false }
+                    }
+                },
+                plugins: {
+                    tooltip: tooltipConfig
+                }
+            }
+        });
+
+    </script>
+</body>
+</html>

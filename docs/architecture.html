@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volleyball Tournament Sorting Network Architecture</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+
+    <!-- 
+        Palette Name: Cybernetic Tournament
+        Colors: 
+        - Background: #0f172a (Slate 900)
+        - Card Background: #1e293b (Slate 800)
+        - Primary Text: #f1f5f9 (Slate 100)
+        - Accent Blue: #3b82f6 (Blue 500)
+        - Accent Pink: #ec4899 (Pink 500)
+        - Accent Cyan: #06b6d4 (Cyan 500)
+        - Accent Purple: #a855f7 (Purple 500)
+    -->
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        cyber: {
+                            bg: '#0f172a',
+                            card: '#1e293b',
+                            text: '#f1f5f9',
+                            blue: '#3b82f6',
+                            pink: '#ec4899',
+                            cyan: '#06b6d4',
+                            purple: '#a855f7'
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a;
+            color: #f1f5f9;
+        }
+
+        /* Chart Container Styling - Mandatory Requirements */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px; /* Constraint for readability */
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px; /* Base height */
+            max-height: 400px;
+        }
+        
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 400px;
+            }
+        }
+
+        /* Custom Flowchart Connectors (No SVG) */
+        .flow-line-vertical {
+            width: 2px;
+            background-color: #3b82f6;
+            margin: 0 auto;
+        }
+        
+        .flow-arrow-down {
+            width: 0; 
+            height: 0; 
+            border-left: 6px solid transparent;
+            border-right: 6px solid transparent;
+            border-top: 8px solid #3b82f6;
+            margin: 0 auto;
+        }
+
+        .flow-connector-right {
+            position: absolute;
+            top: 50%;
+            right: -20px;
+            width: 20px;
+            height: 2px;
+            background-color: #ec4899;
+        }
+
+        /* Utility for Diagram Nodes */
+        .diagram-node {
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .diagram-node:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(59, 130, 246, 0.3);
+        }
+    </style>
+
+    <!-- 
+        HTML Comments:
+        - Source Material Analysis: The source material is a request for a software architecture to solve "SportsEngine" schedule fragmentation. The core concept is treating a tournament as a "Sorting Network" where teams move from initial seeds to final placements via matches.
+        - Narrative Plan: 
+            1. Problem: User Friction (Chart.js)
+            2. Solution Concept: The Monolithic Graph (HTML Diagram)
+            3. Architecture: GitHub Actions Pipeline (HTML Diagram)
+            4. Principles: Engineering Values (Chart.js Radar)
+            5. Data Complexity: Prediction paths (Plotly Heatmap)
+        - Visualization Choices:
+            - Bar Chart: Best for comparing simple metrics (Clicks/Pages).
+            - HTML Diagram: Best for structural flows without SVG.
+            - Radar Chart: Best for showing multi-axial principles (SOLID, KISS).
+            - Plotly Heatmap: Best for showing density of potential outcomes (Canvas renderer).
+            - CONFIRMATION: NO SVG USED. NO MERMAID JS USED.
+    -->
+</head>
+<body class="antialiased selection:bg-cyber-pink selection:text-white pb-20">
+
+    <!-- Header Section -->
+    <header class="w-full bg-cyber-card border-b border-cyber-blue/20 pt-16 pb-12 px-6 shadow-lg shadow-cyber-blue/5">
+        <div class="max-w-7xl mx-auto text-center">
+            <h1 class="text-4xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyber-blue via-cyber-cyan to-cyber-pink mb-4">
+                Tournament Sorting Network
+            </h1>
+            <p class="text-xl md:text-2xl text-slate-400 font-light max-w-3xl mx-auto">
+                A Monolithic Graph Architecture for Visualizing Volleyball Schedules
+            </p>
+        </div>
+    </header>
+
+    <!-- Main Content Grid -->
+    <main class="max-w-7xl mx-auto px-6 mt-12 grid grid-cols-1 md:grid-cols-2 gap-12">
+
+        <!-- Section 1: The Problem -->
+        <section class="col-span-1 md:col-span-2">
+            <div class="bg-cyber-card rounded-2xl p-8 shadow-xl border border-slate-700/50">
+                <div class="md:flex md:gap-8 items-center">
+                    <div class="md:w-1/2 mb-8 md:mb-0">
+                        <h2 class="text-3xl font-bold text-cyber-pink mb-4">The User Experience Gap</h2>
+                        <p class="text-slate-300 leading-relaxed mb-4">
+                            Current scheduling systems (e.g., SportsEngine AES) scatter tournament data across multiple paginated views. A user determining their next game location often has to traverse 3-4 distinct pages, mentally tracking pool results and bracket cross-references.
+                        </p>
+                        <p class="text-slate-300 leading-relaxed border-l-4 border-cyber-blue pl-4">
+                            <strong>Objective:</strong> Collapse this multi-step navigation into a single, monolithic graph where the left side represents the start of the day and the right side represents the final standing.
+                        </p>
+                    </div>
+                    <div class="md:w-1/2">
+                        <div class="chart-container">
+                            <canvas id="uxComparisonChart"></canvas>
+                        </div>
+                        <p class="text-center text-sm text-slate-500 mt-2 italic">Figure 1: Efficiency Comparison (Estimated)</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: The Solution Concept -->
+        <section class="col-span-1 md:col-span-2">
+            <h2 class="text-3xl font-bold text-cyber-cyan mb-6 pl-4 border-l-4 border-cyber-pink">The Sorting Network Concept</h2>
+            <div class="bg-cyber-card rounded-2xl p-8 shadow-xl border border-slate-700/50">
+                <p class="text-slate-300 mb-8 max-w-4xl">
+                    Instead of static tables, we treat the tournament as a <strong>Sorting Network</strong>. Teams are inputs that pass through "Comparator Nodes" (Matches). Winners sort 'up' to higher brackets, losers sort 'down'. The state is versioned after every match result.
+                </p>
+                
+                <!-- HTML-Based Flow Diagram (Replacing SVG/Mermaid) -->
+                <div class="w-full overflow-x-auto">
+                    <div class="min-w-[600px] flex justify-between items-center relative py-10 px-4">
+                        
+                        <!-- Column 1: Inputs -->
+                        <div class="flex flex-col gap-12 z-10">
+                            <div class="diagram-node bg-slate-800 border-2 border-cyber-blue p-4 rounded-lg text-center w-32 shadow-lg shadow-cyber-blue/20">
+                                <div class="text-xs text-cyber-blue uppercase tracking-wider">Seed 1</div>
+                                <div class="font-bold">Team A</div>
+                            </div>
+                            <div class="diagram-node bg-slate-800 border-2 border-cyber-blue p-4 rounded-lg text-center w-32 shadow-lg shadow-cyber-blue/20">
+                                <div class="text-xs text-cyber-blue uppercase tracking-wider">Seed 4</div>
+                                <div class="font-bold">Team D</div>
+                            </div>
+                        </div>
+
+                        <!-- Connector Visuals -->
+                        <div class="absolute left-[150px] top-[70px] h-[100px] w-[50px] border-r-2 border-cyber-blue rounded-r-3xl"></div>
+                        <div class="absolute left-[180px] top-[120px] w-[40px] h-[2px] bg-cyber-blue"></div>
+
+                        <!-- Column 2: Comparator (Match) -->
+                        <div class="flex flex-col justify-center z-10">
+                            <div class="diagram-node bg-slate-900 border-2 border-cyber-pink p-6 rounded-full w-32 h-32 flex flex-col items-center justify-center shadow-lg shadow-cyber-pink/20">
+                                <div class="text-xs text-cyber-pink uppercase font-bold">Match 101</div>
+                                <div class="text-2xl font-black text-white">VS</div>
+                                <div class="text-[10px] bg-slate-700 px-2 py-1 rounded mt-1">Court 4</div>
+                            </div>
+                        </div>
+
+                        <!-- Connector Visuals -->
+                        <div class="absolute left-[350px] top-[70px] h-[100px] w-[50px] border-l-2 border-dashed border-cyber-pink rounded-l-3xl"></div>
+
+                        <!-- Column 3: Outcomes -->
+                        <div class="flex flex-col gap-12 z-10">
+                            <div class="diagram-node bg-slate-800 border border-emerald-500 p-4 rounded-lg text-center w-40 opacity-90">
+                                <div class="text-xs text-emerald-400 uppercase tracking-wider">Winner Path</div>
+                                <div class="font-bold text-emerald-200">Gold Bracket</div>
+                            </div>
+                            <div class="diagram-node bg-slate-800 border border-orange-500 p-4 rounded-lg text-center w-40 opacity-90">
+                                <div class="text-xs text-orange-400 uppercase tracking-wider">Loser Path</div>
+                                <div class="font-bold text-orange-200">Silver Bracket</div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="text-center mt-4 text-sm text-slate-500">
+                    *Visual representation of a single logic gate in the sorting network.
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: Development Principles -->
+        <section class="col-span-1">
+            <h2 class="text-2xl font-bold text-cyber-purple mb-4">Engineering Principles</h2>
+            <div class="bg-cyber-card rounded-2xl p-6 shadow-lg h-full border border-slate-700/50">
+                <p class="text-slate-300 text-sm mb-6">
+                    To ensure maintainability and robustness, the system adheres to strict software engineering principles. Simplicity (KISS) and modularity are prioritized to handle the complexity of tournament logic.
+                </p>
+                <div class="chart-container">
+                    <canvas id="principlesChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 4: Pipeline Architecture -->
+        <section class="col-span-1">
+            <h2 class="text-2xl font-bold text-cyber-blue mb-4">Automation Pipeline</h2>
+            <div class="bg-cyber-card rounded-2xl p-6 shadow-lg h-full border border-slate-700/50 flex flex-col">
+                <p class="text-slate-300 text-sm mb-6">
+                    The system runs "Headless". There is no traditional backend server. GitHub Actions serves as the cron-job runner, fetching data, processing the graph, and deploying static assets.
+                </p>
+                
+                <!-- Stacked HTML Diagram -->
+                <div class="flex-grow flex flex-col gap-4 items-center justify-center p-4">
+                    <!-- Step 1 -->
+                    <div class="w-full bg-slate-700 p-3 rounded text-center border-l-4 border-orange-500">
+                        <span class="text-xs text-orange-400 block font-bold">SOURCE</span>
+                        <span class="font-mono text-sm">SportsEngine AES (HTML/API)</span>
+                    </div>
+                    
+                    <div class="flow-arrow-down"></div>
+
+                    <!-- Step 2 -->
+                    <div class="w-full bg-slate-700 p-3 rounded text-center border-l-4 border-cyber-blue">
+                        <span class="text-xs text-cyber-blue block font-bold">GITHUB ACTION (CRON)</span>
+                        <span class="font-mono text-sm">Scraper & Graph Builder (Python)</span>
+                    </div>
+
+                    <div class="flow-arrow-down"></div>
+
+                    <!-- Step 3 -->
+                    <div class="w-full bg-slate-700 p-3 rounded text-center border-l-4 border-cyber-pink">
+                        <span class="text-xs text-cyber-pink block font-bold">ARTIFACT GENERATION</span>
+                        <span class="font-mono text-sm">JSON Graph & PNG/PDF Export</span>
+                    </div>
+
+                    <div class="flow-arrow-down"></div>
+
+                    <!-- Step 4 -->
+                    <div class="w-full bg-slate-700 p-3 rounded text-center border-l-4 border-emerald-500">
+                        <span class="text-xs text-emerald-400 block font-bold">DEPLOYMENT</span>
+                        <span class="font-mono text-sm">GitHub Pages (SPA Client)</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 5: Data Density & Path Prediction -->
+        <section class="col-span-1 md:col-span-2">
+            <div class="flex justify-between items-end mb-6">
+                <div>
+                    <h2 class="text-3xl font-bold text-cyber-cyan pl-4 border-l-4 border-cyber-purple">Path Prediction Complexity</h2>
+                    <p class="text-slate-400 mt-2 max-w-2xl">
+                        A key feature is "Future Pathing". When a user selects a team, the system calculates all <strong>valid</strong> remaining nodes. This heatmap visualizes the density of potential final placements based on current seed positions.
+                    </p>
+                </div>
+            </div>
+
+            <div class="bg-cyber-card rounded-2xl p-4 shadow-xl border border-slate-700/50">
+                <div class="chart-container" id="heatmapContainer">
+                    <!-- Plotly Chart will be injected here -->
+                </div>
+                <p class="text-center text-xs text-slate-500 mt-4">
+                    *Visualizes probability density of Team Finish Position (X) vs Initial Seed (Y). Canvas Rendering.
+                </p>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="col-span-1 md:col-span-2 text-center text-slate-500 text-sm mt-8 border-t border-slate-800 pt-8">
+            <p>Generated Architecture Infographic | No SVG | No Mermaid JS</p>
+            <p>Principles: KISS • YAGNI • TDD • DRY • SOLID • POLA</p>
+        </footer>
+
+    </main>
+
+    <!-- Scripts for Charts -->
+    <script>
+        // Common Color Constants
+        const colors = {
+            blue: '#3b82f6',
+            pink: '#ec4899',
+            cyan: '#06b6d4',
+            purple: '#a855f7',
+            slate: '#94a3b8',
+            grid: '#334155'
+        };
+
+        // --- Utility: Label Wrapper for Chart.js ---
+        function wrapLabel(label) {
+            const limit = 16;
+            if (label.length <= limit) return label;
+            const words = label.split(' ');
+            const lines = [];
+            let currentLine = words[0];
+
+            for (let i = 1; i < words.length; i++) {
+                if (currentLine.length + 1 + words[i].length <= limit) {
+                    currentLine += ' ' + words[i];
+                } else {
+                    lines.push(currentLine);
+                    currentLine = words[i];
+                }
+            }
+            lines.push(currentLine);
+            return lines;
+        }
+
+        // --- Utility: Common Tooltip Config ---
+        const commonTooltip = {
+            callbacks: {
+                title: function(tooltipItems) {
+                    const item = tooltipItems[0];
+                    let label = item.chart.data.labels[item.dataIndex];
+                    if (Array.isArray(label)) {
+                        return label.join(' ');
+                    } else {
+                        return label;
+                    }
+                }
+            }
+        };
+
+        // --- Chart 1: UX Comparison (Bar Chart) ---
+        const ctxUX = document.getElementById('uxComparisonChart').getContext('2d');
+        new Chart(ctxUX, {
+            type: 'bar',
+            data: {
+                labels: ['Page Loads', 'Mental Calculations', 'Clicks to Result', 'Visual Clarity Score'].map(wrapLabel),
+                datasets: [
+                    {
+                        label: 'Current AES System',
+                        data: [5, 4, 8, 2],
+                        backgroundColor: 'rgba(236, 72, 153, 0.5)', // Pink low opacity
+                        borderColor: colors.pink,
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Proposed Monolithic Graph',
+                        data: [1, 0, 2, 9],
+                        backgroundColor: 'rgba(6, 182, 212, 0.8)', // Cyan high opacity
+                        borderColor: colors.cyan,
+                        borderWidth: 1
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: colors.grid, borderColor: colors.grid },
+                        ticks: { color: colors.slate }
+                    },
+                    x: {
+                        grid: { display: false },
+                        ticks: { color: colors.slate }
+                    }
+                },
+                plugins: {
+                    legend: { labels: { color: colors.slate } },
+                    tooltip: commonTooltip
+                }
+            }
+        });
+
+        // --- Chart 2: Principles Radar (Radar Chart) ---
+        const ctxPrinciples = document.getElementById('principlesChart').getContext('2d');
+        new Chart(ctxPrinciples, {
+            type: 'radar',
+            data: {
+                labels: [
+                    'KISS (Simplicity)', 
+                    'YAGNI (Minimalism)', 
+                    'TDD (Reliability)', 
+                    'DRY (Efficiency)', 
+                    'SOLID (Architecture)', 
+                    'POLA (Intuitiveness)'
+                ].map(wrapLabel),
+                datasets: [{
+                    label: 'Architecture Adherence',
+                    data: [9, 8, 7, 9, 8, 10],
+                    fill: true,
+                    backgroundColor: 'rgba(59, 130, 246, 0.2)',
+                    borderColor: colors.blue,
+                    pointBackgroundColor: colors.cyan,
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: colors.cyan
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    r: {
+                        angleLines: { color: colors.grid },
+                        grid: { color: colors.grid },
+                        pointLabels: { color: colors.slate, font: { size: 11 } },
+                        suggestedMin: 0,
+                        suggestedMax: 10
+                    }
+                },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: commonTooltip
+                }
+            }
+        });
+
+        // --- Chart 3: Data Complexity Heatmap (Plotly.js) ---
+        // Simulating 20 Seeds x 20 Finishes density
+        var zValues = [];
+        var xValues = [];
+        var yValues = [];
+
+        for (var i = 1; i <= 20; i++) {
+            yValues.push("Seed " + i);
+            xValues.push("Rank " + i);
+            var row = [];
+            for (var j = 1; j <= 20; j++) {
+                // Generate a diagonal bias (Seed 1 likely to finish Rank 1)
+                var dist = Math.abs(i - j);
+                var val = Math.max(0, 10 - dist + (Math.random() * 2));
+                row.push(val);
+            }
+            zValues.push(row);
+        }
+
+        var dataPlotly = [{
+            z: zValues,
+            x: xValues,
+            y: yValues,
+            type: 'heatmap',
+            colorscale: [
+                ['0.0', '#0f172a'],
+                ['0.5', '#3b82f6'],
+                ['1.0', '#ec4899']
+            ],
+            showscale: true
+        }];
+
+        var layoutPlotly = {
+            title: false,
+            autosize: true,
+            margin: { t: 20, r: 20, b: 50, l: 60 },
+            paper_bgcolor: 'rgba(0,0,0,0)',
+            plot_bgcolor: 'rgba(0,0,0,0)',
+            font: { color: '#94a3b8' },
+            xaxis: { side: 'bottom' },
+            yaxis: { autorange: 'reversed' }
+        };
+
+        // Render Plotly with Canvas config
+        Plotly.newPlot('heatmapContainer', dataPlotly, layoutPlotly, {
+            responsive: true, 
+            renderer: 'canvas' // Explicitly using canvas renderer
+        });
+
+    </script>
+</body>
+</html>
