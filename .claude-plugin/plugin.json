@@ -1,0 +1,29 @@
+{
+  "name": "fullstack-python-spa-plan-impl",
+  "category": "architecture",
+  "version": "1.0.0",
+  "description": "Implementing a large multi-phase plan: Python async scraper backend + vanilla JS SPA from scratch, using TDD with respx mocking and inline fixtures",
+  "created": "2026-02-26",
+  "project": "TitanSchedule",
+  "tags": [
+    "python",
+    "httpx",
+    "asyncio",
+    "cytoscape",
+    "dagre",
+    "dag",
+    "tdd",
+    "respx",
+    "rest-api",
+    "spa",
+    "vanilla-js",
+    "tournament",
+    "graph"
+  ],
+  "skills": [
+    "skills/fullstack-python-spa-plan-impl/SKILL.md"
+  ],
+  "references": [
+    "references/notes.md"
+  ]
+}
