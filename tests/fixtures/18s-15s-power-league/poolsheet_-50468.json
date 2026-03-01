@@ -1,0 +1,572 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 75341,
+        "TeamName": "SynergyForce 15 Black",
+        "TeamCode": "g15force4nc",
+        "TeamText": "SynergyForce 15 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.2201834862385321,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 219120,
+        "TeamName": "Club Solano 16 Teal",
+        "TeamCode": "g16solno3nc",
+        "TeamText": "Club Solano 16 Teal (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.6866666666666666,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 2558,
+          "Name": "Club Solano"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "club solano 16 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 216270,
+        "TeamName": "Arbuckle 15",
+        "TeamCode": "g15arbkl1nc",
+        "TeamText": "Arbuckle 15 (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.51,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "arbuckle 15",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 7826,
+        "TeamName": "Empire 16 Power Jordan",
+        "TeamCode": "g16mpire2nc",
+        "TeamText": "Empire 16 Power Jordan (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.8055555555555556,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 power jordan",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50468,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg1Jan24SIlver CP2",
+    "CompleteFullName": "Lg1 Jan 24 Silver C Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52132,
+        "Name": "Vibe Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 75341,
+      "FirstTeamName": "SynergyForce 15 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 15 Black (NC)",
+      "SecondTeamId": 216270,
+      "SecondTeamName": "Arbuckle 15",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Arbuckle 15 (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 219120,
+      "WorkTeamText": "Club Solano 16 Teal (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50471,
+      "Court": {
+        "CourtId": -52132,
+        "Name": "Vibe Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T08:00:00",
+      "ScheduledEndDateTime": "2026-01-24T08:59:59"
+    },
+    {
+      "FirstTeamId": 219120,
+      "FirstTeamName": "Club Solano 16 Teal",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 16 Teal (NC)",
+      "SecondTeamId": 7826,
+      "SecondTeamName": "Empire 16 Power Jordan",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Empire 16 Power Jordan (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75341,
+      "WorkTeamText": "SynergyForce 15 Black (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50472,
+      "Court": {
+        "CourtId": -52132,
+        "Name": "Vibe Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T09:00:00",
+      "ScheduledEndDateTime": "2026-01-24T09:59:59"
+    },
+    {
+      "FirstTeamId": 75341,
+      "FirstTeamName": "SynergyForce 15 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 15 Black (NC)",
+      "SecondTeamId": 7826,
+      "SecondTeamName": "Empire 16 Power Jordan",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 16 Power Jordan (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216270,
+      "WorkTeamText": "Arbuckle 15 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50473,
+      "Court": {
+        "CourtId": -52132,
+        "Name": "Vibe Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T10:00:00",
+      "ScheduledEndDateTime": "2026-01-24T10:59:59"
+    },
+    {
+      "FirstTeamId": 219120,
+      "FirstTeamName": "Club Solano 16 Teal",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 16 Teal (NC)",
+      "SecondTeamId": 216270,
+      "SecondTeamName": "Arbuckle 15",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Arbuckle 15 (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 17,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75341,
+      "WorkTeamText": "SynergyForce 15 Black (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50474,
+      "Court": {
+        "CourtId": -52132,
+        "Name": "Vibe Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T11:00:00",
+      "ScheduledEndDateTime": "2026-01-24T11:59:59"
+    },
+    {
+      "FirstTeamId": 216270,
+      "FirstTeamName": "Arbuckle 15",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 15 (NC)",
+      "SecondTeamId": 7826,
+      "SecondTeamName": "Empire 16 Power Jordan",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 16 Power Jordan (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 13,
+          "ScoreText": "26-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 219120,
+      "WorkTeamText": "Club Solano 16 Teal (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50475,
+      "Court": {
+        "CourtId": -52132,
+        "Name": "Vibe Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T12:00:00",
+      "ScheduledEndDateTime": "2026-01-24T12:59:59"
+    },
+    {
+      "FirstTeamId": 75341,
+      "FirstTeamName": "SynergyForce 15 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 15 Black (NC)",
+      "SecondTeamId": 219120,
+      "SecondTeamName": "Club Solano 16 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Club Solano 16 Teal (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 7826,
+      "WorkTeamText": "Empire 16 Power Jordan (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50476,
+      "Court": {
+        "CourtId": -52132,
+        "Name": "Vibe Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T13:00:00",
+      "ScheduledEndDateTime": "2026-01-24T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Arbuckle 15 (NC)",
+      "Match": {
+        "MatchId": -50625,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50621,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Jan24XOSIlver C1v1",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52131,
+            "Name": "Vibe Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - SynergyForce 15 Black (NC)",
+      "Match": {
+        "MatchId": -50630,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50626,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Jan24XOSIlver C2v2",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52132,
+            "Name": "Vibe Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Empire 16 Power Jordan (NC)",
+      "Match": {
+        "MatchId": -50635,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50625,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50631,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Jan24XOSIlver C3v3",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52131,
+            "Name": "Vibe Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Club Solano 16 Teal (NC)",
+      "Match": {
+        "MatchId": -50640,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50636,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Jan24XOSIlver C4v4",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52132,
+            "Name": "Vibe Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

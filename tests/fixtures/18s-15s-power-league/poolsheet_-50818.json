@@ -1,0 +1,387 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 104145,
+        "TeamName": "Stingray Blue 15-2",
+        "TeamCode": "g15stray2nc",
+        "TeamText": "Stingray Blue 15-2 (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 1,
+        "MatchPercent": 0.5,
+        "SetsWon": 2,
+        "SetsLost": 3,
+        "SetPercent": 0.4,
+        "PointRatio": 0.9895833333333334,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 816,
+          "Name": "Stingray Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "stingray blue 15-2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206719,
+        "TeamName": "Morgan Hill 15 Black",
+        "TeamCode": "g15hmgnv1nc",
+        "TeamText": "Morgan Hill 15 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 4,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.4492753623188406,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 39067,
+        "TeamName": "Titan Travel 15 Elia",
+        "TeamCode": "g15titav2nc",
+        "TeamText": "Titan Travel 15 Elia (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 2,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 4,
+        "SetPercent": 0.2,
+        "PointRatio": 0.7297297297297297,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 15 elia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50818,
+    "FullName": "Pool 3",
+    "ShortName": "P3",
+    "CompleteShortName": "Lg2Jan25Bronze CP3",
+    "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 104145,
+      "FirstTeamName": "Stingray Blue 15-2",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Stingray Blue 15-2 (NC)",
+      "SecondTeamId": 39067,
+      "SecondTeamName": "Titan Travel 15 Elia",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 15 Elia (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 7,
+          "ScoreText": "15-7",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206719,
+      "WorkTeamText": "Morgan Hill 15 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50827,
+      "Court": {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:30:00",
+      "ScheduledEndDateTime": "2026-01-25T13:29:59"
+    },
+    {
+      "FirstTeamId": 206719,
+      "FirstTeamName": "Morgan Hill 15 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Morgan Hill 15 Black (NC)",
+      "SecondTeamId": 39067,
+      "SecondTeamName": "Titan Travel 15 Elia",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 15 Elia (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 104145,
+      "WorkTeamText": "Stingray Blue 15-2 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50828,
+      "Court": {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:30:00",
+      "ScheduledEndDateTime": "2026-01-25T14:29:59"
+    },
+    {
+      "FirstTeamId": 104145,
+      "FirstTeamName": "Stingray Blue 15-2",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Stingray Blue 15-2 (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 11,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 39067,
+      "WorkTeamText": "Titan Travel 15 Elia (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50829,
+      "Court": {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T14:30:00",
+      "ScheduledEndDateTime": "2026-01-25T15:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Morgan Hill 15 Black (NC)",
+      "Match": {
+        "MatchId": -50967,
+        "Court": {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:30:00",
+        "ScheduledEndDateTime": "2026-01-25T16:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50969,
+        "Court": {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T17:30:00",
+        "ScheduledEndDateTime": "2026-01-25T18:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50958,
+        "FullName": "Pool 1",
+        "ShortName": "P1",
+        "CompleteShortName": "Lg2Jan25XOBronze CP1",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52120,
+            "Name": "Oakland CC Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Stingray Blue 15-2 (NC)",
+      "Match": {
+        "MatchId": -50979,
+        "Court": {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:30:00",
+        "ScheduledEndDateTime": "2026-01-25T16:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50980,
+        "Court": {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T16:30:00",
+        "ScheduledEndDateTime": "2026-01-25T17:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50970,
+        "FullName": "Pool 2",
+        "ShortName": "P2",
+        "CompleteShortName": "Lg2Jan25XOBronze CP2",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52121,
+            "Name": "Oakland CC Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Titan Travel 15 Elia (NC)",
+      "Match": {
+        "MatchId": -50991,
+        "Court": {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:30:00",
+        "ScheduledEndDateTime": "2026-01-25T16:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50993,
+        "Court": {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T17:30:00",
+        "ScheduledEndDateTime": "2026-01-25T18:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50982,
+        "FullName": "Pool 3",
+        "ShortName": "P3",
+        "CompleteShortName": "Lg2Jan25XOBronze CP3",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52122,
+            "Name": "Oakland CC Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

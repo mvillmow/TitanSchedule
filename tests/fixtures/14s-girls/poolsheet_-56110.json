@@ -1,0 +1,132 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": null,
+        "TeamName": null,
+        "TeamCode": "",
+        "TeamText": "Loser of Lg2Mar14XOD11v1M1 (2)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": null,
+        "Division": null,
+        "SearchableTeamName": null,
+        "BidIdentification": null
+      },
+      {
+        "TeamId": null,
+        "TeamName": null,
+        "TeamCode": "",
+        "TeamText": "Winner of Lg2Mar14XOD12v2M1 (3)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": null,
+        "Division": null,
+        "SearchableTeamName": null,
+        "BidIdentification": null
+      },
+      {
+        "TeamId": null,
+        "TeamName": null,
+        "TeamCode": "",
+        "TeamText": "Winner of Lg2Mar14XOD21v1M1 (6)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": null,
+        "Division": null,
+        "SearchableTeamName": null,
+        "BidIdentification": null
+      },
+      {
+        "TeamId": null,
+        "TeamName": null,
+        "TeamCode": "",
+        "TeamText": "Winner of Lg2Mar14XOD22v2M1 (8)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": null,
+        "Division": null,
+        "SearchableTeamName": null,
+        "BidIdentification": null
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -56110,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3Apr4D1P2",
+    "CompleteFullName": "Lg 3 Apr 4 Division 1 Pool 2",
+    "Order": 0,
+    "Courts": []
+  },
+  "Matches": [],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg3Apr4D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg3Apr4D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg3Apr4D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg3Apr4D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

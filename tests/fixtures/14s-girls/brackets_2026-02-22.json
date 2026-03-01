@@ -1,0 +1,3650 @@
+[
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 88242,
+            "Name": "SynergyForce 14 Red",
+            "Code": "g14force7nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 161630,
+            "Name": "NorCal Supreme 14 Blue",
+            "Code": "g14116191nc",
+            "Club": {
+              "ClubId": 27377,
+              "Name": "NorCal Supreme Volleyball"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "SynergyForce 14 Red (NC) (1)",
+          "SecondTeamText": "NorCal Supreme 14 Blue (NC) (2)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 23,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 17,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-17",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 225522,
+            "Name": "ATN 14 Chloe",
+            "Code": "g14abtnt2nc",
+            "Club": {
+              "ClubId": 30992,
+              "Name": "Above The Net VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "ATN 14 Chloe (NC) (6)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55717,
+          "Court": {
+            "CourtId": -56402,
+            "Name": "ARC Ct.1",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - NorCal Supreme 14 Blue (NC) (2)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - SynergyForce 14 Red (NC) (1)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55609,
+    "FullName": "1 v 1",
+    "ShortName": "1v1",
+    "CompleteShortName": "Lg1Feb22XOD11v1",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 1 1 v 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56402,
+        "Name": "ARC Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 149335,
+            "Name": "AAVC 14-Black",
+            "Code": "g14auace1nc",
+            "Club": {
+              "ClubId": 23413,
+              "Name": "Auburn Aces Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 170918,
+            "Name": "Yuba Elite 14 Blue",
+            "Code": "g14yubae2nc",
+            "Club": {
+              "ClubId": 24557,
+              "Name": "Yuba Elite Volleyball club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "AAVC 14-Black (NC) (3)",
+          "SecondTeamText": "Yuba Elite 14 Blue (NC) (4)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 15,
+              "SecondTeamScore": 25,
+              "ScoreText": "15-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 23,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 15,
+              "SecondTeamScore": 10,
+              "ScoreText": "15-10",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 161631,
+            "Name": "NorCal Supreme 14 Red",
+            "Code": "g14116192nc",
+            "Club": {
+              "ClubId": 27377,
+              "Name": "NorCal Supreme Volleyball"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "NorCal Supreme 14 Red (NC) (8)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+          "MatchId": -55718,
+          "Court": {
+            "CourtId": -56403,
+            "Name": "ARC Ct.2",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - AAVC 14-Black (NC) (3)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Yuba Elite 14 Blue (NC) (4)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55613,
+    "FullName": "2 v 2",
+    "ShortName": "2v2",
+    "CompleteShortName": "Lg1Feb22XOD12v2",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 1 2 v 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56403,
+        "Name": "ARC Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 222898,
+            "Name": "Arbuckle 14 KJ",
+            "Code": "g14arbkl1nc",
+            "Club": {
+              "ClubId": 27487,
+              "Name": "Arbuckle VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 225522,
+            "Name": "ATN 14 Chloe",
+            "Code": "g14abtnt2nc",
+            "Club": {
+              "ClubId": 30992,
+              "Name": "Above The Net VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "Arbuckle 14 KJ (NC) (5)",
+          "SecondTeamText": "ATN 14 Chloe (NC) (6)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 14,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-14",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 24,
+              "SecondTeamScore": 26,
+              "ScoreText": "26-24",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 88242,
+            "Name": "SynergyForce 14 Red",
+            "Code": "g14force7nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "SynergyForce 14 Red (NC) (1)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55719,
+          "Court": {
+            "CourtId": -56402,
+            "Name": "ARC Ct.1",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - ATN 14 Chloe (NC) (6)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Arbuckle 14 KJ (NC) (5)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55617,
+    "FullName": "3 v 3",
+    "ShortName": "3v3",
+    "CompleteShortName": "Lg1Feb22XOD13v3",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 1 3 v 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56402,
+        "Name": "ARC Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 170390,
+            "Name": "NorCal Supreme 13 Blue",
+            "Code": "g13116191nc",
+            "Club": {
+              "ClubId": 27377,
+              "Name": "NorCal Supreme Volleyball"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 161631,
+            "Name": "NorCal Supreme 14 Red",
+            "Code": "g14116192nc",
+            "Club": {
+              "ClubId": 27377,
+              "Name": "NorCal Supreme Volleyball"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "NorCal Supreme 13 Blue (NC) (7)",
+          "SecondTeamText": "NorCal Supreme 14 Red (NC) (8)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 16,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-16",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 23,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 170918,
+            "Name": "Yuba Elite 14 Blue",
+            "Code": "g14yubae2nc",
+            "Club": {
+              "ClubId": 24557,
+              "Name": "Yuba Elite Volleyball club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "Yuba Elite 14 Blue (NC) (4)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55720,
+          "Court": {
+            "CourtId": -56403,
+            "Name": "ARC Ct.2",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - NorCal Supreme 14 Red (NC) (8)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - NorCal Supreme 13 Blue (NC) (7)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55621,
+    "FullName": "4 v 4",
+    "ShortName": "4v4",
+    "CompleteShortName": "Lg1Feb22XOD14v4",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 1 4 v 4",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56403,
+        "Name": "ARC Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 149885,
+            "Name": "MVC 14-1",
+            "Code": "g14lmtad1nc",
+            "Club": {
+              "ClubId": 26566,
+              "Name": "Motherlode Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 152064,
+            "Name": "NNJ 14 Aceenia",
+            "Code": "g14nnejr4nc",
+            "Club": {
+              "ClubId": 2874,
+              "Name": "Northern Nevada Juniors"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "MVC 14-1 (NC) (9)",
+          "SecondTeamText": "NNJ 14 Aceenia (NC) (10)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 27,
+              "ScoreText": "27-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 26,
+              "SecondTeamScore": 24,
+              "ScoreText": "24-26",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 7,
+              "SecondTeamScore": 15,
+              "ScoreText": "15-7",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 75336,
+            "Name": "SynergyForce 13 Red",
+            "Code": "g13force6nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "SynergyForce 13 Red (NC) (14)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55733,
+          "Court": {
+            "CourtId": -56404,
+            "Name": "ARC Ct.3",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - NNJ 14 Aceenia (NC) (10)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - MVC 14-1 (NC) (9)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55625,
+    "FullName": "1 v 1",
+    "ShortName": "1v1",
+    "CompleteShortName": "Lg1Feb22XOD21v1",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 2 1 v 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56404,
+        "Name": "ARC Ct.3",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 197459,
+            "Name": "Yuba Elite 14 Black",
+            "Code": "g14yubae3nc",
+            "Club": {
+              "ClubId": 24557,
+              "Name": "Yuba Elite Volleyball club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 192738,
+            "Name": "FPVC 14 Ethan",
+            "Code": "g14fpvcv4nc",
+            "Club": {
+              "ClubId": 7370,
+              "Name": "FPVC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "Yuba Elite 14 Black (NC) (11)",
+          "SecondTeamText": "FPVC 14 Ethan (NC) (12)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 16,
+              "ScoreText": "16-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 23,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 10,
+              "SecondTeamScore": 15,
+              "ScoreText": "15-10",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 130307,
+            "Name": "SynergyForce 14 White",
+            "Code": "g14force8nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "SynergyForce 14 White (NC) (16)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55734,
+          "Court": {
+            "CourtId": -56405,
+            "Name": "ARC Ct.4",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - FPVC 14 Ethan (NC) (12)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Yuba Elite 14 Black (NC) (11)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55629,
+    "FullName": "2 v 2",
+    "ShortName": "2v2",
+    "CompleteShortName": "Lg1Feb22XOD22v2",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 2 2 v 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56405,
+        "Name": "ARC Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 219338,
+            "Name": "EVC 14-Black",
+            "Code": "g14evsnv1nc",
+            "Club": {
+              "ClubId": 29857,
+              "Name": "Envision Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 75336,
+            "Name": "SynergyForce 13 Red",
+            "Code": "g13force6nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "EVC 14-Black (NC) (13)",
+          "SecondTeamText": "SynergyForce 13 Red (NC) (14)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 18,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-18",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 14,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-14",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 149885,
+            "Name": "MVC 14-1",
+            "Code": "g14lmtad1nc",
+            "Club": {
+              "ClubId": 26566,
+              "Name": "Motherlode Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "MVC 14-1 (NC) (9)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55735,
+          "Court": {
+            "CourtId": -56404,
+            "Name": "ARC Ct.3",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - SynergyForce 13 Red (NC) (14)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - EVC 14-Black (NC) (13)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55633,
+    "FullName": "3 v 3",
+    "ShortName": "3v3",
+    "CompleteShortName": "Lg1Feb22XOD23v3",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 2 3 v 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56404,
+        "Name": "ARC Ct.3",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 125056,
+            "Name": "Pulse 14 Pink",
+            "Code": "g14pulse2nc",
+            "Club": {
+              "ClubId": 6983,
+              "Name": "Pulse Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 130307,
+            "Name": "SynergyForce 14 White",
+            "Code": "g14force8nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "Pulse 14 Pink (NC) (15)",
+          "SecondTeamText": "SynergyForce 14 White (NC) (16)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 23,
+              "SecondTeamScore": 25,
+              "ScoreText": "23-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 21,
+              "ScoreText": "25-21",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 15,
+              "SecondTeamScore": 5,
+              "ScoreText": "15-5",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 197459,
+            "Name": "Yuba Elite 14 Black",
+            "Code": "g14yubae3nc",
+            "Club": {
+              "ClubId": 24557,
+              "Name": "Yuba Elite Volleyball club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "Yuba Elite 14 Black (NC) (11)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55736,
+          "Court": {
+            "CourtId": -56405,
+            "Name": "ARC Ct.4",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Pulse 14 Pink (NC) (15)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - SynergyForce 14 White (NC) (16)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55637,
+    "FullName": "4 v 4",
+    "ShortName": "4v4",
+    "CompleteShortName": "Lg1Feb22XOD24v4",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 2 4 v 4",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56405,
+        "Name": "ARC Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 170875,
+            "Name": "AAVC 14-Silver",
+            "Code": "g14auace2nc",
+            "Club": {
+              "ClubId": 23413,
+              "Name": "Auburn Aces Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 171001,
+            "Name": "OMNI 14 Premier I",
+            "Code": "g14omniv5nc",
+            "Club": {
+              "ClubId": 26543,
+              "Name": "OMNI Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "AAVC 14-Silver (NC) (17)",
+          "SecondTeamText": "OMNI 14 Premier I (NC) (18)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 22,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-22",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 26,
+              "SecondTeamScore": 24,
+              "ScoreText": "24-26",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 6,
+              "SecondTeamScore": 15,
+              "ScoreText": "15-6",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 207822,
+            "Name": "NNJ 14 Brooklyn",
+            "Code": "g14nnejr5nc",
+            "Club": {
+              "ClubId": 2874,
+              "Name": "Northern Nevada Juniors"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "NNJ 14 Brooklyn (NC) (22)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55749,
+          "Court": {
+            "CourtId": -56406,
+            "Name": "FMS Ct.1",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - OMNI 14 Premier I (NC) (18)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - AAVC 14-Silver (NC) (17)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55641,
+    "FullName": "1 v 1",
+    "ShortName": "1v1",
+    "CompleteShortName": "Lg1Feb22XOD31v1",
+    "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 1 v 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56406,
+        "Name": "FMS Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 223494,
+            "Name": "Stockton Ace 14-1",
+            "Code": "g14wvbn41nc",
+            "Club": {
+              "ClubId": 32625,
+              "Name": "Stockton Aces Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 225626,
+            "Name": "SPVC 14 Katelyn",
+            "Code": "g14spvcv2nc",
+            "Club": {
+              "ClubId": 7196,
+              "Name": "Sac Performance Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "Stockton Ace 14-1 (NC) (19)",
+          "SecondTeamText": "SPVC 14 Katelyn (NC) (20)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 12,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-12",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 22,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-22",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 149336,
+            "Name": "AAVC 13-Black",
+            "Code": "g13auace1nc",
+            "Club": {
+              "ClubId": 23413,
+              "Name": "Auburn Aces Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "AAVC 13-Black (NC) (24)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55750,
+          "Court": {
+            "CourtId": -56407,
+            "Name": "FMS Ct.2",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - SPVC 14 Katelyn (NC) (20)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Stockton Ace 14-1 (NC) (19)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55645,
+    "FullName": "2 v 2",
+    "ShortName": "2v2",
+    "CompleteShortName": "Lg1Feb22XOD32v2",
+    "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 2 v 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56407,
+        "Name": "FMS Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 225625,
+            "Name": "SPVC 14 Jacquie",
+            "Code": "g14spvcv3nc",
+            "Club": {
+              "ClubId": 7196,
+              "Name": "Sac Performance Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 207822,
+            "Name": "NNJ 14 Brooklyn",
+            "Code": "g14nnejr5nc",
+            "Club": {
+              "ClubId": 2874,
+              "Name": "Northern Nevada Juniors"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "SPVC 14 Jacquie (NC) (21)",
+          "SecondTeamText": "NNJ 14 Brooklyn (NC) (22)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 16,
+              "ScoreText": "25-16",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 16,
+              "ScoreText": "25-16",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 170875,
+            "Name": "AAVC 14-Silver",
+            "Code": "g14auace2nc",
+            "Club": {
+              "ClubId": 23413,
+              "Name": "Auburn Aces Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "AAVC 14-Silver (NC) (17)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55751,
+          "Court": {
+            "CourtId": -56406,
+            "Name": "FMS Ct.1",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - SPVC 14 Jacquie (NC) (21)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - NNJ 14 Brooklyn (NC) (22)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55649,
+    "FullName": "3 v 3",
+    "ShortName": "3v3",
+    "CompleteShortName": "Lg1Feb22XOD33v3",
+    "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 3 v 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56406,
+        "Name": "FMS Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 208735,
+            "Name": "FPVC 14 Derek",
+            "Code": "g14fpvcv5nc",
+            "Club": {
+              "ClubId": 7370,
+              "Name": "FPVC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 149336,
+            "Name": "AAVC 13-Black",
+            "Code": "g13auace1nc",
+            "Club": {
+              "ClubId": 23413,
+              "Name": "Auburn Aces Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "FPVC 14 Derek (NC) (23)",
+          "SecondTeamText": "AAVC 13-Black (NC) (24)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 23,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 9,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-9",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 223494,
+            "Name": "Stockton Ace 14-1",
+            "Code": "g14wvbn41nc",
+            "Club": {
+              "ClubId": 32625,
+              "Name": "Stockton Aces Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "Stockton Ace 14-1 (NC) (19)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55752,
+          "Court": {
+            "CourtId": -56407,
+            "Name": "FMS Ct.2",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - AAVC 13-Black (NC) (24)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - FPVC 14 Derek (NC) (23)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55653,
+    "FullName": "4 v 4",
+    "ShortName": "4v4",
+    "CompleteShortName": "Lg1Feb22XOD34v4",
+    "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 4 v 4",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56407,
+        "Name": "FMS Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 153030,
+            "Name": "SynergyForce 14 Blue",
+            "Code": "g14force9nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 217535,
+            "Name": "ACVC 13",
+            "Code": "g13acvbc1nc",
+            "Club": {
+              "ClubId": 32557,
+              "Name": "ACVC - Amador County Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "SynergyForce 14 Blue (NC) (25)",
+          "SecondTeamText": "ACVC 13 (NC) (26)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 23,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 26,
+              "SecondTeamScore": 24,
+              "ScoreText": "26-24",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 225325,
+            "Name": "Yuba Elite 14 Silver",
+            "Code": "g14yubae4nc",
+            "Club": {
+              "ClubId": 24557,
+              "Name": "Yuba Elite Volleyball club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "Yuba Elite 14 Silver (NC) (30)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+          "MatchId": -55765,
+          "Court": {
+            "CourtId": -56408,
+            "Name": "VDL AUX Ct.1",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - SynergyForce 14 Blue (NC) (25)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - ACVC 13 (NC) (26)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55657,
+    "FullName": "1 v 1",
+    "ShortName": "1v1",
+    "CompleteShortName": "Lg1Feb22XOD41v1",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 1 v 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56408,
+        "Name": "VDL AUX Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 170543,
+            "Name": "NNJ 13 Kaisa",
+            "Code": "g13nnejr2nc",
+            "Club": {
+              "ClubId": 2874,
+              "Name": "Northern Nevada Juniors"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 206878,
+            "Name": "Five Starz 14 White Chelsea",
+            "Code": "g14fives2nc",
+            "Club": {
+              "ClubId": 4308,
+              "Name": "Five Starz VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "NNJ 13 Kaisa (NC) (27)",
+          "SecondTeamText": "Five Starz 14 White Chelsea (NC) (28)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 15,
+              "ScoreText": "25-15",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 11,
+              "ScoreText": "25-11",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 194861,
+            "Name": "Aspire 14-4 White",
+            "Code": "g14folso4nc",
+            "Club": {
+              "ClubId": 6242,
+              "Name": "Aspire Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "Aspire 14-4 White (NC) (32)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+          "MatchId": -55766,
+          "Court": {
+            "CourtId": -56409,
+            "Name": "VDL AUX Ct.2",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:00:00",
+          "ScheduledEndDateTime": "2026-02-22T14:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - NNJ 13 Kaisa (NC) (27)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Five Starz 14 White Chelsea (NC) (28)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55661,
+    "FullName": "2 v 2",
+    "ShortName": "2v2",
+    "CompleteShortName": "Lg1Feb22XOD42v2",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 2 v 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56409,
+        "Name": "VDL AUX Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 153029,
+            "Name": "SynergyForce 13 Blue",
+            "Code": "g13force8nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 225325,
+            "Name": "Yuba Elite 14 Silver",
+            "Code": "g14yubae4nc",
+            "Club": {
+              "ClubId": 24557,
+              "Name": "Yuba Elite Volleyball club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "SynergyForce 13 Blue (NC) (29)",
+          "SecondTeamText": "Yuba Elite 14 Silver (NC) (30)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 20,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-20",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 17,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-17",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 217535,
+            "Name": "ACVC 13",
+            "Code": "g13acvbc1nc",
+            "Club": {
+              "ClubId": 32557,
+              "Name": "ACVC - Amador County Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "ACVC 13 (NC) (26)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55767,
+          "Court": {
+            "CourtId": -56408,
+            "Name": "VDL AUX Ct.1",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Yuba Elite 14 Silver (NC) (30)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - SynergyForce 13 Blue (NC) (29)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55665,
+    "FullName": "3 v 3",
+    "ShortName": "3v3",
+    "CompleteShortName": "Lg1Feb22XOD43v3",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 3 v 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56408,
+        "Name": "VDL AUX Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 90168,
+            "Name": "Aspire 14-3 Teal",
+            "Code": "g14folso3nc",
+            "Club": {
+              "ClubId": 6242,
+              "Name": "Aspire Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 194861,
+            "Name": "Aspire 14-4 White",
+            "Code": "g14folso4nc",
+            "Club": {
+              "ClubId": 6242,
+              "Name": "Aspire Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "Aspire 14-3 Teal (NC) (31)",
+          "SecondTeamText": "Aspire 14-4 White (NC) (32)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 21,
+              "ScoreText": "25-21",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 8,
+              "ScoreText": "25-8",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 206878,
+            "Name": "Five Starz 14 White Chelsea",
+            "Code": "g14fives2nc",
+            "Club": {
+              "ClubId": 4308,
+              "Name": "Five Starz VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "Five Starz 14 White Chelsea (NC) (28)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55768,
+          "Court": {
+            "CourtId": -56409,
+            "Name": "VDL AUX Ct.2",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T15:00:00",
+          "ScheduledEndDateTime": "2026-02-22T15:59:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Aspire 14-3 Teal (NC) (31)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Aspire 14-4 White (NC) (32)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55669,
+    "FullName": "4 v 4",
+    "ShortName": "4v4",
+    "CompleteShortName": "Lg1Feb22XOD44v4",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 4 v 4",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -56409,
+        "Name": "VDL AUX Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 171320,
+            "Name": "OMNI 14 Premier II",
+            "Code": "g14omniv6nc",
+            "Club": {
+              "ClubId": 26543,
+              "Name": "OMNI Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 154604,
+            "Name": "SynergyForce 14 Pink",
+            "Code": "g14force10nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "OMNI 14 Premier II (NC) (33)",
+          "SecondTeamText": "SynergyForce 14 Pink (NC) (34)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 18,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-18",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 18,
+              "ScoreText": "18-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 13,
+              "SecondTeamScore": 15,
+              "ScoreText": "15-13",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 163135,
+            "Name": "FPVC 13 Clara",
+            "Code": "g13fpvcv3nc",
+            "Club": {
+              "ClubId": 7370,
+              "Name": "FPVC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "FPVC 13 Clara (NC) (38)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55781,
+          "Court": {
+            "CourtId": -52784,
+            "Name": "OMNI Ct.6",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T13:30:00",
+          "ScheduledEndDateTime": "2026-02-22T14:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - SynergyForce 14 Pink (NC) (34)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - OMNI 14 Premier II (NC) (33)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55673,
+    "FullName": "1 v 1",
+    "ShortName": "1v1",
+    "CompleteShortName": "Lg1Feb22XOD51v1",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 1 v 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 207870,
+            "Name": "NNJ 13 Malia",
+            "Code": "g13nnejr3nc",
+            "Club": {
+              "ClubId": 2874,
+              "Name": "Northern Nevada Juniors"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 222899,
+            "Name": "Arbuckle 14 LK",
+            "Code": "g14arbkl2nc",
+            "Club": {
+              "ClubId": 27487,
+              "Name": "Arbuckle VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "NNJ 13 Malia (NC) (35)",
+          "SecondTeamText": "Arbuckle 14 LK (NC) (36)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 14,
+              "ScoreText": "14-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 9,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-9",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 7,
+              "SecondTeamScore": 15,
+              "ScoreText": "15-7",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 225477,
+            "Name": "OMNI 14 Premier III",
+            "Code": "g14omniv7nc",
+            "Club": {
+              "ClubId": 26543,
+              "Name": "OMNI Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "OMNI 14 Premier III (NC) (40)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55782,
+          "Court": {
+            "CourtId": -52785,
+            "Name": "OMNI Ct.7",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T13:30:00",
+          "ScheduledEndDateTime": "2026-02-22T14:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Arbuckle 14 LK (NC) (36)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - NNJ 13 Malia (NC) (35)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55677,
+    "FullName": "2 v 2",
+    "ShortName": "2v2",
+    "CompleteShortName": "Lg1Feb22XOD52v2",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 2 v 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 150334,
+            "Name": "SynergyForce 13 White",
+            "Code": "g13force7nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 163135,
+            "Name": "FPVC 13 Clara",
+            "Code": "g13fpvcv3nc",
+            "Club": {
+              "ClubId": 7370,
+              "Name": "FPVC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "SynergyForce 13 White (NC) (37)",
+          "SecondTeamText": "FPVC 13 Clara (NC) (38)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 5,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-5",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 13,
+              "ScoreText": "13-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 12,
+              "SecondTeamScore": 15,
+              "ScoreText": "15-12",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 171320,
+            "Name": "OMNI 14 Premier II",
+            "Code": "g14omniv6nc",
+            "Club": {
+              "ClubId": 26543,
+              "Name": "OMNI Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "OMNI 14 Premier II (NC) (33)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55783,
+          "Court": {
+            "CourtId": -52784,
+            "Name": "OMNI Ct.6",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:30:00",
+          "ScheduledEndDateTime": "2026-02-22T15:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - FPVC 13 Clara (NC) (38)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - SynergyForce 13 White (NC) (37)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55681,
+    "FullName": "3 v 3",
+    "ShortName": "3v3",
+    "CompleteShortName": "Lg1Feb22XOD53v3",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 3 v 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 161807,
+            "Name": "FPVC 13 Sophia",
+            "Code": "g13fpvcv4nc",
+            "Club": {
+              "ClubId": 7370,
+              "Name": "FPVC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 225477,
+            "Name": "OMNI 14 Premier III",
+            "Code": "g14omniv7nc",
+            "Club": {
+              "ClubId": 26543,
+              "Name": "OMNI Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "FPVC 13 Sophia (NC) (39)",
+          "SecondTeamText": "OMNI 14 Premier III (NC) (40)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 14,
+              "ScoreText": "25-14",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 23,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 207870,
+            "Name": "NNJ 13 Malia",
+            "Code": "g13nnejr3nc",
+            "Club": {
+              "ClubId": 2874,
+              "Name": "Northern Nevada Juniors"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "NNJ 13 Malia (NC) (35)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55784,
+          "Court": {
+            "CourtId": -52785,
+            "Name": "OMNI Ct.7",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:30:00",
+          "ScheduledEndDateTime": "2026-02-22T15:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - FPVC 13 Sophia (NC) (39)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - OMNI 14 Premier III (NC) (40)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55685,
+    "FullName": "4 v 4",
+    "ShortName": "4v4",
+    "CompleteShortName": "Lg1Feb22XOD54v4",
+    "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 4 v 4",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 225523,
+            "Name": "ATN 13 Ohana",
+            "Code": "g13abtnt1nc",
+            "Club": {
+              "ClubId": 30992,
+              "Name": "Above The Net VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 171733,
+            "Name": "SynergyForce 14 Teal",
+            "Code": "g14force11nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "ATN 13 Ohana (NC) (41)",
+          "SecondTeamText": "SynergyForce 14 Teal (NC) (42)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 17,
+              "ScoreText": "25-17",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 10,
+              "ScoreText": "25-10",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 170617,
+            "Name": "SynergyForce 13 Pink",
+            "Code": "g13force9nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "SynergyForce 13 Pink (NC) (46)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+          "MatchId": -55797,
+          "Court": {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T13:30:00",
+          "ScheduledEndDateTime": "2026-02-22T14:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - ATN 13 Ohana (NC) (41)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - SynergyForce 14 Teal (NC) (42)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55689,
+    "FullName": "1 v 1",
+    "ShortName": "1v1",
+    "CompleteShortName": "Lg1Feb22XOD61v1",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 6 1 v 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 170779,
+            "Name": "NorCal Supreme 13 Red",
+            "Code": "g13116192nc",
+            "Club": {
+              "ClubId": 27377,
+              "Name": "NorCal Supreme Volleyball"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 225627,
+            "Name": "SPVC 14 Nicole",
+            "Code": "g14spvcv4nc",
+            "Club": {
+              "ClubId": 7196,
+              "Name": "Sac Performance Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "NorCal Supreme 13 Red (NC) (43)",
+          "SecondTeamText": "SPVC 14 Nicole (NC) (44)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 7,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-7",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 28,
+              "SecondTeamScore": 30,
+              "ScoreText": "30-28",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 171350,
+            "Name": "Aspire 13-3 Teal",
+            "Code": "g13folso3nc",
+            "Club": {
+              "ClubId": 6242,
+              "Name": "Aspire Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "Aspire 13-3 Teal (NC) (48)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -55798,
+          "Court": {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T13:30:00",
+          "ScheduledEndDateTime": "2026-02-22T14:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - SPVC 14 Nicole (NC) (44)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - NorCal Supreme 13 Red (NC) (43)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55693,
+    "FullName": "2 v 2",
+    "ShortName": "2v2",
+    "CompleteShortName": "Lg1Feb22XOD62v2",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 6 2 v 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 225136,
+            "Name": "Five Starz 13 White Padri",
+            "Code": "g13fives2nc",
+            "Club": {
+              "ClubId": 4308,
+              "Name": "Five Starz VBC"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 170617,
+            "Name": "SynergyForce 13 Pink",
+            "Code": "g13force9nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "Five Starz 13 White Padri (NC) (45)",
+          "SecondTeamText": "SynergyForce 13 Pink (NC) (46)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": true,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": 22,
+              "SecondTeamScore": 25,
+              "ScoreText": "22-25",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 25,
+              "SecondTeamScore": 23,
+              "ScoreText": "25-23",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 16,
+              "SecondTeamScore": 14,
+              "ScoreText": "16-14",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 171733,
+            "Name": "SynergyForce 14 Teal",
+            "Code": "g14force11nc",
+            "Club": {
+              "ClubId": 595,
+              "Name": "SynergyForce Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "SynergyForce 14 Teal (NC) (42)",
+          "TypeOfOutcome": 1,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55799,
+          "Court": {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:30:00",
+          "ScheduledEndDateTime": "2026-02-22T15:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Five Starz 13 White Padri (NC) (45)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - SynergyForce 13 Pink (NC) (46)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55697,
+    "FullName": "3 v 3",
+    "ShortName": "3v3",
+    "CompleteShortName": "Lg1Feb22XOD63v3",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 6 3 v 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": {
+            "TeamId": 187958,
+            "Name": "Aspire 13-4 White",
+            "Code": "g13folso4nc",
+            "Club": {
+              "ClubId": 6242,
+              "Name": "Aspire Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "SecondTeam": {
+            "TeamId": 171350,
+            "Name": "Aspire 13-3 Teal",
+            "Code": "g13folso3nc",
+            "Club": {
+              "ClubId": 6242,
+              "Name": "Aspire Volleyball Club"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "FirstTeamText": "Aspire 13-4 White (NC) (47)",
+          "SecondTeamText": "Aspire 13-3 Teal (NC) (48)",
+          "FullName": "Match 1",
+          "ShortName": "M1",
+          "HasScores": true,
+          "FirstTeamWon": false,
+          "SecondTeamWon": true,
+          "Sets": [
+            {
+              "FirstTeamScore": 12,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-12",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": 12,
+              "SecondTeamScore": 25,
+              "ScoreText": "25-12",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": {
+            "TeamId": 170779,
+            "Name": "NorCal Supreme 13 Red",
+            "Code": "g13116192nc",
+            "Club": {
+              "ClubId": 27377,
+              "Name": "NorCal Supreme Volleyball"
+            },
+            "Division": {
+              "DivisionId": 199194,
+              "Name": "14s Girls",
+              "TeamCount": 48,
+              "CodeAlias": "14s Girls",
+              "ColorHex": "#DF5F9F"
+            },
+            "BidIdentification": {
+              "BidStatus": 0,
+              "DivisionId": 0,
+              "Alias": "None"
+            }
+          },
+          "WorkTeamText": "NorCal Supreme 13 Red (NC) (43)",
+          "TypeOfOutcome": 2,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+          "MatchId": -55800,
+          "Court": {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          },
+          "ScheduledStartDateTime": "2026-02-22T14:30:00",
+          "ScheduledEndDateTime": "2026-02-22T15:29:59.9999999"
+        },
+        "TopSource": null,
+        "BottomSource": null
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Aspire 13-3 Teal (NC) (48)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Aspire 13-4 White (NC) (47)",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -55701,
+    "FullName": "4 v 4",
+    "ShortName": "4v4",
+    "CompleteShortName": "Lg1Feb22XOD64v4",
+    "CompleteFullName": "Lg 1 Feb 22 XO Division 6 4 v 4",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  }
+]

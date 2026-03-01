@@ -1,0 +1,2756 @@
+[
+  {
+    "Teams": [
+      {
+        "TeamId": 2135,
+        "TeamName": "Empire 17 National",
+        "TeamCode": "g17mpire1nc",
+        "TeamText": "Empire 17 National (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.0806451612903225,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 17 national",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 174691,
+        "TeamName": "Adrenaline - Dreux 18-1",
+        "TeamCode": "g18avcrc1nc",
+        "TeamText": "Adrenaline - Dreux 18-1 (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.4018691588785046,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 28971,
+          "Name": "Adrenaline Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "adrenaline - dreux 18-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165596,
+        "TeamName": "OMNI 17 Power",
+        "TeamCode": "g17omniv3nc",
+        "TeamText": "OMNI 17 Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.7733333333333333,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 17 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 128937,
+        "TeamName": "SynergyForce 17 Gold",
+        "TeamCode": "g17force3nc",
+        "TeamText": "SynergyForce 17 Gold (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.8633093525179856,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 17 gold",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50996,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Gold AP1",
+    "CompleteFullName": "Lg3 Feb 28 Gold A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 7656,
+        "TeamName": "Empire 16 National",
+        "TeamCode": "g16mpire1nc",
+        "TeamText": "Empire 16 National (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.28,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 national",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180801,
+        "TeamName": "NorCal Supreme 18  Blue",
+        "TeamCode": "g18116191nc",
+        "TeamText": "NorCal Supreme 18  Blue (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7116564417177914,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "norcal supreme 18  blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 100744,
+        "TeamName": "SynergyForce 16 Gold",
+        "TeamCode": "g16force3nc",
+        "TeamText": "SynergyForce 16 Gold (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.018987341772152,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 16 gold",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 31883,
+        "TeamName": "Aspire 16-1 Black",
+        "TeamCode": "g16folso1nc",
+        "TeamText": "Aspire 16-1 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.0566037735849056,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 16-1 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51005,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Gold AP2",
+    "CompleteFullName": "Lg3 Feb 28 Gold A Pool 2",
+    "Order": 1,
+    "Courts": [
+      {
+        "CourtId": -54681,
+        "Name": "Grounds Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 215951,
+        "TeamName": "MVC 17",
+        "TeamCode": "g17lmtad2nc",
+        "TeamText": "MVC 17 (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.2195121951219512,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 26566,
+          "Name": "Motherlode Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "mvc 17",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 150683,
+        "TeamName": "VVA 15-DenHartog",
+        "TeamCode": "g15vavbc2nc",
+        "TeamText": "VVA 15-DenHartog (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.8589743589743589,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 27398,
+          "Name": "Valley Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "vva 15-denhartog",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75344,
+        "TeamName": "SynergyForce 16 Black",
+        "TeamCode": "g16force4nc",
+        "TeamText": "SynergyForce 16 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.0827067669172932,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 16 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 217532,
+        "TeamName": "ACVC 16 White",
+        "TeamCode": "g16acvbc1nc",
+        "TeamText": "ACVC 16 White (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.8980891719745223,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 32557,
+          "Name": "ACVC - Amador County Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "acvc 16 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51015,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Gold BP1",
+    "CompleteFullName": "Lg3 Feb 28 Gold B Pool 1",
+    "Order": 2,
+    "Courts": [
+      {
+        "CourtId": -54682,
+        "Name": "Grounds Ct.3",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 216272,
+        "TeamName": "Arbuckle 17 Lauren",
+        "TeamCode": "g17arbkl2nc",
+        "TeamText": "Arbuckle 17 Lauren (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.3636363636363635,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "arbuckle 17 lauren",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 128938,
+        "TeamName": "SynergyForce 17 Black",
+        "TeamCode": "g17force4nc",
+        "TeamText": "SynergyForce 17 Black (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.9030303030303031,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 17 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 86785,
+        "TeamName": "City Beach 17-Green",
+        "TeamCode": "g17beach2nc",
+        "TeamText": "City Beach 17-Green (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 1.1079136690647482,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 17-green",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 198426,
+        "TeamName": "OMNI 18 Power",
+        "TeamCode": "g18omniv3nc",
+        "TeamText": "OMNI 18 Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7592592592592593,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 18 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51024,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Gold BP2",
+    "CompleteFullName": "Lg3 Feb 28 Gold B Pool 2",
+    "Order": 3,
+    "Courts": [
+      {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 165181,
+        "TeamName": "NNJ 17 Chin",
+        "TeamCode": "g17nnejr2nc",
+        "TeamText": "NNJ 17 Chin (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.2230769230769232,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "nnj 17 chin",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27884,
+        "TeamName": "Titan Travel 18 Misha",
+        "TeamCode": "g18titav2nc",
+        "TeamText": "Titan Travel 18 Misha (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.7533333333333333,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 18 misha",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165594,
+        "TeamName": "OMNI 16 Prime",
+        "TeamCode": "g16omniv4nc",
+        "TeamText": "OMNI 16 Prime (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.8802816901408451,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 16 prime",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165182,
+        "TeamName": "NNJ 17 Justin",
+        "TeamCode": "g17nnejr3nc",
+        "TeamText": "NNJ 17 Justin (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 2,
+        "SetPercent": 0.7142857142857143,
+        "PointRatio": 1.2,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "nnj 17 justin",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51034,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Gold CP1",
+    "CompleteFullName": "Lg3 Feb 28 Gold C Pool 1",
+    "Order": 4,
+    "Courts": [
+      {
+        "CourtId": -54684,
+        "Name": "Grounds Ct.5",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 216196,
+        "TeamName": "Gallant 18 White",
+        "TeamCode": "g18gallaznc",
+        "TeamText": "Gallant 18 White (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.74,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 31217,
+          "Name": "Gallant Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "gallant 18 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 16635,
+        "TeamName": "Empire 15 National",
+        "TeamCode": "g15mpire1nc",
+        "TeamText": "Empire 15 National (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.5377358490566038,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 national",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 153480,
+        "TeamName": "NorCal Supreme 17 Blue",
+        "TeamCode": "g17116191nc",
+        "TeamText": "NorCal Supreme 17 Blue (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.025,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "norcal supreme 17 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 59871,
+        "TeamName": "Club Solano 18 Maroon",
+        "TeamCode": "g18solno1nc",
+        "TeamText": "Club Solano 18 Maroon (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 0.8607594936708861,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2558,
+          "Name": "Club Solano"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "club solano 18 maroon",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51043,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Gold CP2",
+    "CompleteFullName": "Lg3 Feb 28 Gold C Pool 2",
+    "Order": 5,
+    "Courts": [
+      {
+        "CourtId": -54685,
+        "Name": "Grounds Ct.6",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 100743,
+        "TeamName": "SynergyForce 15 Gold",
+        "TeamCode": "g15force3nc",
+        "TeamText": "SynergyForce 15 Gold (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 0.9493670886075949,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 gold",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 142325,
+        "TeamName": "Aspire 16-2 Pink",
+        "TeamCode": "g16folso2nc",
+        "TeamText": "Aspire 16-2 Pink (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 2,
+        "SetPercent": 0.7142857142857143,
+        "PointRatio": 1.3360655737704918,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 16-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75341,
+        "TeamName": "SynergyForce 15 Black",
+        "TeamCode": "g15force4nc",
+        "TeamText": "SynergyForce 15 Black (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7349397590361446,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 32274,
+        "TeamName": "Aspire 15-1 Black",
+        "TeamCode": "g15folso1nc",
+        "TeamText": "Aspire 15-1 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 1.0723684210526316,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 15-1 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51053,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Silver AP1",
+    "CompleteFullName": "Lg3 Feb 28 Silver A Pool 1",
+    "Order": 6,
+    "Courts": [
+      {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 143083,
+        "TeamName": "Vibe 17's-Velocity",
+        "TeamCode": "g17vvibe1nc",
+        "TeamText": "Vibe 17's-Velocity (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.9806451612903225,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 24675,
+          "Name": "Vibe VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "vibe 17's-velocity",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165589,
+        "TeamName": "OMNI 15 Power",
+        "TeamCode": "g15omniv3nc",
+        "TeamText": "OMNI 15 Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.9,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 15 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165883,
+        "TeamName": "Five Starz 15 Black Jon",
+        "TeamCode": "g15fives1nc",
+        "TeamText": "Five Starz 15 Black Jon (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 2,
+        "SetPercent": 0.7142857142857143,
+        "PointRatio": 1.1159420289855073,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 4308,
+          "Name": "Five Starz VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "five starz 15 black jon",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 2446,
+        "TeamName": "Gold Cal Jrs Air 15-1",
+        "TeamCode": "g15gldcl1nc",
+        "TeamText": "Gold Cal Jrs Air 15-1 (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.0251572327044025,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 549,
+          "Name": "Gold Cal Jrs VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "gold cal jrs air 15-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51062,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Silver AP2",
+    "CompleteFullName": "Lg3 Feb 28 Silver A Pool 2",
+    "Order": 7,
+    "Courts": [
+      {
+        "CourtId": -54687,
+        "Name": "Grounds Ct.8",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 206717,
+        "TeamName": "Morgan Hill 18 Elite",
+        "TeamCode": "g18hmgnv1nc",
+        "TeamText": "Morgan Hill 18 Elite (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.3508771929824561,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 18 elite",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 168642,
+        "TeamName": "Yuba Elite 16 Pink",
+        "TeamCode": "g16yubae1nc",
+        "TeamText": "Yuba Elite 16 Pink (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 1.0902777777777777,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 24557,
+          "Name": "Yuba Elite Volleyball club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "yuba elite 16 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180276,
+        "TeamName": "Fusion 16 Titanium",
+        "TeamCode": "g16fuvbc1nc",
+        "TeamText": "Fusion 16 Titanium (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 1.0,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 16 titanium",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 178665,
+        "TeamName": "MARIN 16 Fire",
+        "TeamCode": "g16marin4nc",
+        "TeamText": "MARIN 16 Fire (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.6490066225165563,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 3844,
+          "Name": "MARIN VOLLEYBALL"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "marin 16 fire",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51072,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Silver BP1",
+    "CompleteFullName": "Lg3 Feb 28 Silver B Pool 1",
+    "Order": 8,
+    "Courts": [
+      {
+        "CourtId": -54688,
+        "Name": "Grounds Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 1403,
+        "TeamName": "City Beach 16-Green",
+        "TeamCode": "g16beach2nc",
+        "TeamText": "City Beach 16-Green (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.4107142857142858,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 16-green",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180346,
+        "TeamName": "UVA 17 Power",
+        "TeamCode": "g17ucelt3nc",
+        "TeamText": "UVA 17 Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7625,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 17 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 142326,
+        "TeamName": "Aspire 15-2 Pink",
+        "TeamCode": "g15folso2nc",
+        "TeamText": "Aspire 15-2 Pink (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 0.9548387096774194,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 15-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 226787,
+        "TeamName": "Adrenaline - Todd 15-1",
+        "TeamCode": "g15avcrc1nc",
+        "TeamText": "Adrenaline - Todd 15-1 (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 4,
+        "SetPercent": 0.5555555555555556,
+        "PointRatio": 0.9942857142857143,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 28971,
+          "Name": "Adrenaline Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "adrenaline - todd 15-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51081,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Silver BP2",
+    "CompleteFullName": "Lg3 Feb 28 Silver B Pool 2",
+    "Order": 9,
+    "Courts": [
+      {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 216270,
+        "TeamName": "Arbuckle 15",
+        "TeamCode": "g15arbkl1nc",
+        "TeamText": "Arbuckle 15 (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 3,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.04093567251462,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "arbuckle 15",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 131808,
+        "TeamName": "Aspire 17-2 Pink",
+        "TeamCode": "g17folso1nc",
+        "TeamText": "Aspire 17-2 Pink (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.129251700680272,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 17-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 150684,
+        "TeamName": "VVA 15-Talavera",
+        "TeamCode": "g15vavbc3nc",
+        "TeamText": "VVA 15-Talavera (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.1258278145695364,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 27398,
+          "Name": "Valley Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "vva 15-talavera",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 7826,
+        "TeamName": "Empire 16 Power Jordan",
+        "TeamCode": "g16mpire2nc",
+        "TeamText": "Empire 16 Power Jordan (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.725609756097561,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 power jordan",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51091,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Silver CP1",
+    "CompleteFullName": "Lg3 Feb 28 Silver C Pool 1",
+    "Order": 10,
+    "Courts": [
+      {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 210888,
+        "TeamName": "Raze AP 17/18s Power",
+        "TeamCode": "g18raze11nc",
+        "TeamText": "Raze AP 17/18s Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 5,
+        "SetPercent": 0.4444444444444444,
+        "PointRatio": 0.953757225433526,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 31794,
+          "Name": "Raze Athletic Prep"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "raze ap 17/18s power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27880,
+        "TeamName": "Titan Travel 16 Taylor",
+        "TeamCode": "g16titav2nc",
+        "TeamText": "Titan Travel 16 Taylor (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.783625730994152,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 16 taylor",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165191,
+        "TeamName": "NNJ 15 Hannah",
+        "TeamCode": "g15nnejr3nc",
+        "TeamText": "NNJ 15 Hannah (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 4,
+        "SetPercent": 0.5555555555555556,
+        "PointRatio": 1.1118012422360248,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "nnj 15 hannah",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 200114,
+        "TeamName": "MARIN 15 Fire",
+        "TeamCode": "g15marin4nc",
+        "TeamText": "MARIN 15 Fire (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.2,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 3844,
+          "Name": "MARIN VOLLEYBALL"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "marin 15 fire",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51100,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Silver CP2",
+    "CompleteFullName": "Lg3 Feb 28 Silver C Pool 2",
+    "Order": 11,
+    "Courts": [
+      {
+        "CourtId": -54691,
+        "Name": "Grounds Ct.12",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 218131,
+        "TeamName": "Gallant 16-White",
+        "TeamCode": "g16gallaanc",
+        "TeamText": "Gallant 16-White (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7987421383647799,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 31217,
+          "Name": "Gallant Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "gallant 16-white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170531,
+        "TeamName": "UVA 16 Power",
+        "TeamCode": "g16ucelt3nc",
+        "TeamText": "UVA 16 Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.9119496855345912,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 16 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75345,
+        "TeamName": "SynergyForce 16 Silver",
+        "TeamCode": "g16force5nc",
+        "TeamText": "SynergyForce 16 Silver (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 2,
+        "SetPercent": 0.75,
+        "PointRatio": 1.1342281879194631,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 16 silver",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 48399,
+        "TeamName": "City Beach 15-Green",
+        "TeamCode": "g15beach2nc",
+        "TeamText": "City Beach 15-Green (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 2,
+        "SetPercent": 0.7142857142857143,
+        "PointRatio": 1.1897810218978102,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 15-green",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51872,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Bronze AP1",
+    "CompleteFullName": "Lg3 Feb 28 Bronze A Pool 1",
+    "Order": 12,
+    "Courts": [
+      {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 182547,
+        "TeamName": "OMNI 16 Pulse",
+        "TeamCode": "g16omniv5nc",
+        "TeamText": "OMNI 16 Pulse (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.9127906976744186,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 16 pulse",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180277,
+        "TeamName": "Fusion 16 Steel",
+        "TeamCode": "g16fuvbc2nc",
+        "TeamText": "Fusion 16 Steel (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.0,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 16 steel",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27472,
+        "TeamName": "Empire 15 Power Ryan",
+        "TeamCode": "g15mpire2nc",
+        "TeamText": "Empire 15 Power Ryan (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.1824817518248176,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 power ryan",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 219120,
+        "TeamName": "Club Solano 16 Teal",
+        "TeamCode": "g16solno3nc",
+        "TeamText": "Club Solano 16 Teal (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.9358974358974359,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2558,
+          "Name": "Club Solano"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "club solano 16 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51881,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Bronze AP2",
+    "CompleteFullName": "Lg3 Feb 28 Bronze A Pool 2",
+    "Order": 13,
+    "Courts": [
+      {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 217533,
+        "TeamName": "ACVC 16 Blue",
+        "TeamCode": "g16acvbc2nc",
+        "TeamText": "ACVC 16 Blue (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.8614457831325302,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 32557,
+          "Name": "ACVC - Amador County Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "acvc 16 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 113726,
+        "TeamName": "Stingray Blue 16-2",
+        "TeamCode": "g16stray2nc",
+        "TeamText": "Stingray Blue 16-2 (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.1041666666666667,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 816,
+          "Name": "Stingray Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "stingray blue 16-2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 89908,
+        "TeamName": "Titan Select 15 Hanah",
+        "TeamCode": "g15titav1nc",
+        "TeamText": "Titan Select 15 Hanah (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 2,
+        "SetPercent": 0.75,
+        "PointRatio": 1.3181818181818181,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan select 15 hanah",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206719,
+        "TeamName": "Morgan Hill 15 Black",
+        "TeamCode": "g15hmgnv1nc",
+        "TeamText": "Morgan Hill 15 Black (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.7888198757763976,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51890,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Bronze BP1",
+    "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 1",
+    "Order": 14,
+    "Courts": [
+      {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 225586,
+        "TeamName": "Morgan Hill 16U",
+        "TeamCode": "g16hmgnv1nc",
+        "TeamText": "Morgan Hill 16U (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 0.8289473684210527,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 16u",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27029,
+        "TeamName": "City Beach 16-White",
+        "TeamCode": "g16beach3nc",
+        "TeamText": "City Beach 16-White (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 2,
+        "SetPercent": 0.75,
+        "PointRatio": 1.1891891891891893,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 16-white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 164509,
+        "TeamName": "UVA 15 Power",
+        "TeamCode": "g15ucelt3nc",
+        "TeamText": "UVA 15 Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.006578947368421,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 15 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75342,
+        "TeamName": "SynergyForce 15 Silver",
+        "TeamCode": "g15force5nc",
+        "TeamText": "SynergyForce 15 Silver (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.9797297297297297,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 silver",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51899,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Bronze BP2",
+    "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 2",
+    "Order": 15,
+    "Courts": [
+      {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 182270,
+        "TeamName": "Fusion 15 Titanium",
+        "TeamCode": "g15fuvbc1nc",
+        "TeamText": "Fusion 15 Titanium (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 2,
+        "SetPercent": 0.7142857142857143,
+        "PointRatio": 1.2941176470588236,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 15 titanium",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 197452,
+        "TeamName": "Fusion 15 Steel",
+        "TeamCode": "g15fuvbc2nc",
+        "TeamText": "Fusion 15 Steel (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 0.9219858156028369,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 15 steel",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27473,
+        "TeamName": "Empire 16 Power Bella",
+        "TeamCode": "g16mpire3nc",
+        "TeamText": "Empire 16 Power Bella (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.8831168831168831,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 power bella",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 39067,
+        "TeamName": "Titan Travel 15 Elia",
+        "TeamCode": "g15titav2nc",
+        "TeamText": "Titan Travel 15 Elia (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.9555555555555556,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 15 elia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51110,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Bronze CP1",
+    "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 1",
+    "Order": 16,
+    "Courts": [
+      {
+        "CourtId": -54696,
+        "Name": "Grounds Ct.17",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 165591,
+        "TeamName": "OMNI 15 Prime",
+        "TeamCode": "g15omniv4nc",
+        "TeamText": "OMNI 15 Prime (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.3070866141732282,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 15 prime",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 104145,
+        "TeamName": "Stingray Blue 15-2",
+        "TeamCode": "g15stray2nc",
+        "TeamText": "Stingray Blue 15-2 (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.0434782608695652,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 816,
+          "Name": "Stingray Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "stingray blue 15-2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 63191,
+        "TeamName": "Empire 15 Power Jack",
+        "TeamCode": "g15mpire3nc",
+        "TeamText": "Empire 15 Power Jack (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.077922077922078,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 power jack",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 221171,
+        "TeamName": "Lakas 15 Power 2",
+        "TeamCode": "g15laiat3nc",
+        "TeamText": "Lakas 15 Power 2 (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.6441717791411042,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 5993,
+          "Name": "Lakas "
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "lakas 15 power 2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51122,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Bronze CP2",
+    "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 2",
+    "Order": 17,
+    "Courts": [
+      {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      }
+    ]
+  }
+]

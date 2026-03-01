@@ -1,0 +1,184 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 219338,
+        "TeamName": "EVC 14-Black",
+        "TeamCode": "g14evsnv1nc",
+        "TeamText": "EVC 14-Black (NC) (14)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 29857,
+          "Name": "Envision Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "evc 14-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 130307,
+        "TeamName": "SynergyForce 14 White",
+        "TeamCode": "g14force8nc",
+        "TeamText": "SynergyForce 14 White (NC) (16)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225625,
+        "TeamName": "SPVC 14 Jacquie",
+        "TeamCode": "g14spvcv3nc",
+        "TeamText": "SPVC 14 Jacquie (NC) (21)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 7196,
+          "Name": "Sac Performance Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "spvc 14 jacquie",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 217535,
+        "TeamName": "ACVC 13",
+        "TeamCode": "g13acvbc1nc",
+        "TeamText": "ACVC 13 (NC) (26)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 32557,
+          "Name": "ACVC - Amador County Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "acvc 13",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -55837,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg2Mar14D3P1",
+    "CompleteFullName": "Lg 2 Mar 14 Divison 3 Pool 1",
+    "Order": 0,
+    "Courts": []
+  },
+  "Matches": [],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg2Mar14D3P1",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg2Mar14D3P1",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg2Mar14D3P1",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg2Mar14D3P1",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

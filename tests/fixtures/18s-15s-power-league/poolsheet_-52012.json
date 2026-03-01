@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 210888,
+        "TeamName": "Raze AP 17/18s Power",
+        "TeamCode": "g18raze11nc",
+        "TeamText": "Raze AP 17/18s Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 31794,
+          "Name": "Raze Athletic Prep"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "raze ap 17/18s power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27880,
+        "TeamName": "Titan Travel 16 Taylor",
+        "TeamCode": "g16titav2nc",
+        "TeamText": "Titan Travel 16 Taylor (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 16 taylor",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170531,
+        "TeamName": "UVA 16 Power",
+        "TeamCode": "g16ucelt3nc",
+        "TeamText": "UVA 16 Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 16 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 113726,
+        "TeamName": "Stingray Blue 16-2",
+        "TeamCode": "g16stray2nc",
+        "TeamText": "Stingray Blue 16-2 (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 816,
+          "Name": "Stingray Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "stingray blue 16-2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -52012,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg4Mar1Bronze AP1",
+    "CompleteFullName": "Lg4 Mar 1 Bronze A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 210888,
+      "FirstTeamName": "Raze AP 17/18s Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Raze AP 17/18s Power (NC)",
+      "SecondTeamId": 170531,
+      "SecondTeamName": "UVA 16 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "UVA 16 Power (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27880,
+      "WorkTeamText": "Titan Travel 16 Taylor (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -52015,
+      "Court": {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T08:00:00",
+      "ScheduledEndDateTime": "2026-03-01T08:59:59"
+    },
+    {
+      "FirstTeamId": 27880,
+      "FirstTeamName": "Titan Travel 16 Taylor",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Titan Travel 16 Taylor (NC)",
+      "SecondTeamId": 113726,
+      "SecondTeamName": "Stingray Blue 16-2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Stingray Blue 16-2 (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 210888,
+      "WorkTeamText": "Raze AP 17/18s Power (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -52016,
+      "Court": {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T09:00:00",
+      "ScheduledEndDateTime": "2026-03-01T09:59:59"
+    },
+    {
+      "FirstTeamId": 210888,
+      "FirstTeamName": "Raze AP 17/18s Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Raze AP 17/18s Power (NC)",
+      "SecondTeamId": 113726,
+      "SecondTeamName": "Stingray Blue 16-2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Stingray Blue 16-2 (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170531,
+      "WorkTeamText": "UVA 16 Power (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -52017,
+      "Court": {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T10:00:00",
+      "ScheduledEndDateTime": "2026-03-01T10:59:59"
+    },
+    {
+      "FirstTeamId": 27880,
+      "FirstTeamName": "Titan Travel 16 Taylor",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Titan Travel 16 Taylor (NC)",
+      "SecondTeamId": 170531,
+      "SecondTeamName": "UVA 16 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "UVA 16 Power (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 210888,
+      "WorkTeamText": "Raze AP 17/18s Power (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -52018,
+      "Court": {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T11:00:00",
+      "ScheduledEndDateTime": "2026-03-01T11:59:59"
+    },
+    {
+      "FirstTeamId": 170531,
+      "FirstTeamName": "UVA 16 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "UVA 16 Power (NC)",
+      "SecondTeamId": 113726,
+      "SecondTeamName": "Stingray Blue 16-2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Stingray Blue 16-2 (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27880,
+      "WorkTeamText": "Titan Travel 16 Taylor (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -52019,
+      "Court": {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T12:00:00",
+      "ScheduledEndDateTime": "2026-03-01T12:59:59"
+    },
+    {
+      "FirstTeamId": 210888,
+      "FirstTeamName": "Raze AP 17/18s Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Raze AP 17/18s Power (NC)",
+      "SecondTeamId": 27880,
+      "SecondTeamName": "Titan Travel 16 Taylor",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 16 Taylor (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 113726,
+      "WorkTeamText": "Stingray Blue 16-2 (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -52020,
+      "Court": {
+        "CourtId": -54692,
+        "Name": "Grounds Ct.13",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T13:00:00",
+      "ScheduledEndDateTime": "2026-03-01T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg4Mar1Bronze AP1",
+      "Match": {
+        "MatchId": -52094,
+        "Court": {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -52096,
+        "Court": {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -52050,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg 4Mar1XOBronze A1v1",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54692,
+            "Name": "Grounds Ct.13",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg4Mar1Bronze AP1",
+      "Match": {
+        "MatchId": -52095,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -52097,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -52054,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg 4Mar1XOBronze A2v2",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54693,
+            "Name": "Grounds Ct.14",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg4Mar1Bronze AP1",
+      "Match": {
+        "MatchId": -52096,
+        "Court": {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -52058,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg 4Mar1XOBronze A3v3",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54692,
+            "Name": "Grounds Ct.13",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg4Mar1Bronze AP1",
+      "Match": {
+        "MatchId": -52097,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -52095,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -52062,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg 4Mar1XOBronze A4v4",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54693,
+            "Name": "Grounds Ct.14",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

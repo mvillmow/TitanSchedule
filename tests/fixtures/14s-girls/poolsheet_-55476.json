@@ -1,0 +1,572 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 225523,
+        "TeamName": "ATN 13 Ohana",
+        "TeamCode": "g13abtnt1nc",
+        "TeamText": "ATN 13 Ohana (NC) (41)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.6770833333333333,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 30992,
+          "Name": "Above The Net VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "atn 13 ohana",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225627,
+        "TeamName": "SPVC 14 Nicole",
+        "TeamCode": "g14spvcv4nc",
+        "TeamText": "SPVC 14 Nicole (NC) (44)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 2,
+        "SetPercent": 0.7142857142857143,
+        "PointRatio": 1.4326923076923077,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 7196,
+          "Name": "Sac Performance Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "spvc 14 nicole",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225136,
+        "TeamName": "Five Starz 13 White Padri",
+        "TeamCode": "g13fives2nc",
+        "TeamText": "Five Starz 13 White Padri (NC) (45)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.6451612903225806,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 4308,
+          "Name": "Five Starz VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "five starz 13 white padri",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171350,
+        "TeamName": "Aspire 13-3 Teal",
+        "TeamCode": "g13folso3nc",
+        "TeamText": "Aspire 13-3 Teal (NC) (48)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.6518987341772152,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aspire 13-3 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -55476,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg1Feb22D6P1",
+    "CompleteFullName": "Lg1 Feb 22 Division 6 Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 225523,
+      "FirstTeamName": "ATN 13 Ohana",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ATN 13 Ohana (NC) (41)",
+      "SecondTeamId": 225136,
+      "SecondTeamName": "Five Starz 13 White Padri",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Five Starz 13 White Padri (NC) (45)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 5,
+          "ScoreText": "25-5",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225627,
+      "WorkTeamText": "SPVC 14 Nicole (NC) (44)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -55479,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T07:30:00",
+      "ScheduledEndDateTime": "2026-02-22T08:29:59"
+    },
+    {
+      "FirstTeamId": 225627,
+      "FirstTeamName": "SPVC 14 Nicole",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SPVC 14 Nicole (NC) (44)",
+      "SecondTeamId": 171350,
+      "SecondTeamName": "Aspire 13-3 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-3 Teal (NC) (48)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 5,
+          "ScoreText": "25-5",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225523,
+      "WorkTeamText": "ATN 13 Ohana (NC) (41)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -55480,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T08:30:00",
+      "ScheduledEndDateTime": "2026-02-22T09:29:59"
+    },
+    {
+      "FirstTeamId": 225523,
+      "FirstTeamName": "ATN 13 Ohana",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ATN 13 Ohana (NC) (41)",
+      "SecondTeamId": 171350,
+      "SecondTeamName": "Aspire 13-3 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-3 Teal (NC) (48)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 10,
+          "ScoreText": "25-10",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225136,
+      "WorkTeamText": "Five Starz 13 White Padri (NC) (45)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -55481,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T09:30:00",
+      "ScheduledEndDateTime": "2026-02-22T10:29:59"
+    },
+    {
+      "FirstTeamId": 225627,
+      "FirstTeamName": "SPVC 14 Nicole",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SPVC 14 Nicole (NC) (44)",
+      "SecondTeamId": 225136,
+      "SecondTeamName": "Five Starz 13 White Padri",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Five Starz 13 White Padri (NC) (45)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 5,
+          "ScoreText": "25-5",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225523,
+      "WorkTeamText": "ATN 13 Ohana (NC) (41)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -55482,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T10:30:00",
+      "ScheduledEndDateTime": "2026-02-22T11:29:59"
+    },
+    {
+      "FirstTeamId": 225136,
+      "FirstTeamName": "Five Starz 13 White Padri",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Five Starz 13 White Padri (NC) (45)",
+      "SecondTeamId": 171350,
+      "SecondTeamName": "Aspire 13-3 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-3 Teal (NC) (48)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 25,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 7,
+          "ScoreText": "15-7",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225627,
+      "WorkTeamText": "SPVC 14 Nicole (NC) (44)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -55483,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T11:30:00",
+      "ScheduledEndDateTime": "2026-02-22T12:29:59"
+    },
+    {
+      "FirstTeamId": 225523,
+      "FirstTeamName": "ATN 13 Ohana",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ATN 13 Ohana (NC) (41)",
+      "SecondTeamId": 225627,
+      "SecondTeamName": "SPVC 14 Nicole",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SPVC 14 Nicole (NC) (44)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 8,
+          "ScoreText": "15-8",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171350,
+      "WorkTeamText": "Aspire 13-3 Teal (NC) (48)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -55484,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T12:30:00",
+      "ScheduledEndDateTime": "2026-02-22T13:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - ATN 13 Ohana (NC) (41)",
+      "Match": {
+        "MatchId": -55797,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T13:30:00",
+        "ScheduledEndDateTime": "2026-02-22T14:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -55689,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Feb22XOD61v1",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - SPVC 14 Nicole (NC) (44)",
+      "Match": {
+        "MatchId": -55798,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T13:30:00",
+        "ScheduledEndDateTime": "2026-02-22T14:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -55693,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Feb22XOD62v2",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Five Starz 13 White Padri (NC) (45)",
+      "Match": {
+        "MatchId": -55799,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T14:30:00",
+        "ScheduledEndDateTime": "2026-02-22T15:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -55697,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Feb22XOD63v3",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Aspire 13-3 Teal (NC) (48)",
+      "Match": {
+        "MatchId": -55800,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T14:30:00",
+        "ScheduledEndDateTime": "2026-02-22T15:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55798,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T13:30:00",
+        "ScheduledEndDateTime": "2026-02-22T14:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55701,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Feb22XOD64v4",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

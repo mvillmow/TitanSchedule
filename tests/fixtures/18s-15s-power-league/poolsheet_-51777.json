@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 225586,
+        "TeamName": "Morgan Hill 16U",
+        "TeamCode": "g16hmgnv1nc",
+        "TeamText": "Morgan Hill 16U (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.6666666666666666,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 16u",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170531,
+        "TeamName": "UVA 16 Power",
+        "TeamCode": "g16ucelt3nc",
+        "TeamText": "UVA 16 Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 0.8639455782312925,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 16 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 150684,
+        "TeamName": "VVA 15-Talavera",
+        "TeamCode": "g15vavbc3nc",
+        "TeamText": "VVA 15-Talavera (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.394736842105263,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27398,
+          "Name": "Valley Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "vva 15-talavera",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180277,
+        "TeamName": "Fusion 16 Steel",
+        "TeamCode": "g16fuvbc2nc",
+        "TeamText": "Fusion 16 Steel (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.2173913043478262,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 16 steel",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51777,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg2Jan25Bronze AP2",
+    "CompleteFullName": "Lg2 Jan 25 Bronze A Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52117,
+        "Name": "Oakland CC Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 225586,
+      "FirstTeamName": "Morgan Hill 16U",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Morgan Hill 16U (NC)",
+      "SecondTeamId": 150684,
+      "SecondTeamName": "VVA 15-Talavera",
+      "SecondTeamWon": true,
+      "SecondTeamText": "VVA 15-Talavera (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 11,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170531,
+      "WorkTeamText": "UVA 16 Power (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51780,
+      "Court": {
+        "CourtId": -52117,
+        "Name": "Oakland CC Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:30:00",
+      "ScheduledEndDateTime": "2026-01-25T13:29:59"
+    },
+    {
+      "FirstTeamId": 170531,
+      "FirstTeamName": "UVA 16 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "UVA 16 Power (NC)",
+      "SecondTeamId": 180277,
+      "SecondTeamName": "Fusion 16 Steel",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fusion 16 Steel (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 17,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225586,
+      "WorkTeamText": "Morgan Hill 16U (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51781,
+      "Court": {
+        "CourtId": -52117,
+        "Name": "Oakland CC Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:30:00",
+      "ScheduledEndDateTime": "2026-01-25T14:29:59"
+    },
+    {
+      "FirstTeamId": 225586,
+      "FirstTeamName": "Morgan Hill 16U",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Morgan Hill 16U (NC)",
+      "SecondTeamId": 180277,
+      "SecondTeamName": "Fusion 16 Steel",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fusion 16 Steel (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 150684,
+      "WorkTeamText": "VVA 15-Talavera (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51782,
+      "Court": {
+        "CourtId": -52117,
+        "Name": "Oakland CC Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T14:30:00",
+      "ScheduledEndDateTime": "2026-01-25T15:29:59"
+    },
+    {
+      "FirstTeamId": 170531,
+      "FirstTeamName": "UVA 16 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "UVA 16 Power (NC)",
+      "SecondTeamId": 150684,
+      "SecondTeamName": "VVA 15-Talavera",
+      "SecondTeamWon": true,
+      "SecondTeamText": "VVA 15-Talavera (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 9,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-9",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225586,
+      "WorkTeamText": "Morgan Hill 16U (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51783,
+      "Court": {
+        "CourtId": -52117,
+        "Name": "Oakland CC Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T15:30:00",
+      "ScheduledEndDateTime": "2026-01-25T16:29:59"
+    },
+    {
+      "FirstTeamId": 150684,
+      "FirstTeamName": "VVA 15-Talavera",
+      "FirstTeamWon": true,
+      "FirstTeamText": "VVA 15-Talavera (NC)",
+      "SecondTeamId": 180277,
+      "SecondTeamName": "Fusion 16 Steel",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Fusion 16 Steel (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170531,
+      "WorkTeamText": "UVA 16 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51784,
+      "Court": {
+        "CourtId": -52117,
+        "Name": "Oakland CC Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T16:30:00",
+      "ScheduledEndDateTime": "2026-01-25T17:29:59"
+    },
+    {
+      "FirstTeamId": 225586,
+      "FirstTeamName": "Morgan Hill 16U",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Morgan Hill 16U (NC)",
+      "SecondTeamId": 170531,
+      "SecondTeamName": "UVA 16 Power",
+      "SecondTeamWon": true,
+      "SecondTeamText": "UVA 16 Power (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 180277,
+      "WorkTeamText": "Fusion 16 Steel (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51785,
+      "Court": {
+        "CourtId": -52117,
+        "Name": "Oakland CC Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T17:30:00",
+      "ScheduledEndDateTime": "2026-01-25T18:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - VVA 15-Talavera (NC)",
+      "Match": {
+        "MatchId": -51850,
+        "Court": {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51806,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg2Jan25XOBronze A1v1",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52116,
+            "Name": "Oakland CC Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Fusion 16 Steel (NC)",
+      "Match": {
+        "MatchId": -51851,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51853,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T19:30:00",
+        "ScheduledEndDateTime": "2026-01-25T20:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51810,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg2Jan25XOBronze A2v2",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52117,
+            "Name": "Oakland CC Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - UVA 16 Power (NC)",
+      "Match": {
+        "MatchId": -51852,
+        "Court": {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T19:30:00",
+        "ScheduledEndDateTime": "2026-01-25T20:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51850,
+        "Court": {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51814,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg2Jan25XOBronze A3v3",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52116,
+            "Name": "Oakland CC Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Morgan Hill 16U (NC)",
+      "Match": {
+        "MatchId": -51853,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T19:30:00",
+        "ScheduledEndDateTime": "2026-01-25T20:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51851,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51818,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg2Jan25XOBronze A4v4",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52117,
+            "Name": "Oakland CC Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

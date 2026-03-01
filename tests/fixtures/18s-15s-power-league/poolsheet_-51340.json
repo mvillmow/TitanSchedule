@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 180801,
+        "TeamName": "NorCal Supreme 18  Blue",
+        "TeamCode": "g18116191nc",
+        "TeamText": "NorCal Supreme 18  Blue (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "norcal supreme 18  blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75344,
+        "TeamName": "SynergyForce 16 Black",
+        "TeamCode": "g16force4nc",
+        "TeamText": "SynergyForce 16 Black (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 16 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 16635,
+        "TeamName": "Empire 15 National",
+        "TeamCode": "g15mpire1nc",
+        "TeamText": "Empire 15 National (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 national",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165181,
+        "TeamName": "NNJ 17 Chin",
+        "TeamCode": "g17nnejr2nc",
+        "TeamText": "NNJ 17 Chin (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "nnj 17 chin",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51340,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg4Mar1Gold BP2",
+    "CompleteFullName": "Lg4 Mar 1 Gold B Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 180801,
+      "FirstTeamName": "NorCal Supreme 18  Blue",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NorCal Supreme 18  Blue (NC)",
+      "SecondTeamId": 16635,
+      "SecondTeamName": "Empire 15 National",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 15 National (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75344,
+      "WorkTeamText": "SynergyForce 16 Black (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51343,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T08:00:00",
+      "ScheduledEndDateTime": "2026-03-01T08:59:59"
+    },
+    {
+      "FirstTeamId": 75344,
+      "FirstTeamName": "SynergyForce 16 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 16 Black (NC)",
+      "SecondTeamId": 165181,
+      "SecondTeamName": "NNJ 17 Chin",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 17 Chin (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 180801,
+      "WorkTeamText": "NorCal Supreme 18  Blue (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51344,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T09:00:00",
+      "ScheduledEndDateTime": "2026-03-01T09:59:59"
+    },
+    {
+      "FirstTeamId": 180801,
+      "FirstTeamName": "NorCal Supreme 18  Blue",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NorCal Supreme 18  Blue (NC)",
+      "SecondTeamId": 165181,
+      "SecondTeamName": "NNJ 17 Chin",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 17 Chin (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 16635,
+      "WorkTeamText": "Empire 15 National (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51345,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T10:00:00",
+      "ScheduledEndDateTime": "2026-03-01T10:59:59"
+    },
+    {
+      "FirstTeamId": 75344,
+      "FirstTeamName": "SynergyForce 16 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 16 Black (NC)",
+      "SecondTeamId": 16635,
+      "SecondTeamName": "Empire 15 National",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 15 National (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 180801,
+      "WorkTeamText": "NorCal Supreme 18  Blue (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51346,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T11:00:00",
+      "ScheduledEndDateTime": "2026-03-01T11:59:59"
+    },
+    {
+      "FirstTeamId": 16635,
+      "FirstTeamName": "Empire 15 National",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Empire 15 National (NC)",
+      "SecondTeamId": 165181,
+      "SecondTeamName": "NNJ 17 Chin",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 17 Chin (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75344,
+      "WorkTeamText": "SynergyForce 16 Black (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51347,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T12:00:00",
+      "ScheduledEndDateTime": "2026-03-01T12:59:59"
+    },
+    {
+      "FirstTeamId": 180801,
+      "FirstTeamName": "NorCal Supreme 18  Blue",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NorCal Supreme 18  Blue (NC)",
+      "SecondTeamId": 75344,
+      "SecondTeamName": "SynergyForce 16 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 16 Black (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165181,
+      "WorkTeamText": "NNJ 17 Chin (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51348,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T13:00:00",
+      "ScheduledEndDateTime": "2026-03-01T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg4Mar1Gold BP2",
+      "Match": {
+        "MatchId": -51489,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51499,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51485,
+        "FullName": "1 v 1",
+        "ShortName": "1 v 1",
+        "CompleteShortName": "Lg 4Mar1XOGold B1 v 1",
+        "CompleteFullName": "Lg 4 Mar 1 XO Gold B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54682,
+            "Name": "Grounds Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg4Mar1Gold BP2",
+      "Match": {
+        "MatchId": -51494,
+        "Court": {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51504,
+        "Court": {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51490,
+        "FullName": "2 v 2",
+        "ShortName": "2 v 2",
+        "CompleteShortName": "Lg 4Mar1XOGold B2 v 2",
+        "CompleteFullName": "Lg 4 Mar 1 XO Gold B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54683,
+            "Name": "Grounds Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg4Mar1Gold BP2",
+      "Match": {
+        "MatchId": -51499,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51489,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51495,
+        "FullName": "3 v 3",
+        "ShortName": "3 v 3",
+        "CompleteShortName": "Lg 4Mar1XOGold B3 v 3",
+        "CompleteFullName": "Lg 4 Mar 1 XO Gold B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54682,
+            "Name": "Grounds Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg4Mar1Gold BP2",
+      "Match": {
+        "MatchId": -51504,
+        "Court": {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51500,
+        "FullName": "4 v 4",
+        "ShortName": "4 v 4",
+        "CompleteShortName": "Lg 4Mar1XOGold B4 v 4",
+        "CompleteFullName": "Lg 4 Mar 1 XO Gold B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54683,
+            "Name": "Grounds Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

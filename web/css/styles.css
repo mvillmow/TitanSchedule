@@ -1,0 +1,274 @@
+/* TitanSchedule — Custom styles complementing Tailwind CDN utilities */
+
+/* Ensure full-height layout */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Graph wrapper */
+#cy-wrap {
+  background: #f8fafc;
+  cursor: grab;
+  overflow: hidden;
+}
+
+#cy-wrap:active {
+  cursor: grabbing;
+}
+
+/* Cytoscape canvas — fills parent (#cy-wrap) */
+#cy {
+  width: 100%;
+  height: 100%;
+  background: #f8fafc;
+  display: block;
+}
+
+/* ------------------------------------------------------------------ */
+/* Day filter buttons                                                   */
+/* ------------------------------------------------------------------ */
+
+.day-filter {
+  background: white;
+  color: #374151;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  padding: 1px 7px;
+  font-size: 11px;
+  cursor: pointer;
+  transition: all 0.1s ease;
+  white-space: nowrap;
+}
+
+.day-filter.active {
+  background: #7c3aed;
+  color: white;
+  border-color: #7c3aed;
+}
+
+.day-filter:hover:not(.active) {
+  background: #f3f4f6;
+}
+
+/* ------------------------------------------------------------------ */
+/* Toolbar buttons                                                      */
+/* ------------------------------------------------------------------ */
+
+.toolbar-btn {
+  background: white;
+  color: #374151;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 11px;
+  cursor: pointer;
+  white-space: nowrap;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+
+.toolbar-btn:hover {
+  background: #f3f4f6;
+}
+
+.toolbar-btn-primary {
+  background: #2563eb;
+  color: white;
+  border: 1px solid #1d4ed8;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 11px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.toolbar-btn-primary:hover {
+  background: #1d4ed8;
+}
+
+/* ------------------------------------------------------------------ */
+/* Mouse-following tooltip                                              */
+/* ------------------------------------------------------------------ */
+
+#cy-tooltip {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  background-color: #1f2937;
+  color: #f9fafb;
+  font-size: 12px;
+  max-width: 280px;
+  border-radius: 6px;
+  padding: 8px 10px;
+  pointer-events: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+}
+
+.tooltip-title {
+  font-weight: 600;
+  margin-bottom: 4px;
+  font-size: 13px;
+  border-bottom: 1px solid #374151;
+  padding-bottom: 4px;
+}
+
+.tooltip-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 2px 0;
+}
+
+.tooltip-label {
+  color: #9ca3af;
+  flex-shrink: 0;
+}
+
+.tooltip-value {
+  color: #f3f4f6;
+  text-align: right;
+}
+
+.tooltip-scores {
+  font-family: monospace;
+  font-size: 13px;
+  margin: 4px 0;
+  letter-spacing: 1px;
+}
+
+.tooltip-link {
+  display: block;
+  margin-top: 6px;
+  color: #60a5fa;
+  text-decoration: underline;
+  text-align: right;
+  font-size: 11px;
+}
+
+/* Loading spinner */
+#loading {
+  pointer-events: none;
+}
+
+/* ------------------------------------------------------------------ */
+/* Match card HTML overlay (cytoscape-node-html-label)                 */
+/* ------------------------------------------------------------------ */
+
+.match-card {
+  width: 144px;           /* MATCH_W (150) - 6px padding */
+  border: 1px solid #94a3b8;
+  border-radius: 4px;
+  overflow: hidden;
+  font-family: system-ui, sans-serif;
+  font-size: 8px;
+  line-height: 14px;
+  background: #f8fafc;
+  pointer-events: none;   /* let clicks pass through to Cytoscape */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.match-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 4px;
+  border-bottom: 1px solid #e2e8f0;
+  height: 14px;           /* matches PORT_H constant for edge alignment */
+  align-items: center;
+}
+
+.match-row:last-child { border-bottom: none; }
+
+.match-row.work {
+  background: #f1f5f9;
+  color: #64748b;
+}
+
+.match-row.match-winner {
+  font-weight: 700;
+  background: #ecfdf5;
+  color: #166534;
+}
+
+.team-name {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+
+.set-scores {
+  font-family: monospace;
+  font-size: 8px;
+  color: #6b7280;
+  margin-left: 4px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ------------------------------------------------------------------ */
+/* Ranking card HTML overlay                                            */
+/* ------------------------------------------------------------------ */
+
+.ranking-card {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  font-family: system-ui, sans-serif;
+  font-size: 8px;
+  pointer-events: none;
+  max-width: 106px;       /* RANKING_W (110) - 4px */
+  overflow: hidden;
+}
+
+.rank-badge {
+  font-weight: 700;
+  color: #7c3aed;
+  flex-shrink: 0;
+  font-size: 9px;
+}
+
+.rank-name {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+  color: #1f2937;
+}
+
+.rank-record {
+  color: #6b7280;
+  flex-shrink: 0;
+  font-size: 8px;
+}
+
+.rank-sub {
+  color: #9ca3af;
+  flex-shrink: 0;
+  font-size: 8px;
+}
+
+/* ------------------------------------------------------------------ */
+/* Landing page division cards                                          */
+/* ------------------------------------------------------------------ */
+
+.division-card {
+  display: block;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px;
+  background: white;
+  text-decoration: none;
+  transition: box-shadow 0.15s, border-color 0.15s;
+}
+
+.division-card:hover {
+  border-color: #3b82f6;
+  box-shadow: 0 2px 8px rgba(59,130,246,0.15);
+}

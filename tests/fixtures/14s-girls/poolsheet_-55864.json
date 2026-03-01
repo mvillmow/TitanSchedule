@@ -1,0 +1,184 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 149336,
+        "TeamName": "AAVC 13-Black",
+        "TeamCode": "g13auace1nc",
+        "TeamText": "AAVC 13-Black (NC) (23)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 23413,
+          "Name": "Auburn Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aavc 13-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206878,
+        "TeamName": "Five Starz 14 White Chelsea",
+        "TeamCode": "g14fives2nc",
+        "TeamText": "Five Starz 14 White Chelsea (NC) (28)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 4308,
+          "Name": "Five Starz VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "five starz 14 white chelsea",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 154604,
+        "TeamName": "SynergyForce 14 Pink",
+        "TeamCode": "g14force10nc",
+        "TeamText": "SynergyForce 14 Pink (NC) (33)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 222899,
+        "TeamName": "Arbuckle 14 LK",
+        "TeamCode": "g14arbkl2nc",
+        "TeamText": "Arbuckle 14 LK (NC) (35)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "arbuckle 14 lk",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -55864,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg2Mar14D4P2",
+    "CompleteFullName": "Lg 2 Mar 14 Division 4 Pool 2",
+    "Order": 0,
+    "Courts": []
+  },
+  "Matches": [],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg2Mar14D4P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg2Mar14D4P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg2Mar14D4P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg2Mar14D4P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

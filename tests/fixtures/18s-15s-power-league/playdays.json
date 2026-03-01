@@ -1,0 +1,26 @@
+[
+  {
+    "HasPools": true,
+    "HasBrackets": true,
+    "DateTime": "2026-01-24T00:00:00",
+    "IsCurrent": false
+  },
+  {
+    "HasPools": true,
+    "HasBrackets": true,
+    "DateTime": "2026-01-25T00:00:00",
+    "IsCurrent": false
+  },
+  {
+    "HasPools": true,
+    "HasBrackets": true,
+    "DateTime": "2026-02-28T00:00:00",
+    "IsCurrent": false
+  },
+  {
+    "HasPools": true,
+    "HasBrackets": true,
+    "DateTime": "2026-03-01T00:00:00",
+    "IsCurrent": true
+  }
+]

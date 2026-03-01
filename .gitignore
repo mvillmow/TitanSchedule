@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+web/data/*/
+web/data/index.json
+.pytest_cache/
+dist/
+*.egg-info/
+# pixi environments
+.pixi/*
+!.pixi/config.toml

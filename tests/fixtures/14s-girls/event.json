@@ -1,0 +1,125 @@
+{
+  "Key": "PTAwMDAwNDE4MzE90",
+  "EventId": 41831,
+  "Name": "2026 WCVBA Girls Sacramento Regional League",
+  "StartDate": "2026-01-10T00:00:00",
+  "EndDate": "2026-05-17T23:59:59.9999999",
+  "Location": "OMNI Facilities, Grounds and Other Sac Venues",
+  "CustomEventType": null,
+  "IsOver": false,
+  "Clubs": [
+    {
+      "ClubId": 30992,
+      "Name": "Above The Net VBC"
+    },
+    {
+      "ClubId": 32557,
+      "Name": "ACVC - Amador County Volleyball Club"
+    },
+    {
+      "ClubId": 27487,
+      "Name": "Arbuckle VBC"
+    },
+    {
+      "ClubId": 6242,
+      "Name": "Aspire Volleyball Club"
+    },
+    {
+      "ClubId": 23413,
+      "Name": "Auburn Aces Volleyball Club"
+    },
+    {
+      "ClubId": 32979,
+      "Name": "Cougar Pride Volleyball Club"
+    },
+    {
+      "ClubId": 29857,
+      "Name": "Envision Volleyball Club"
+    },
+    {
+      "ClubId": 4308,
+      "Name": "Five Starz VBC"
+    },
+    {
+      "ClubId": 7370,
+      "Name": "FPVC"
+    },
+    {
+      "ClubId": 549,
+      "Name": "Gold Cal Jrs VBC"
+    },
+    {
+      "ClubId": 29870,
+      "Name": "Lake Tahoe Volleyball Academy"
+    },
+    {
+      "ClubId": 26566,
+      "Name": "Motherlode Volleyball Club"
+    },
+    {
+      "ClubId": 27377,
+      "Name": "NorCal Supreme Volleyball"
+    },
+    {
+      "ClubId": 2874,
+      "Name": "Northern Nevada Juniors"
+    },
+    {
+      "ClubId": 26543,
+      "Name": "OMNI Volleyball Club"
+    },
+    {
+      "ClubId": 6983,
+      "Name": "Pulse Volleyball Club"
+    },
+    {
+      "ClubId": 7196,
+      "Name": "Sac Performance Volleyball Club"
+    },
+    {
+      "ClubId": 32625,
+      "Name": "Stockton Aces Volleyball Club"
+    },
+    {
+      "ClubId": 595,
+      "Name": "SynergyForce Volleyball Club"
+    },
+    {
+      "ClubId": 32713,
+      "Name": "VB Volleyball Club"
+    },
+    {
+      "ClubId": 24557,
+      "Name": "Yuba Elite Volleyball club"
+    }
+  ],
+  "Divisions": [
+    {
+      "IsFinished": false,
+      "DivisionId": 199195,
+      "Name": "12s Girls",
+      "TeamCount": 18,
+      "CodeAlias": "12s Girls",
+      "ColorHex": "#BFFF7F"
+    },
+    {
+      "IsFinished": false,
+      "DivisionId": 199194,
+      "Name": "14s Girls",
+      "TeamCount": 48,
+      "CodeAlias": "14s Girls",
+      "ColorHex": "#DF5F9F"
+    },
+    {
+      "IsFinished": false,
+      "DivisionId": 199196,
+      "Name": "18s-15s Girls",
+      "TeamCount": 47,
+      "CodeAlias": "18s - 15s Girls",
+      "ColorHex": "#7FFFFF"
+    }
+  ],
+  "HasNotes": false,
+  "HasFlowCharts": false,
+  "IsUsavQualifierEvent": false
+}

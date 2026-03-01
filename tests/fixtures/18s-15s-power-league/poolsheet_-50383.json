@@ -1,0 +1,572 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 59871,
+        "TeamName": "Club Solano 18 Maroon",
+        "TeamCode": "g18solno1nc",
+        "TeamText": "Club Solano 18 Maroon (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.6133333333333333,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 2558,
+          "Name": "Club Solano"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "club solano 18 maroon",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 216272,
+        "TeamName": "Arbuckle 17 Lauren",
+        "TeamCode": "g17arbkl2nc",
+        "TeamText": "Arbuckle 17 Lauren (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.1735537190082646,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "arbuckle 17 lauren",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 7656,
+        "TeamName": "Empire 16 National",
+        "TeamCode": "g16mpire1nc",
+        "TeamText": "Empire 16 National (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.6304347826086956,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 national",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 128938,
+        "TeamName": "SynergyForce 17 Black",
+        "TeamCode": "g17force4nc",
+        "TeamText": "SynergyForce 17 Black (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.8531468531468531,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 17 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50383,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg1Jan24Gold BP1",
+    "CompleteFullName": "Lg1 Jan 24 Gold B Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 7656,
+      "SecondTeamName": "Empire 16 National",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Empire 16 National (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 10,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-10",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 4,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-4",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216272,
+      "WorkTeamText": "Arbuckle 17 Lauren (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50386,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T08:00:00",
+      "ScheduledEndDateTime": "2026-01-24T08:59:59"
+    },
+    {
+      "FirstTeamId": 216272,
+      "FirstTeamName": "Arbuckle 17 Lauren",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 17 Lauren (NC)",
+      "SecondTeamId": 128938,
+      "SecondTeamName": "SynergyForce 17 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 17 Black (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 59871,
+      "WorkTeamText": "Club Solano 18 Maroon (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50387,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T09:00:00",
+      "ScheduledEndDateTime": "2026-01-24T09:59:59"
+    },
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 128938,
+      "SecondTeamName": "SynergyForce 17 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 17 Black (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 7656,
+      "WorkTeamText": "Empire 16 National (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50388,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T10:00:00",
+      "ScheduledEndDateTime": "2026-01-24T10:59:59"
+    },
+    {
+      "FirstTeamId": 216272,
+      "FirstTeamName": "Arbuckle 17 Lauren",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Arbuckle 17 Lauren (NC)",
+      "SecondTeamId": 7656,
+      "SecondTeamName": "Empire 16 National",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Empire 16 National (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 59871,
+      "WorkTeamText": "Club Solano 18 Maroon (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50389,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T11:00:00",
+      "ScheduledEndDateTime": "2026-01-24T11:59:59"
+    },
+    {
+      "FirstTeamId": 7656,
+      "FirstTeamName": "Empire 16 National",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 16 National (NC)",
+      "SecondTeamId": 128938,
+      "SecondTeamName": "SynergyForce 17 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 17 Black (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216272,
+      "WorkTeamText": "Arbuckle 17 Lauren (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50390,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T12:00:00",
+      "ScheduledEndDateTime": "2026-01-24T12:59:59"
+    },
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 216272,
+      "SecondTeamName": "Arbuckle 17 Lauren",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Arbuckle 17 Lauren (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 128938,
+      "WorkTeamText": "SynergyForce 17 Black (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50391,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T13:00:00",
+      "ScheduledEndDateTime": "2026-01-24T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Empire 16 National (NC)",
+      "Match": {
+        "MatchId": -50541,
+        "Court": {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50537,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Jan24XOGold B1v1",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52123,
+            "Name": "NorCal Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Arbuckle 17 Lauren (NC)",
+      "Match": {
+        "MatchId": -50546,
+        "Court": {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50542,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Jan24XOGold B2v2",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52124,
+            "Name": "NorCal Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - SynergyForce 17 Black (NC)",
+      "Match": {
+        "MatchId": -50551,
+        "Court": {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50547,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Jan24XOGold B3v3",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52123,
+            "Name": "NorCal Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Club Solano 18 Maroon (NC)",
+      "Match": {
+        "MatchId": -50556,
+        "Court": {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50546,
+        "Court": {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50552,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Jan24XOGold B4v4",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52124,
+            "Name": "NorCal Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 2135,
+        "TeamName": "Empire 17 National",
+        "TeamCode": "g17mpire1nc",
+        "TeamText": "Empire 17 National (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.0806451612903225,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 17 national",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 174691,
+        "TeamName": "Adrenaline - Dreux 18-1",
+        "TeamCode": "g18avcrc1nc",
+        "TeamText": "Adrenaline - Dreux 18-1 (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.4018691588785046,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 28971,
+          "Name": "Adrenaline Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "adrenaline - dreux 18-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165596,
+        "TeamName": "OMNI 17 Power",
+        "TeamCode": "g17omniv3nc",
+        "TeamText": "OMNI 17 Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.7733333333333333,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 17 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 128937,
+        "TeamName": "SynergyForce 17 Gold",
+        "TeamCode": "g17force3nc",
+        "TeamText": "SynergyForce 17 Gold (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.8633093525179856,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 17 gold",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50996,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Gold AP1",
+    "CompleteFullName": "Lg3 Feb 28 Gold A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 2135,
+      "FirstTeamName": "Empire 17 National",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 17 National (NC)",
+      "SecondTeamId": 165596,
+      "SecondTeamName": "OMNI 17 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 17 Power (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 174691,
+      "WorkTeamText": "Adrenaline - Dreux 18-1 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50999,
+      "Court": {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T08:00:00",
+      "ScheduledEndDateTime": "2026-02-28T08:59:59"
+    },
+    {
+      "FirstTeamId": 174691,
+      "FirstTeamName": "Adrenaline - Dreux 18-1",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Adrenaline - Dreux 18-1 (NC)",
+      "SecondTeamId": 128937,
+      "SecondTeamName": "SynergyForce 17 Gold",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 17 Gold (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 2135,
+      "WorkTeamText": "Empire 17 National (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51000,
+      "Court": {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T09:00:00",
+      "ScheduledEndDateTime": "2026-02-28T09:59:59"
+    },
+    {
+      "FirstTeamId": 2135,
+      "FirstTeamName": "Empire 17 National",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 17 National (NC)",
+      "SecondTeamId": 128937,
+      "SecondTeamName": "SynergyForce 17 Gold",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 17 Gold (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165596,
+      "WorkTeamText": "OMNI 17 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51001,
+      "Court": {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T10:00:00",
+      "ScheduledEndDateTime": "2026-02-28T10:59:59"
+    },
+    {
+      "FirstTeamId": 174691,
+      "FirstTeamName": "Adrenaline - Dreux 18-1",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Adrenaline - Dreux 18-1 (NC)",
+      "SecondTeamId": 165596,
+      "SecondTeamName": "OMNI 17 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 17 Power (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 2135,
+      "WorkTeamText": "Empire 17 National (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51002,
+      "Court": {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T11:00:00",
+      "ScheduledEndDateTime": "2026-02-28T11:59:59"
+    },
+    {
+      "FirstTeamId": 165596,
+      "FirstTeamName": "OMNI 17 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 17 Power (NC)",
+      "SecondTeamId": 128937,
+      "SecondTeamName": "SynergyForce 17 Gold",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 17 Gold (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 174691,
+      "WorkTeamText": "Adrenaline - Dreux 18-1 (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51003,
+      "Court": {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T12:00:00",
+      "ScheduledEndDateTime": "2026-02-28T12:59:59"
+    },
+    {
+      "FirstTeamId": 2135,
+      "FirstTeamName": "Empire 17 National",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Empire 17 National (NC)",
+      "SecondTeamId": 174691,
+      "SecondTeamName": "Adrenaline - Dreux 18-1",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Adrenaline - Dreux 18-1 (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 128937,
+      "WorkTeamText": "SynergyForce 17 Gold (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51004,
+      "Court": {
+        "CourtId": -54680,
+        "Name": "Grounds Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T13:00:00",
+      "ScheduledEndDateTime": "2026-02-28T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Adrenaline - Dreux 18-1 (NC)",
+      "Match": {
+        "MatchId": -51152,
+        "Court": {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51162,
+        "Court": {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51148,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg3 Feb 28 XOGold A1v1",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54680,
+            "Name": "Grounds Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Empire 17 National (NC)",
+      "Match": {
+        "MatchId": -51157,
+        "Court": {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51153,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg3 Feb 28 XOGold A2v2",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54681,
+            "Name": "Grounds Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - SynergyForce 17 Gold (NC)",
+      "Match": {
+        "MatchId": -51162,
+        "Court": {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51158,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg3 Feb 28 XOGold A3v3",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54680,
+            "Name": "Grounds Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - OMNI 17 Power (NC)",
+      "Match": {
+        "MatchId": -51167,
+        "Court": {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51163,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg3 Feb 28 XOGold A4v4",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54681,
+            "Name": "Grounds Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

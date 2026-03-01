@@ -1,0 +1,563 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 165591,
+        "TeamName": "OMNI 15 Prime",
+        "TeamCode": "g15omniv4nc",
+        "TeamText": "OMNI 15 Prime (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.3070866141732282,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 15 prime",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 104145,
+        "TeamName": "Stingray Blue 15-2",
+        "TeamCode": "g15stray2nc",
+        "TeamText": "Stingray Blue 15-2 (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.0434782608695652,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 816,
+          "Name": "Stingray Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "stingray blue 15-2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 63191,
+        "TeamName": "Empire 15 Power Jack",
+        "TeamCode": "g15mpire3nc",
+        "TeamText": "Empire 15 Power Jack (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.077922077922078,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 power jack",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 221171,
+        "TeamName": "Lakas 15 Power 2",
+        "TeamCode": "g15laiat3nc",
+        "TeamText": "Lakas 15 Power 2 (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.6441717791411042,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 5993,
+          "Name": "Lakas "
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "lakas 15 power 2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51122,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Bronze CP2",
+    "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 165591,
+      "FirstTeamName": "OMNI 15 Prime",
+      "FirstTeamWon": true,
+      "FirstTeamText": "OMNI 15 Prime (NC)",
+      "SecondTeamId": 63191,
+      "SecondTeamName": "Empire 15 Power Jack",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 15 Power Jack (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 104145,
+      "WorkTeamText": "Stingray Blue 15-2 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54722,
+      "Court": {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T08:00:00",
+      "ScheduledEndDateTime": "2026-02-28T08:59:59"
+    },
+    {
+      "FirstTeamId": 104145,
+      "FirstTeamName": "Stingray Blue 15-2",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Stingray Blue 15-2 (NC)",
+      "SecondTeamId": 221171,
+      "SecondTeamName": "Lakas 15 Power 2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Lakas 15 Power 2 (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165591,
+      "WorkTeamText": "OMNI 15 Prime (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54723,
+      "Court": {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T09:00:00",
+      "ScheduledEndDateTime": "2026-02-28T09:59:59"
+    },
+    {
+      "FirstTeamId": 165591,
+      "FirstTeamName": "OMNI 15 Prime",
+      "FirstTeamWon": true,
+      "FirstTeamText": "OMNI 15 Prime (NC)",
+      "SecondTeamId": 221171,
+      "SecondTeamName": "Lakas 15 Power 2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Lakas 15 Power 2 (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 11,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 63191,
+      "WorkTeamText": "Empire 15 Power Jack (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54724,
+      "Court": {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T10:00:00",
+      "ScheduledEndDateTime": "2026-02-28T10:59:59"
+    },
+    {
+      "FirstTeamId": 104145,
+      "FirstTeamName": "Stingray Blue 15-2",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Stingray Blue 15-2 (NC)",
+      "SecondTeamId": 63191,
+      "SecondTeamName": "Empire 15 Power Jack",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Empire 15 Power Jack (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "22-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 16,
+          "ScoreText": "16-14",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165591,
+      "WorkTeamText": "OMNI 15 Prime (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54725,
+      "Court": {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T11:00:00",
+      "ScheduledEndDateTime": "2026-02-28T11:59:59"
+    },
+    {
+      "FirstTeamId": 63191,
+      "FirstTeamName": "Empire 15 Power Jack",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 15 Power Jack (NC)",
+      "SecondTeamId": 221171,
+      "SecondTeamName": "Lakas 15 Power 2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Lakas 15 Power 2 (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 6,
+          "ScoreText": "15-6",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 104145,
+      "WorkTeamText": "Stingray Blue 15-2 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54726,
+      "Court": {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T12:00:00",
+      "ScheduledEndDateTime": "2026-02-28T12:59:59"
+    },
+    {
+      "FirstTeamId": 165591,
+      "FirstTeamName": "OMNI 15 Prime",
+      "FirstTeamWon": true,
+      "FirstTeamText": "OMNI 15 Prime (NC)",
+      "SecondTeamId": 104145,
+      "SecondTeamName": "Stingray Blue 15-2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Stingray Blue 15-2 (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 28,
+          "SecondTeamScore": 26,
+          "ScoreText": "28-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 13,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 221171,
+      "WorkTeamText": "Lakas 15 Power 2 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54727,
+      "Court": {
+        "CourtId": -54697,
+        "Name": "Grounds Ct.18",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T13:00:00",
+      "ScheduledEndDateTime": "2026-02-28T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - OMNI 15 Prime (NC)",
+      "Match": {
+        "MatchId": -54756,
+        "Court": {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -54728,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze C1v1",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze C 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54696,
+            "Name": "Grounds Ct.17",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Empire 15 Power Jack (NC)",
+      "Match": {
+        "MatchId": -54757,
+        "Court": {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -54732,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze C2v2",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze C 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54697,
+            "Name": "Grounds Ct.18",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Stingray Blue 15-2 (NC)",
+      "Match": {
+        "MatchId": -54758,
+        "Court": {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -54736,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze C3v3",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze C 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54696,
+            "Name": "Grounds Ct.17",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Lakas 15 Power 2 (NC)",
+      "Match": {
+        "MatchId": -54759,
+        "Court": {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -54740,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze C4v4",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze C 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54697,
+            "Name": "Grounds Ct.18",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

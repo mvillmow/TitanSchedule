@@ -1,0 +1,581 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 113726,
+        "TeamName": "Stingray Blue 16-2",
+        "TeamCode": "g16stray2nc",
+        "TeamText": "Stingray Blue 16-2 (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 0.972972972972973,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 816,
+          "Name": "Stingray Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "stingray blue 16-2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 182270,
+        "TeamName": "Fusion 15 Titanium",
+        "TeamCode": "g15fuvbc1nc",
+        "TeamText": "Fusion 15 Titanium (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7697368421052632,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 15 titanium",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75345,
+        "TeamName": "SynergyForce 16 Silver",
+        "TeamCode": "g16force5nc",
+        "TeamText": "SynergyForce 16 Silver (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.2890625,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 16 silver",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 48399,
+        "TeamName": "City Beach 15-Green",
+        "TeamCode": "g15beach2nc",
+        "TeamText": "City Beach 15-Green (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 4,
+        "SetPercent": 0.5555555555555556,
+        "PointRatio": 1.0114285714285713,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 15-green",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51795,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg2Jan25Bronze BP2",
+    "CompleteFullName": "Lg2 Jan 25 Bronze B Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52119,
+        "Name": "Oakland CC Ct.6",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 113726,
+      "FirstTeamName": "Stingray Blue 16-2",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Stingray Blue 16-2 (NC)",
+      "SecondTeamId": 75345,
+      "SecondTeamName": "SynergyForce 16 Silver",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 16 Silver (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 182270,
+      "WorkTeamText": "Fusion 15 Titanium (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51798,
+      "Court": {
+        "CourtId": -52119,
+        "Name": "Oakland CC Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:30:00",
+      "ScheduledEndDateTime": "2026-01-25T13:29:59"
+    },
+    {
+      "FirstTeamId": 182270,
+      "FirstTeamName": "Fusion 15 Titanium",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Fusion 15 Titanium (NC)",
+      "SecondTeamId": 48399,
+      "SecondTeamName": "City Beach 15-Green",
+      "SecondTeamWon": true,
+      "SecondTeamText": "City Beach 15-Green (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 27,
+          "ScoreText": "27-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 10,
+          "ScoreText": "10-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 6,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-6",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 113726,
+      "WorkTeamText": "Stingray Blue 16-2 (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51799,
+      "Court": {
+        "CourtId": -52119,
+        "Name": "Oakland CC Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:30:00",
+      "ScheduledEndDateTime": "2026-01-25T14:29:59"
+    },
+    {
+      "FirstTeamId": 113726,
+      "FirstTeamName": "Stingray Blue 16-2",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Stingray Blue 16-2 (NC)",
+      "SecondTeamId": 48399,
+      "SecondTeamName": "City Beach 15-Green",
+      "SecondTeamWon": true,
+      "SecondTeamText": "City Beach 15-Green (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-27",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 9,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-9",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75345,
+      "WorkTeamText": "SynergyForce 16 Silver (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51800,
+      "Court": {
+        "CourtId": -52119,
+        "Name": "Oakland CC Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T14:30:00",
+      "ScheduledEndDateTime": "2026-01-25T15:29:59"
+    },
+    {
+      "FirstTeamId": 182270,
+      "FirstTeamName": "Fusion 15 Titanium",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Fusion 15 Titanium (NC)",
+      "SecondTeamId": 75345,
+      "SecondTeamName": "SynergyForce 16 Silver",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 16 Silver (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 113726,
+      "WorkTeamText": "Stingray Blue 16-2 (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51801,
+      "Court": {
+        "CourtId": -52119,
+        "Name": "Oakland CC Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T15:30:00",
+      "ScheduledEndDateTime": "2026-01-25T16:29:59"
+    },
+    {
+      "FirstTeamId": 75345,
+      "FirstTeamName": "SynergyForce 16 Silver",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 16 Silver (NC)",
+      "SecondTeamId": 48399,
+      "SecondTeamName": "City Beach 15-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 15-Green (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 25,
+          "ScoreText": "27-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 10,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 182270,
+      "WorkTeamText": "Fusion 15 Titanium (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51802,
+      "Court": {
+        "CourtId": -52119,
+        "Name": "Oakland CC Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T16:30:00",
+      "ScheduledEndDateTime": "2026-01-25T17:29:59"
+    },
+    {
+      "FirstTeamId": 113726,
+      "FirstTeamName": "Stingray Blue 16-2",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Stingray Blue 16-2 (NC)",
+      "SecondTeamId": 182270,
+      "SecondTeamName": "Fusion 15 Titanium",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Fusion 15 Titanium (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 48399,
+      "WorkTeamText": "City Beach 15-Green (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51803,
+      "Court": {
+        "CourtId": -52119,
+        "Name": "Oakland CC Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T17:30:00",
+      "ScheduledEndDateTime": "2026-01-25T18:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - SynergyForce 16 Silver (NC)",
+      "Match": {
+        "MatchId": -51866,
+        "Court": {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51822,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg2Jan25XOBronze B1v1",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52118,
+            "Name": "Oakland CC Ct.5",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - City Beach 15-Green (NC)",
+      "Match": {
+        "MatchId": -51867,
+        "Court": {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51826,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg2Jan25XOBronze B2v2",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52119,
+            "Name": "Oakland CC Ct.6",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Stingray Blue 16-2 (NC)",
+      "Match": {
+        "MatchId": -51868,
+        "Court": {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T19:30:00",
+        "ScheduledEndDateTime": "2026-01-25T20:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51866,
+        "Court": {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51830,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg2Jan25XOBronze B3v3",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52118,
+            "Name": "Oakland CC Ct.5",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Fusion 15 Titanium (NC)",
+      "Match": {
+        "MatchId": -51869,
+        "Court": {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T19:30:00",
+        "ScheduledEndDateTime": "2026-01-25T20:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51867,
+        "Court": {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T18:30:00",
+        "ScheduledEndDateTime": "2026-01-25T19:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51834,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg2Jan25XOBronze B4v4",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52119,
+            "Name": "Oakland CC Ct.6",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

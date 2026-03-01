@@ -1,0 +1,1019 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 225522,
+        "TeamName": "ATN 14 Chloe",
+        "TeamCode": "g14abtnt2nc",
+        "TeamText": "ATN 14 Chloe (NC) (8)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 1,
+        "SetPercent": 0.8888888888888888,
+        "PointRatio": 1.401360544217687,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 30992,
+          "Name": "Above The Net VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "atn 14 chloe",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206878,
+        "TeamName": "Five Starz 14 White Chelsea",
+        "TeamCode": "g14fives2nc",
+        "TeamText": "Five Starz 14 White Chelsea (NC) (9)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 6,
+        "SetsLost": 5,
+        "SetPercent": 0.5454545454545454,
+        "PointRatio": 1.1485148514851484,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 4308,
+          "Name": "Five Starz VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "five starz 14 white chelsea",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171320,
+        "TeamName": "OMNI 14 Premier II",
+        "TeamCode": "g14omniv6nc",
+        "TeamText": "OMNI 14 Premier II (NC) (24)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.6871794871794872,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "omni 14 premier ii",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 161631,
+        "TeamName": "NorCal Supreme 14 Red",
+        "TeamCode": "g14116192nc",
+        "TeamText": "NorCal Supreme 14 Red (NC) (25)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 7,
+        "SetsLost": 3,
+        "SetPercent": 0.7,
+        "PointRatio": 1.2359550561797752,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "norcal supreme 14 red",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 222899,
+        "TeamName": "Arbuckle 14 LK",
+        "TeamCode": "g14arbkl2nc",
+        "TeamText": "Arbuckle 14 LK (NC) (40)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.8018867924528302,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "arbuckle 14 lk",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 207822,
+        "TeamName": "NNJ 14 Brooklyn",
+        "TeamCode": "g14nnejr5nc",
+        "TeamText": "NNJ 14 Brooklyn (NC) (41)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 5,
+        "SetPercent": 0.4444444444444444,
+        "PointRatio": 0.8571428571428571,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "nnj 14 brooklyn",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54344,
+    "FullName": "Pool 8",
+    "ShortName": "P8",
+    "CompleteShortName": "LgQJan31P8",
+    "CompleteFullName": "LgQ - Jan 31 Pool 8",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 161631,
+      "FirstTeamName": "NorCal Supreme 14 Red",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NorCal Supreme 14 Red (NC) (25)",
+      "SecondTeamId": 207822,
+      "SecondTeamName": "NNJ 14 Brooklyn",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 14 Brooklyn (NC) (41)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225522,
+      "WorkTeamText": "ATN 14 Chloe (NC) (8)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54538,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T14:30:00",
+      "ScheduledEndDateTime": "2026-01-31T15:29:59"
+    },
+    {
+      "FirstTeamId": 171320,
+      "FirstTeamName": "OMNI 14 Premier II",
+      "FirstTeamWon": true,
+      "FirstTeamText": "OMNI 14 Premier II (NC) (24)",
+      "SecondTeamId": 222899,
+      "SecondTeamName": "Arbuckle 14 LK",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Arbuckle 14 LK (NC) (40)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206878,
+      "WorkTeamText": "Five Starz 14 White Chelsea (NC) (9)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54539,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T14:30:00",
+      "ScheduledEndDateTime": "2026-01-31T15:29:59"
+    },
+    {
+      "FirstTeamId": 225522,
+      "FirstTeamName": "ATN 14 Chloe",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ATN 14 Chloe (NC) (8)",
+      "SecondTeamId": 207822,
+      "SecondTeamName": "NNJ 14 Brooklyn",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 14 Brooklyn (NC) (41)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 161631,
+      "WorkTeamText": "NorCal Supreme 14 Red (NC) (25)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54540,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T15:30:00",
+      "ScheduledEndDateTime": "2026-01-31T16:29:59"
+    },
+    {
+      "FirstTeamId": 206878,
+      "FirstTeamName": "Five Starz 14 White Chelsea",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Five Starz 14 White Chelsea (NC) (9)",
+      "SecondTeamId": 222899,
+      "SecondTeamName": "Arbuckle 14 LK",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Arbuckle 14 LK (NC) (40)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "22-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 13,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171320,
+      "WorkTeamText": "OMNI 14 Premier II (NC) (24)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54541,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T15:30:00",
+      "ScheduledEndDateTime": "2026-01-31T16:29:59"
+    },
+    {
+      "FirstTeamId": 225522,
+      "FirstTeamName": "ATN 14 Chloe",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ATN 14 Chloe (NC) (8)",
+      "SecondTeamId": 161631,
+      "SecondTeamName": "NorCal Supreme 14 Red",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NorCal Supreme 14 Red (NC) (25)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 28,
+          "ScoreText": "15-28",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 11,
+          "ScoreText": "15-11",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 207822,
+      "WorkTeamText": "NNJ 14 Brooklyn (NC) (41)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54542,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T16:30:00",
+      "ScheduledEndDateTime": "2026-01-31T17:29:59"
+    },
+    {
+      "FirstTeamId": 206878,
+      "FirstTeamName": "Five Starz 14 White Chelsea",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Five Starz 14 White Chelsea (NC) (9)",
+      "SecondTeamId": 171320,
+      "SecondTeamName": "OMNI 14 Premier II",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 14 Premier II (NC) (24)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 222899,
+      "WorkTeamText": "Arbuckle 14 LK (NC) (40)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54543,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T16:30:00",
+      "ScheduledEndDateTime": "2026-01-31T17:29:59"
+    },
+    {
+      "FirstTeamId": 161631,
+      "FirstTeamName": "NorCal Supreme 14 Red",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NorCal Supreme 14 Red (NC) (25)",
+      "SecondTeamId": 222899,
+      "SecondTeamName": "Arbuckle 14 LK",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Arbuckle 14 LK (NC) (40)",
+      "MatchFullName": "Match 7",
+      "MatchShortName": "M7",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 11,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225522,
+      "WorkTeamText": "ATN 14 Chloe (NC) (8)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54544,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T17:30:00",
+      "ScheduledEndDateTime": "2026-01-31T18:29:59"
+    },
+    {
+      "FirstTeamId": 171320,
+      "FirstTeamName": "OMNI 14 Premier II",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 14 Premier II (NC) (24)",
+      "SecondTeamId": 207822,
+      "SecondTeamName": "NNJ 14 Brooklyn",
+      "SecondTeamWon": true,
+      "SecondTeamText": "NNJ 14 Brooklyn (NC) (41)",
+      "MatchFullName": "Match 8",
+      "MatchShortName": "M8",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206878,
+      "WorkTeamText": "Five Starz 14 White Chelsea (NC) (9)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54545,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T17:30:00",
+      "ScheduledEndDateTime": "2026-01-31T18:29:59"
+    },
+    {
+      "FirstTeamId": 225522,
+      "FirstTeamName": "ATN 14 Chloe",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ATN 14 Chloe (NC) (8)",
+      "SecondTeamId": 222899,
+      "SecondTeamName": "Arbuckle 14 LK",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Arbuckle 14 LK (NC) (40)",
+      "MatchFullName": "Match 9",
+      "MatchShortName": "M9",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171320,
+      "WorkTeamText": "OMNI 14 Premier II (NC) (24)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54546,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T18:30:00",
+      "ScheduledEndDateTime": "2026-01-31T19:29:59"
+    },
+    {
+      "FirstTeamId": 206878,
+      "FirstTeamName": "Five Starz 14 White Chelsea",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Five Starz 14 White Chelsea (NC) (9)",
+      "SecondTeamId": 207822,
+      "SecondTeamName": "NNJ 14 Brooklyn",
+      "SecondTeamWon": true,
+      "SecondTeamText": "NNJ 14 Brooklyn (NC) (41)",
+      "MatchFullName": "Match 10",
+      "MatchShortName": "M10",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "20-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 16,
+          "ScoreText": "16-14",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 161631,
+      "WorkTeamText": "NorCal Supreme 14 Red (NC) (25)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54547,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T18:30:00",
+      "ScheduledEndDateTime": "2026-01-31T19:29:59"
+    },
+    {
+      "FirstTeamId": 225522,
+      "FirstTeamName": "ATN 14 Chloe",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ATN 14 Chloe (NC) (8)",
+      "SecondTeamId": 171320,
+      "SecondTeamName": "OMNI 14 Premier II",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 14 Premier II (NC) (24)",
+      "MatchFullName": "Match 11",
+      "MatchShortName": "M11",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 10,
+          "ScoreText": "25-10",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 222899,
+      "WorkTeamText": "Arbuckle 14 LK (NC) (40)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54548,
+      "Court": {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T19:30:00",
+      "ScheduledEndDateTime": "2026-01-31T20:29:59"
+    },
+    {
+      "FirstTeamId": 206878,
+      "FirstTeamName": "Five Starz 14 White Chelsea",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Five Starz 14 White Chelsea (NC) (9)",
+      "SecondTeamId": 161631,
+      "SecondTeamName": "NorCal Supreme 14 Red",
+      "SecondTeamWon": true,
+      "SecondTeamText": "NorCal Supreme 14 Red (NC) (25)",
+      "MatchFullName": "Match 12",
+      "MatchShortName": "M12",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "17-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 207822,
+      "WorkTeamText": "NNJ 14 Brooklyn (NC) (41)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54549,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T19:30:00",
+      "ScheduledEndDateTime": "2026-01-31T20:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - ATN 14 Chloe (NC) (8)",
+      "Match": {
+        "MatchId": -55313,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55314,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T10:30:00",
+        "ScheduledEndDateTime": "2026-02-01T11:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55121,
+        "FullName": "Gold A",
+        "ShortName": "Gold A",
+        "CompleteShortName": "LgQFeb1BAll 1s-2sGold A",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold A",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - NorCal Supreme 14 Red (NC) (25)",
+      "Match": {
+        "MatchId": -55321,
+        "Court": {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55320,
+        "Court": {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T07:30:00",
+        "ScheduledEndDateTime": "2026-02-01T08:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55300,
+        "FullName": "Gold C",
+        "ShortName": "Gold C",
+        "CompleteShortName": "LgQFeb1BAll 1s-2sGold C",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold C",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52784,
+            "Name": "OMNI Ct.6",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - NNJ 14 Brooklyn (NC) (41)",
+      "Match": {
+        "MatchId": -55340,
+        "Court": {
+          "CourtId": -52779,
+          "Name": "OMNI Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55341,
+        "Court": {
+          "CourtId": -52779,
+          "Name": "OMNI Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T10:30:00",
+        "ScheduledEndDateTime": "2026-02-01T11:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55331,
+        "FullName": "Silver A",
+        "ShortName": "Silver A",
+        "CompleteShortName": "LgQFeb1BAll 3s-4sSilver A",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver A",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52779,
+            "Name": "OMNI Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Five Starz 14 White Chelsea (NC) (9)",
+      "Match": {
+        "MatchId": -55348,
+        "Court": {
+          "CourtId": -52780,
+          "Name": "OMNI Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55347,
+        "Court": {
+          "CourtId": -52780,
+          "Name": "OMNI Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T07:30:00",
+        "ScheduledEndDateTime": "2026-02-01T08:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55129,
+        "FullName": "Silver C",
+        "ShortName": "Silver C",
+        "CompleteShortName": "LgQFeb1BAll 3s-4sSilver C",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver C",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52780,
+            "Name": "OMNI Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "5 - OMNI 14 Premier II (NC) (24)",
+      "Match": {
+        "MatchId": -55367,
+        "Court": {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T13:30:00",
+        "ScheduledEndDateTime": "2026-02-01T14:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -55354,
+        "FullName": "Bronze A",
+        "ShortName": "Bronze A",
+        "CompleteShortName": "LgQFeb1BAll 5s-6sBronze A",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze A",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52784,
+            "Name": "OMNI Ct.6",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "6 - Arbuckle 14 LK (NC) (40)",
+      "Match": {
+        "MatchId": -55375,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T13:30:00",
+        "ScheduledEndDateTime": "2026-02-01T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55374,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T12:30:00",
+        "ScheduledEndDateTime": "2026-02-01T13:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55137,
+        "FullName": "Bronze C",
+        "ShortName": "Bronze C",
+        "CompleteShortName": "LgQFeb1BAll 5s-6sBronze C",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze C",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

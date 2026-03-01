@@ -1,0 +1,581 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 75341,
+        "TeamName": "SynergyForce 15 Black",
+        "TeamCode": "g15force4nc",
+        "TeamText": "SynergyForce 15 Black (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 226787,
+        "TeamName": "Adrenaline - Todd 15-1",
+        "TeamCode": "g15avcrc1nc",
+        "TeamText": "Adrenaline - Todd 15-1 (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 28971,
+          "Name": "Adrenaline Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "adrenaline - todd 15-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 216270,
+        "TeamName": "Arbuckle 15",
+        "TeamCode": "g15arbkl1nc",
+        "TeamText": "Arbuckle 15 (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "arbuckle 15",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 131808,
+        "TeamName": "Aspire 17-2 Pink",
+        "TeamCode": "g17folso1nc",
+        "TeamText": "Aspire 17-2 Pink (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 17-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51397,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg4Mar1Silver BP2",
+    "CompleteFullName": "Lg4 Mar 1 Silver B Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 75341,
+      "FirstTeamName": "SynergyForce 15 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 15 Black (NC)",
+      "SecondTeamId": 216270,
+      "SecondTeamName": "Arbuckle 15",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Arbuckle 15 (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 226787,
+      "WorkTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51400,
+      "Court": {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T08:00:00",
+      "ScheduledEndDateTime": "2026-03-01T08:59:59"
+    },
+    {
+      "FirstTeamId": 226787,
+      "FirstTeamName": "Adrenaline - Todd 15-1",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "SecondTeamId": 131808,
+      "SecondTeamName": "Aspire 17-2 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 17-2 Pink (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75341,
+      "WorkTeamText": "SynergyForce 15 Black (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51401,
+      "Court": {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T09:00:00",
+      "ScheduledEndDateTime": "2026-03-01T09:59:59"
+    },
+    {
+      "FirstTeamId": 75341,
+      "FirstTeamName": "SynergyForce 15 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 15 Black (NC)",
+      "SecondTeamId": 131808,
+      "SecondTeamName": "Aspire 17-2 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 17-2 Pink (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216270,
+      "WorkTeamText": "Arbuckle 15 (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51402,
+      "Court": {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T10:00:00",
+      "ScheduledEndDateTime": "2026-03-01T10:59:59"
+    },
+    {
+      "FirstTeamId": 226787,
+      "FirstTeamName": "Adrenaline - Todd 15-1",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "SecondTeamId": 216270,
+      "SecondTeamName": "Arbuckle 15",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Arbuckle 15 (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75341,
+      "WorkTeamText": "SynergyForce 15 Black (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51403,
+      "Court": {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T11:00:00",
+      "ScheduledEndDateTime": "2026-03-01T11:59:59"
+    },
+    {
+      "FirstTeamId": 216270,
+      "FirstTeamName": "Arbuckle 15",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Arbuckle 15 (NC)",
+      "SecondTeamId": 131808,
+      "SecondTeamName": "Aspire 17-2 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 17-2 Pink (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 226787,
+      "WorkTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51404,
+      "Court": {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T12:00:00",
+      "ScheduledEndDateTime": "2026-03-01T12:59:59"
+    },
+    {
+      "FirstTeamId": 75341,
+      "FirstTeamName": "SynergyForce 15 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 15 Black (NC)",
+      "SecondTeamId": 226787,
+      "SecondTeamName": "Adrenaline - Todd 15-1",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 131808,
+      "WorkTeamText": "Aspire 17-2 Pink (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51405,
+      "Court": {
+        "CourtId": -54689,
+        "Name": "Grounds Ct.10",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T13:00:00",
+      "ScheduledEndDateTime": "2026-03-01T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg4Mar1Silver BP2",
+      "Match": {
+        "MatchId": -51552,
+        "Court": {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51557,
+        "Court": {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51548,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg 4Mar1XOSilver B1v1",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54688,
+            "Name": "Grounds Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg4Mar1Silver BP2",
+      "Match": {
+        "MatchId": -51557,
+        "Court": {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51553,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg 4Mar1XOSilver B2v2",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54688,
+            "Name": "Grounds Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg4Mar1Silver BP2",
+      "Match": {
+        "MatchId": -51562,
+        "Court": {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51567,
+        "Court": {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51558,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg 4Mar1XOSilver B3v3",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54689,
+            "Name": "Grounds Ct.10",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg4Mar1Silver BP2",
+      "Match": {
+        "MatchId": -51567,
+        "Court": {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51563,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg 4Mar1XOSilver B4v4",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54689,
+            "Name": "Grounds Ct.10",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

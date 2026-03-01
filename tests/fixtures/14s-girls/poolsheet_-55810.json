@@ -1,0 +1,184 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 88242,
+        "TeamName": "SynergyForce 14 Red",
+        "TeamCode": "g14force7nc",
+        "TeamText": "SynergyForce 14 Red (NC) (2)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 red",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 149335,
+        "TeamName": "AAVC 14-Black",
+        "TeamCode": "g14auace1nc",
+        "TeamText": "AAVC 14-Black (NC) (3)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 23413,
+          "Name": "Auburn Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aavc 14-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 152064,
+        "TeamName": "NNJ 14 Aceenia",
+        "TeamCode": "g14nnejr4nc",
+        "TeamText": "NNJ 14 Aceenia (NC) (9)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "nnj 14 aceenia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 192738,
+        "TeamName": "FPVC 14 Ethan",
+        "TeamCode": "g14fpvcv4nc",
+        "TeamText": "FPVC 14 Ethan (NC) (11)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 7370,
+          "Name": "FPVC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "fpvc 14 ethan",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -55810,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg2Mar14D1P2",
+    "CompleteFullName": "Lg 2 Mar 14 Division 1 Pool 2",
+    "Order": 0,
+    "Courts": []
+  },
+  "Matches": [],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg2Mar14D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg2Mar14D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg2Mar14D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg2Mar14D1P2",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

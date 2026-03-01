@@ -1,0 +1,572 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 89994,
+        "TeamName": "Aspire 18-1 Black",
+        "TeamCode": "g18folso1nc",
+        "TeamText": "Aspire 18-1 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.119205298013245,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 18-1 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 198426,
+        "TeamName": "OMNI 18 Power",
+        "TeamCode": "g18omniv3nc",
+        "TeamText": "OMNI 18 Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.0326797385620916,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 18 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 128938,
+        "TeamName": "SynergyForce 17 Black",
+        "TeamCode": "g17force4nc",
+        "TeamText": "SynergyForce 17 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 0.9863945578231292,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 17 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 216196,
+        "TeamName": "Gallant 18 White",
+        "TeamCode": "g18gallaznc",
+        "TeamText": "Gallant 18 White (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.8662420382165605,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 31217,
+          "Name": "Gallant Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "gallant 18 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50699,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg2Jan25Gold BP1",
+    "CompleteFullName": "Lg2 Jan 25 Gold B Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 89994,
+      "FirstTeamName": "Aspire 18-1 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Aspire 18-1 Black (NC)",
+      "SecondTeamId": 128938,
+      "SecondTeamName": "SynergyForce 17 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 17 Black (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 198426,
+      "WorkTeamText": "OMNI 18 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50702,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T08:00:00",
+      "ScheduledEndDateTime": "2026-01-25T08:59:59"
+    },
+    {
+      "FirstTeamId": 198426,
+      "FirstTeamName": "OMNI 18 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "OMNI 18 Power (NC)",
+      "SecondTeamId": 216196,
+      "SecondTeamName": "Gallant 18 White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Gallant 18 White (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 89994,
+      "WorkTeamText": "Aspire 18-1 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50703,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T09:00:00",
+      "ScheduledEndDateTime": "2026-01-25T09:59:59"
+    },
+    {
+      "FirstTeamId": 89994,
+      "FirstTeamName": "Aspire 18-1 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Aspire 18-1 Black (NC)",
+      "SecondTeamId": 216196,
+      "SecondTeamName": "Gallant 18 White",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Gallant 18 White (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 9,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-9",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 128938,
+      "WorkTeamText": "SynergyForce 17 Black (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50704,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T10:00:00",
+      "ScheduledEndDateTime": "2026-01-25T10:59:59"
+    },
+    {
+      "FirstTeamId": 198426,
+      "FirstTeamName": "OMNI 18 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 18 Power (NC)",
+      "SecondTeamId": 128938,
+      "SecondTeamName": "SynergyForce 17 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 17 Black (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "16-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 89994,
+      "WorkTeamText": "Aspire 18-1 Black (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50705,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T11:00:00",
+      "ScheduledEndDateTime": "2026-01-25T11:59:59"
+    },
+    {
+      "FirstTeamId": 128938,
+      "FirstTeamName": "SynergyForce 17 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 17 Black (NC)",
+      "SecondTeamId": 216196,
+      "SecondTeamName": "Gallant 18 White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Gallant 18 White (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 198426,
+      "WorkTeamText": "OMNI 18 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50706,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:00:00",
+      "ScheduledEndDateTime": "2026-01-25T12:59:59"
+    },
+    {
+      "FirstTeamId": 89994,
+      "FirstTeamName": "Aspire 18-1 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Aspire 18-1 Black (NC)",
+      "SecondTeamId": 198426,
+      "SecondTeamName": "OMNI 18 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 18 Power (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "22-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 6,
+          "ScoreText": "15-6",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216196,
+      "WorkTeamText": "Gallant 18 White (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50707,
+      "Court": {
+        "CourtId": -52123,
+        "Name": "NorCal Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:00:00",
+      "ScheduledEndDateTime": "2026-01-25T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Aspire 18-1 Black (NC)",
+      "Match": {
+        "MatchId": -50857,
+        "Court": {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50853,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg2Jan25XOGold B1v1",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52123,
+            "Name": "NorCal Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - SynergyForce 17 Black (NC)",
+      "Match": {
+        "MatchId": -50862,
+        "Court": {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50872,
+        "Court": {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50858,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg2Jan25XOGold B2v2",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52124,
+            "Name": "NorCal Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - OMNI 18 Power (NC)",
+      "Match": {
+        "MatchId": -50867,
+        "Court": {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50863,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg2Jan25XOGold B3v3",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52123,
+            "Name": "NorCal Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Gallant 18 White (NC)",
+      "Match": {
+        "MatchId": -50872,
+        "Court": {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50868,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg2Jan25XOGold B4v4",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52124,
+            "Name": "NorCal Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

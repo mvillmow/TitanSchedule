@@ -1,0 +1,572 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 165181,
+        "TeamName": "NNJ 17 Chin",
+        "TeamCode": "g17nnejr2nc",
+        "TeamText": "NNJ 17 Chin (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.1349206349206349,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "nnj 17 chin",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 153480,
+        "TeamName": "NorCal Supreme 17 Blue",
+        "TeamCode": "g17116191nc",
+        "TeamText": "NorCal Supreme 17 Blue (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.01840490797546,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "norcal supreme 17 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 150683,
+        "TeamName": "VVA 15-DenHartog",
+        "TeamCode": "g15vavbc2nc",
+        "TeamText": "VVA 15-DenHartog (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.1372549019607843,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27398,
+          "Name": "Valley Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "vva 15-denhartog",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 1403,
+        "TeamName": "City Beach 16-Green",
+        "TeamCode": "g16beach2nc",
+        "TeamText": "City Beach 16-Green (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.764367816091954,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 16-green",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50402,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg1Jan24Gold CP1",
+    "CompleteFullName": "Lg1 Jan 24 Gold C Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52125,
+        "Name": "Las Positas Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 165181,
+      "FirstTeamName": "NNJ 17 Chin",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NNJ 17 Chin (NC)",
+      "SecondTeamId": 150683,
+      "SecondTeamName": "VVA 15-DenHartog",
+      "SecondTeamWon": true,
+      "SecondTeamText": "VVA 15-DenHartog (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 153480,
+      "WorkTeamText": "NorCal Supreme 17 Blue (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50405,
+      "Court": {
+        "CourtId": -52125,
+        "Name": "Las Positas Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T08:00:00",
+      "ScheduledEndDateTime": "2026-01-24T08:59:59"
+    },
+    {
+      "FirstTeamId": 153480,
+      "FirstTeamName": "NorCal Supreme 17 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NorCal Supreme 17 Blue (NC)",
+      "SecondTeamId": 1403,
+      "SecondTeamName": "City Beach 16-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 16-Green (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 7,
+          "ScoreText": "15-7",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165181,
+      "WorkTeamText": "NNJ 17 Chin (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50406,
+      "Court": {
+        "CourtId": -52125,
+        "Name": "Las Positas Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T09:00:00",
+      "ScheduledEndDateTime": "2026-01-24T09:59:59"
+    },
+    {
+      "FirstTeamId": 165181,
+      "FirstTeamName": "NNJ 17 Chin",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NNJ 17 Chin (NC)",
+      "SecondTeamId": 1403,
+      "SecondTeamName": "City Beach 16-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 16-Green (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 150683,
+      "WorkTeamText": "VVA 15-DenHartog (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50407,
+      "Court": {
+        "CourtId": -52125,
+        "Name": "Las Positas Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T10:00:00",
+      "ScheduledEndDateTime": "2026-01-24T10:59:59"
+    },
+    {
+      "FirstTeamId": 153480,
+      "FirstTeamName": "NorCal Supreme 17 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NorCal Supreme 17 Blue (NC)",
+      "SecondTeamId": 150683,
+      "SecondTeamName": "VVA 15-DenHartog",
+      "SecondTeamWon": false,
+      "SecondTeamText": "VVA 15-DenHartog (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 30,
+          "SecondTeamScore": 28,
+          "ScoreText": "30-28",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 25,
+          "ScoreText": "14-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 10,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165181,
+      "WorkTeamText": "NNJ 17 Chin (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50408,
+      "Court": {
+        "CourtId": -52125,
+        "Name": "Las Positas Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T11:00:00",
+      "ScheduledEndDateTime": "2026-01-24T11:59:59"
+    },
+    {
+      "FirstTeamId": 150683,
+      "FirstTeamName": "VVA 15-DenHartog",
+      "FirstTeamWon": true,
+      "FirstTeamText": "VVA 15-DenHartog (NC)",
+      "SecondTeamId": 1403,
+      "SecondTeamName": "City Beach 16-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 16-Green (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 10,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 153480,
+      "WorkTeamText": "NorCal Supreme 17 Blue (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50409,
+      "Court": {
+        "CourtId": -52125,
+        "Name": "Las Positas Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T12:00:00",
+      "ScheduledEndDateTime": "2026-01-24T12:59:59"
+    },
+    {
+      "FirstTeamId": 165181,
+      "FirstTeamName": "NNJ 17 Chin",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NNJ 17 Chin (NC)",
+      "SecondTeamId": 153480,
+      "SecondTeamName": "NorCal Supreme 17 Blue",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NorCal Supreme 17 Blue (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 1403,
+      "WorkTeamText": "City Beach 16-Green (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50410,
+      "Court": {
+        "CourtId": -52125,
+        "Name": "Las Positas Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T13:00:00",
+      "ScheduledEndDateTime": "2026-01-24T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - NNJ 17 Chin (NC)",
+      "Match": {
+        "MatchId": -50562,
+        "Court": {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50558,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Jan24XOGold C1v1",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold C 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52125,
+            "Name": "Las Positas Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - VVA 15-DenHartog (NC)",
+      "Match": {
+        "MatchId": -50567,
+        "Court": {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50563,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Jan24XOGold C2v2",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold C 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52126,
+            "Name": "Las Positas Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - NorCal Supreme 17 Blue (NC)",
+      "Match": {
+        "MatchId": -50572,
+        "Court": {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50568,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Jan24XOGold C3v3",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold C 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52125,
+            "Name": "Las Positas Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - City Beach 16-Green (NC)",
+      "Match": {
+        "MatchId": -50577,
+        "Court": {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50567,
+        "Court": {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50573,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Jan24XOGold C4v4",
+        "CompleteFullName": "Lg1 Jan 24 XO Gold C 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52126,
+            "Name": "Las Positas Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

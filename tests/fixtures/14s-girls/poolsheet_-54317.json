@@ -1,0 +1,1019 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 225626,
+        "TeamName": "SPVC 14 Katelyn",
+        "TeamCode": "g14spvcv2nc",
+        "TeamText": "SPVC 14 Katelyn (NC) (5)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 6,
+        "SetsLost": 4,
+        "SetPercent": 0.6,
+        "PointRatio": 1.0203045685279188,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 7196,
+          "Name": "Sac Performance Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "spvc 14 katelyn",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 152064,
+        "TeamName": "NNJ 14 Aceenia",
+        "TeamCode": "g14nnejr4nc",
+        "TeamText": "NNJ 14 Aceenia (NC) (12)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 7,
+        "SetsLost": 4,
+        "SetPercent": 0.6363636363636364,
+        "PointRatio": 1.2240437158469946,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "nnj 14 aceenia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 163135,
+        "TeamName": "FPVC 13 Clara",
+        "TeamCode": "g13fpvcv3nc",
+        "TeamText": "FPVC 13 Clara (NC) (21)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 3,
+        "SetsLost": 6,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.8301886792452831,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 7370,
+          "Name": "FPVC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "fpvc 13 clara",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 197459,
+        "TeamName": "Yuba Elite 14 Black",
+        "TeamCode": "g14yubae3nc",
+        "TeamText": "Yuba Elite 14 Black (NC) (28)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 2,
+        "SetPercent": 0.8,
+        "PointRatio": 1.5384615384615385,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 24557,
+          "Name": "Yuba Elite Volleyball club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "yuba elite 14 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 154604,
+        "TeamName": "SynergyForce 14 Pink",
+        "TeamCode": "g14force10nc",
+        "TeamText": "SynergyForce 14 Pink (NC) (37)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.680952380952381,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 153029,
+        "TeamName": "SynergyForce 13 Blue",
+        "TeamCode": "g13force8nc",
+        "TeamText": "SynergyForce 13 Blue (NC) (44)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 5,
+        "SetPercent": 0.4444444444444444,
+        "PointRatio": 0.9040404040404041,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 13 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54317,
+    "FullName": "Pool 5",
+    "ShortName": "P5",
+    "CompleteShortName": "LgQJan31P5",
+    "CompleteFullName": "LgQ - Jan 31 Pool 5",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 197459,
+      "FirstTeamName": "Yuba Elite 14 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 14 Black (NC) (28)",
+      "SecondTeamId": 153029,
+      "SecondTeamName": "SynergyForce 13 Blue",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 13 Blue (NC) (44)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225626,
+      "WorkTeamText": "SPVC 14 Katelyn (NC) (5)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54493,
+      "Court": {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T14:30:00",
+      "ScheduledEndDateTime": "2026-01-31T15:29:59"
+    },
+    {
+      "FirstTeamId": 163135,
+      "FirstTeamName": "FPVC 13 Clara",
+      "FirstTeamWon": true,
+      "FirstTeamText": "FPVC 13 Clara (NC) (21)",
+      "SecondTeamId": 154604,
+      "SecondTeamName": "SynergyForce 14 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Pink (NC) (37)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 28,
+          "SecondTeamScore": 26,
+          "ScoreText": "28-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 152064,
+      "WorkTeamText": "NNJ 14 Aceenia (NC) (12)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54494,
+      "Court": {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T14:30:00",
+      "ScheduledEndDateTime": "2026-01-31T15:29:59"
+    },
+    {
+      "FirstTeamId": 225626,
+      "FirstTeamName": "SPVC 14 Katelyn",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SPVC 14 Katelyn (NC) (5)",
+      "SecondTeamId": 153029,
+      "SecondTeamName": "SynergyForce 13 Blue",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 13 Blue (NC) (44)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "19-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 6,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-6",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 197459,
+      "WorkTeamText": "Yuba Elite 14 Black (NC) (28)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54495,
+      "Court": {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T15:30:00",
+      "ScheduledEndDateTime": "2026-01-31T16:29:59"
+    },
+    {
+      "FirstTeamId": 152064,
+      "FirstTeamName": "NNJ 14 Aceenia",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NNJ 14 Aceenia (NC) (12)",
+      "SecondTeamId": 154604,
+      "SecondTeamName": "SynergyForce 14 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Pink (NC) (37)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 17,
+          "SecondTeamScore": 25,
+          "ScoreText": "17-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 2,
+          "ScoreText": "15-2",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 163135,
+      "WorkTeamText": "FPVC 13 Clara (NC) (21)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54496,
+      "Court": {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T15:30:00",
+      "ScheduledEndDateTime": "2026-01-31T16:29:59"
+    },
+    {
+      "FirstTeamId": 225626,
+      "FirstTeamName": "SPVC 14 Katelyn",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SPVC 14 Katelyn (NC) (5)",
+      "SecondTeamId": 197459,
+      "SecondTeamName": "Yuba Elite 14 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Yuba Elite 14 Black (NC) (28)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "22-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 5,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-5",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 153029,
+      "WorkTeamText": "SynergyForce 13 Blue (NC) (44)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54497,
+      "Court": {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T16:30:00",
+      "ScheduledEndDateTime": "2026-01-31T17:29:59"
+    },
+    {
+      "FirstTeamId": 152064,
+      "FirstTeamName": "NNJ 14 Aceenia",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NNJ 14 Aceenia (NC) (12)",
+      "SecondTeamId": 163135,
+      "SecondTeamName": "FPVC 13 Clara",
+      "SecondTeamWon": false,
+      "SecondTeamText": "FPVC 13 Clara (NC) (21)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "24-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 5,
+          "ScoreText": "15-5",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 154604,
+      "WorkTeamText": "SynergyForce 14 Pink (NC) (37)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54498,
+      "Court": {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T16:30:00",
+      "ScheduledEndDateTime": "2026-01-31T17:29:59"
+    },
+    {
+      "FirstTeamId": 197459,
+      "FirstTeamName": "Yuba Elite 14 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 14 Black (NC) (28)",
+      "SecondTeamId": 154604,
+      "SecondTeamName": "SynergyForce 14 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Pink (NC) (37)",
+      "MatchFullName": "Match 7",
+      "MatchShortName": "M7",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 7,
+          "ScoreText": "25-7",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225626,
+      "WorkTeamText": "SPVC 14 Katelyn (NC) (5)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54499,
+      "Court": {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T17:30:00",
+      "ScheduledEndDateTime": "2026-01-31T18:29:59"
+    },
+    {
+      "FirstTeamId": 163135,
+      "FirstTeamName": "FPVC 13 Clara",
+      "FirstTeamWon": false,
+      "FirstTeamText": "FPVC 13 Clara (NC) (21)",
+      "SecondTeamId": 153029,
+      "SecondTeamName": "SynergyForce 13 Blue",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 13 Blue (NC) (44)",
+      "MatchFullName": "Match 8",
+      "MatchShortName": "M8",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 152064,
+      "WorkTeamText": "NNJ 14 Aceenia (NC) (12)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54500,
+      "Court": {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T17:30:00",
+      "ScheduledEndDateTime": "2026-01-31T18:29:59"
+    },
+    {
+      "FirstTeamId": 225626,
+      "FirstTeamName": "SPVC 14 Katelyn",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SPVC 14 Katelyn (NC) (5)",
+      "SecondTeamId": 154604,
+      "SecondTeamName": "SynergyForce 14 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Pink (NC) (37)",
+      "MatchFullName": "Match 9",
+      "MatchShortName": "M9",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 163135,
+      "WorkTeamText": "FPVC 13 Clara (NC) (21)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54501,
+      "Court": {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T18:30:00",
+      "ScheduledEndDateTime": "2026-01-31T19:29:59"
+    },
+    {
+      "FirstTeamId": 152064,
+      "FirstTeamName": "NNJ 14 Aceenia",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NNJ 14 Aceenia (NC) (12)",
+      "SecondTeamId": 153029,
+      "SecondTeamName": "SynergyForce 13 Blue",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 13 Blue (NC) (44)",
+      "MatchFullName": "Match 10",
+      "MatchShortName": "M10",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 197459,
+      "WorkTeamText": "Yuba Elite 14 Black (NC) (28)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54502,
+      "Court": {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T18:30:00",
+      "ScheduledEndDateTime": "2026-01-31T19:29:59"
+    },
+    {
+      "FirstTeamId": 225626,
+      "FirstTeamName": "SPVC 14 Katelyn",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SPVC 14 Katelyn (NC) (5)",
+      "SecondTeamId": 163135,
+      "SecondTeamName": "FPVC 13 Clara",
+      "SecondTeamWon": false,
+      "SecondTeamText": "FPVC 13 Clara (NC) (21)",
+      "MatchFullName": "Match 11",
+      "MatchShortName": "M11",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 25,
+          "ScoreText": "27-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 154604,
+      "WorkTeamText": "SynergyForce 14 Pink (NC) (37)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54503,
+      "Court": {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T19:30:00",
+      "ScheduledEndDateTime": "2026-01-31T20:29:59"
+    },
+    {
+      "FirstTeamId": 152064,
+      "FirstTeamName": "NNJ 14 Aceenia",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NNJ 14 Aceenia (NC) (12)",
+      "SecondTeamId": 197459,
+      "SecondTeamName": "Yuba Elite 14 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Yuba Elite 14 Black (NC) (28)",
+      "MatchFullName": "Match 12",
+      "MatchShortName": "M12",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 10,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 153029,
+      "WorkTeamText": "SynergyForce 13 Blue (NC) (44)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54504,
+      "Court": {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T19:30:00",
+      "ScheduledEndDateTime": "2026-01-31T20:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Yuba Elite 14 Black (NC) (28)",
+      "Match": {
+        "MatchId": -55325,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55323,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T09:30:00",
+        "ScheduledEndDateTime": "2026-02-01T10:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55304,
+        "FullName": "Gold D",
+        "ShortName": "Gold D",
+        "CompleteShortName": "LgQFeb1BAll 1s-2sGold D",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold D",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52785,
+            "Name": "OMNI Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - NNJ 14 Aceenia (NC) (12)",
+      "Match": {
+        "MatchId": -55317,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55316,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T07:30:00",
+        "ScheduledEndDateTime": "2026-02-01T08:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -54558,
+        "FullName": "Gold B",
+        "ShortName": "Gold B",
+        "CompleteShortName": "LgQFeb1BAll 1s-2sGold B",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold B",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - SynergyForce 13 Blue (NC) (44)",
+      "Match": {
+        "MatchId": -55352,
+        "Court": {
+          "CourtId": -52781,
+          "Name": "OMNI Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55350,
+        "Court": {
+          "CourtId": -52781,
+          "Name": "OMNI Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T09:30:00",
+        "ScheduledEndDateTime": "2026-02-01T10:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -54574,
+        "FullName": "Silver D",
+        "ShortName": "Silver D",
+        "CompleteShortName": "LgQFeb1BAll 3s-4sSilver D",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver D",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52781,
+            "Name": "OMNI Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - SPVC 14 Katelyn (NC) (5)",
+      "Match": {
+        "MatchId": -55344,
+        "Court": {
+          "CourtId": -52782,
+          "Name": "OMNI Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55343,
+        "Court": {
+          "CourtId": -52782,
+          "Name": "OMNI Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T07:30:00",
+        "ScheduledEndDateTime": "2026-02-01T08:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55327,
+        "FullName": "Silver B",
+        "ShortName": "Silver B",
+        "CompleteShortName": "LgQFeb1BAll 3s-4sSilver B",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver B",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52782,
+            "Name": "OMNI Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "5 - FPVC 13 Clara (NC) (21)",
+      "Match": {
+        "MatchId": -55379,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T13:30:00",
+        "ScheduledEndDateTime": "2026-02-01T14:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -54590,
+        "FullName": "Bronze D",
+        "ShortName": "Bronze D",
+        "CompleteShortName": "LgQFeb1BAll 5s-6sBronze D",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze D",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "6 - SynergyForce 14 Pink (NC) (37)",
+      "Match": {
+        "MatchId": -55371,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T13:30:00",
+        "ScheduledEndDateTime": "2026-02-01T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55370,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T12:30:00",
+        "ScheduledEndDateTime": "2026-02-01T13:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55358,
+        "FullName": "Bronze B",
+        "ShortName": "Bronze B",
+        "CompleteShortName": "LgQFeb1BAll 5s-6sBronze B",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze B",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52785,
+            "Name": "OMNI Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TitanSchedule — Tournament Sorting Network</title>
+
+  <!-- Tailwind CSS via CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Cytoscape.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.28.1/cytoscape.min.js"></script>
+
+  <!-- Cytoscape HTML label extension (match cards) -->
+  <script src="https://cdn.jsdelivr.net/npm/cytoscape-node-html-label@1.2.2/dist/cytoscape-node-html-label.min.js"></script>
+
+  <!-- jsPDF for PDF export -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="flex flex-col h-screen overflow-hidden bg-gray-50">
+
+  <!-- Header -->
+  <header class="bg-white border-b border-gray-200 px-4 py-2 flex items-center justify-between flex-shrink-0">
+    <div>
+      <h1 id="event-name" class="text-base font-bold text-gray-900 leading-tight">TitanSchedule</h1>
+      <p id="division-name" class="text-xs text-gray-500">Loading…</p>
+    </div>
+    <div class="text-xs text-gray-400" id="scraped-at"></div>
+  </header>
+
+  <!-- Landing Page (shown when no ?div= param) -->
+  <div id="landing" class="hidden flex-1 overflow-auto"></div>
+
+  <!-- Graph Container -->
+  <div id="cy-wrap" class="flex-1 overflow-hidden relative">
+    <div id="cy" class="w-full h-full"></div>
+
+    <!-- Loading Overlay -->
+    <div id="loading" class="absolute inset-0 bg-white bg-opacity-80 flex items-center justify-center z-10">
+      <div class="text-center">
+        <div class="animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mx-auto mb-3"></div>
+        <p class="text-gray-600 text-sm">Loading tournament data…</p>
+      </div>
+    </div>
+
+    <!-- Error Banner -->
+    <div id="error-banner" class="hidden absolute inset-0 bg-white flex items-center justify-center z-10">
+      <div class="text-center max-w-md">
+        <p class="text-red-600 font-semibold text-lg mb-2">Failed to load tournament data</p>
+        <p id="error-msg" class="text-gray-500 text-sm mb-4"></p>
+        <p class="text-gray-400 text-xs">Run <code class="bg-gray-100 px-1 rounded">./scripts/scrape.sh &lt;URL&gt;</code> to generate tournament data.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom Toolbar — single 40px row with all controls -->
+  <div id="bottom-toolbar" class="bg-white border-t border-gray-200 px-3 flex items-center gap-2 flex-shrink-0" style="height:40px">
+
+    <!-- Left: Day filter -->
+    <span class="text-xs font-medium text-gray-500 flex-shrink-0">Day:</span>
+    <div id="day-filter-row" class="flex items-center gap-1"></div>
+
+    <div class="w-px h-5 bg-gray-200 flex-shrink-0 mx-1"></div>
+
+    <!-- Team selector -->
+    <span class="text-xs font-medium text-gray-500 flex-shrink-0">Team:</span>
+    <select id="team-select" class="text-xs border border-gray-300 rounded px-1.5 py-0.5 min-w-32 max-w-48">
+      <option value="">All Teams</option>
+    </select>
+
+    <!-- Right side (ml-auto pushes remaining to right) -->
+    <div class="ml-auto flex items-center gap-1">
+
+      <!-- Zoom controls -->
+      <button id="zoom-fit"  class="toolbar-btn">Fit</button>
+      <button id="zoom-in"   class="toolbar-btn">+</button>
+      <button id="zoom-out"  class="toolbar-btn">−</button>
+      <button id="relayout"  class="toolbar-btn">Reset</button>
+
+      <div class="w-px h-5 bg-gray-200 flex-shrink-0 mx-1"></div>
+
+      <!-- Export buttons -->
+      <button id="export-png" class="toolbar-btn-primary">PNG</button>
+      <button id="export-svg" class="toolbar-btn-primary">SVG</button>
+      <button id="export-pdf" class="toolbar-btn-primary">PDF</button>
+
+      <div class="w-px h-5 bg-gray-200 flex-shrink-0 mx-1"></div>
+
+      <!-- AES link -->
+      <a id="aes-link" href="#" target="_blank" rel="noopener"
+         class="toolbar-btn hidden">AES ↗</a>
+    </div>
+  </div>
+
+  <script src="js/graph.js"></script>
+  <script src="js/trajectory.js"></script>
+  <script src="js/tooltips.js"></script>
+  <script src="js/controls.js"></script>
+  <script src="js/export.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

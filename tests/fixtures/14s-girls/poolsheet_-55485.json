@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 170617,
+        "TeamName": "SynergyForce 13 Pink",
+        "TeamCode": "g13force9nc",
+        "TeamText": "SynergyForce 13 Pink (NC) (42)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.06875,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 13 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170779,
+        "TeamName": "NorCal Supreme 13 Red",
+        "TeamCode": "g13116192nc",
+        "TeamText": "NorCal Supreme 13 Red (NC) (43)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.129251700680272,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "norcal supreme 13 red",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171733,
+        "TeamName": "SynergyForce 14 Teal",
+        "TeamCode": "g14force11nc",
+        "TeamText": "SynergyForce 14 Teal (NC) (46)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 2,
+        "SetPercent": 0.75,
+        "PointRatio": 1.3,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 187958,
+        "TeamName": "Aspire 13-4 White",
+        "TeamCode": "g13folso4nc",
+        "TeamText": "Aspire 13-4 White (NC) (47)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.54,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aspire 13-4 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -55485,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg1Feb22D6P2",
+    "CompleteFullName": "Lg1 Feb 22 Division 6 Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 170617,
+      "FirstTeamName": "SynergyForce 13 Pink",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 13 Pink (NC) (42)",
+      "SecondTeamId": 171733,
+      "SecondTeamName": "SynergyForce 14 Teal",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 14 Teal (NC) (46)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "17-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 10,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170779,
+      "WorkTeamText": "NorCal Supreme 13 Red (NC) (43)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -55488,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T07:30:00",
+      "ScheduledEndDateTime": "2026-02-22T08:29:59"
+    },
+    {
+      "FirstTeamId": 170779,
+      "FirstTeamName": "NorCal Supreme 13 Red",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NorCal Supreme 13 Red (NC) (43)",
+      "SecondTeamId": 187958,
+      "SecondTeamName": "Aspire 13-4 White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-4 White (NC) (47)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 7,
+          "ScoreText": "25-7",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170617,
+      "WorkTeamText": "SynergyForce 13 Pink (NC) (42)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -55489,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T08:30:00",
+      "ScheduledEndDateTime": "2026-02-22T09:29:59"
+    },
+    {
+      "FirstTeamId": 170617,
+      "FirstTeamName": "SynergyForce 13 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 13 Pink (NC) (42)",
+      "SecondTeamId": 187958,
+      "SecondTeamName": "Aspire 13-4 White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-4 White (NC) (47)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171733,
+      "WorkTeamText": "SynergyForce 14 Teal (NC) (46)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -55490,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T09:30:00",
+      "ScheduledEndDateTime": "2026-02-22T10:29:59"
+    },
+    {
+      "FirstTeamId": 170779,
+      "FirstTeamName": "NorCal Supreme 13 Red",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NorCal Supreme 13 Red (NC) (43)",
+      "SecondTeamId": 171733,
+      "SecondTeamName": "SynergyForce 14 Teal",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 14 Teal (NC) (46)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 10,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170617,
+      "WorkTeamText": "SynergyForce 13 Pink (NC) (42)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -55491,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T10:30:00",
+      "ScheduledEndDateTime": "2026-02-22T11:29:59"
+    },
+    {
+      "FirstTeamId": 171733,
+      "FirstTeamName": "SynergyForce 14 Teal",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 14 Teal (NC) (46)",
+      "SecondTeamId": 187958,
+      "SecondTeamName": "Aspire 13-4 White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-4 White (NC) (47)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 8,
+          "ScoreText": "25-8",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170779,
+      "WorkTeamText": "NorCal Supreme 13 Red (NC) (43)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -55492,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T11:30:00",
+      "ScheduledEndDateTime": "2026-02-22T12:29:59"
+    },
+    {
+      "FirstTeamId": 170617,
+      "FirstTeamName": "SynergyForce 13 Pink",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 13 Pink (NC) (42)",
+      "SecondTeamId": 170779,
+      "SecondTeamName": "NorCal Supreme 13 Red",
+      "SecondTeamWon": true,
+      "SecondTeamText": "NorCal Supreme 13 Red (NC) (43)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 31,
+          "SecondTeamScore": 29,
+          "ScoreText": "29-31",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 10,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 187958,
+      "WorkTeamText": "Aspire 13-4 White (NC) (47)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -55493,
+      "Court": {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-22T12:30:00",
+      "ScheduledEndDateTime": "2026-02-22T13:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - SynergyForce 14 Teal (NC) (46)",
+      "Match": {
+        "MatchId": -55797,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T13:30:00",
+        "ScheduledEndDateTime": "2026-02-22T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55799,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T14:30:00",
+        "ScheduledEndDateTime": "2026-02-22T15:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55689,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Feb22XOD61v1",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - NorCal Supreme 13 Red (NC) (43)",
+      "Match": {
+        "MatchId": -55798,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T13:30:00",
+        "ScheduledEndDateTime": "2026-02-22T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55800,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T14:30:00",
+        "ScheduledEndDateTime": "2026-02-22T15:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55693,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Feb22XOD62v2",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - SynergyForce 13 Pink (NC) (42)",
+      "Match": {
+        "MatchId": -55799,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T14:30:00",
+        "ScheduledEndDateTime": "2026-02-22T15:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55797,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T13:30:00",
+        "ScheduledEndDateTime": "2026-02-22T14:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55697,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Feb22XOD63v3",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Aspire 13-4 White (NC) (47)",
+      "Match": {
+        "MatchId": -55800,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-22T14:30:00",
+        "ScheduledEndDateTime": "2026-02-22T15:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -55701,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Feb22XOD64v4",
+        "CompleteFullName": "Lg 1 Feb 22 XO Division 6 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

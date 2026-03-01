@@ -1,0 +1,2179 @@
+{
+  "Division": {
+    "DivisionId": 199194,
+    "Name": "14s Girls",
+    "TeamCount": 48,
+    "CodeAlias": "14s Girls",
+    "ColorHex": "#DF5F9F"
+  },
+  "Plays": [
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54281,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "LgQJan31P1",
+      "CompleteFullName": "LgQ - Jan 31 Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52779,
+          "Name": "OMNI Ct.1",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52780,
+          "Name": "OMNI Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54290,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "LgQJan31P2",
+      "CompleteFullName": "LgQ - Jan 31 Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52781,
+          "Name": "OMNI Ct.3",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52782,
+          "Name": "OMNI Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54299,
+      "FullName": "Pool 3",
+      "ShortName": "P3",
+      "CompleteShortName": "LgQJan31P3",
+      "CompleteFullName": "LgQ - Jan 31 Pool 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54308,
+      "FullName": "Pool 4",
+      "ShortName": "P4",
+      "CompleteShortName": "LgQJan31P4",
+      "CompleteFullName": "LgQ - Jan 31 Pool 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54317,
+      "FullName": "Pool 5",
+      "ShortName": "P5",
+      "CompleteShortName": "LgQJan31P5",
+      "CompleteFullName": "LgQ - Jan 31 Pool 5",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52779,
+          "Name": "OMNI Ct.1",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52780,
+          "Name": "OMNI Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54326,
+      "FullName": "Pool 6",
+      "ShortName": "P6",
+      "CompleteShortName": "LgQJan31P6",
+      "CompleteFullName": "LgQ - Jan 31 Pool 6",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52781,
+          "Name": "OMNI Ct.3",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52782,
+          "Name": "OMNI Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54335,
+      "FullName": "Pool 7",
+      "ShortName": "P7",
+      "CompleteShortName": "LgQJan31P7",
+      "CompleteFullName": "LgQ - Jan 31 Pool 7",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54271,
+      "RoundName": "LgQ - Jan 31",
+      "GroupId": -54272,
+      "GroupName": "",
+      "Type": 0,
+      "PlayId": -54344,
+      "FullName": "Pool 8",
+      "ShortName": "P8",
+      "CompleteShortName": "LgQJan31P8",
+      "CompleteFullName": "LgQ - Jan 31 Pool 8",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54553,
+      "GroupName": "All 1s-2s",
+      "Type": 1,
+      "PlayId": -55121,
+      "FullName": "Gold A",
+      "ShortName": "Gold A",
+      "CompleteShortName": "LgQFeb1BAll 1s-2sGold A",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold A",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54553,
+      "GroupName": "All 1s-2s",
+      "Type": 1,
+      "PlayId": -54558,
+      "FullName": "Gold B",
+      "ShortName": "Gold B",
+      "CompleteShortName": "LgQFeb1BAll 1s-2sGold B",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold B",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54553,
+      "GroupName": "All 1s-2s",
+      "Type": 1,
+      "PlayId": -55300,
+      "FullName": "Gold C",
+      "ShortName": "Gold C",
+      "CompleteShortName": "LgQFeb1BAll 1s-2sGold C",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold C",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54553,
+      "GroupName": "All 1s-2s",
+      "Type": 1,
+      "PlayId": -55304,
+      "FullName": "Gold D",
+      "ShortName": "Gold D",
+      "CompleteShortName": "LgQFeb1BAll 1s-2sGold D",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold D",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54557,
+      "GroupName": "All 3s-4s",
+      "Type": 1,
+      "PlayId": -55331,
+      "FullName": "Silver A",
+      "ShortName": "Silver A",
+      "CompleteShortName": "LgQFeb1BAll 3s-4sSilver A",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver A",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52779,
+          "Name": "OMNI Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54557,
+      "GroupName": "All 3s-4s",
+      "Type": 1,
+      "PlayId": -55327,
+      "FullName": "Silver B",
+      "ShortName": "Silver B",
+      "CompleteShortName": "LgQFeb1BAll 3s-4sSilver B",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver B",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52782,
+          "Name": "OMNI Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54557,
+      "GroupName": "All 3s-4s",
+      "Type": 1,
+      "PlayId": -55129,
+      "FullName": "Silver C",
+      "ShortName": "Silver C",
+      "CompleteShortName": "LgQFeb1BAll 3s-4sSilver C",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver C",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52780,
+          "Name": "OMNI Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54557,
+      "GroupName": "All 3s-4s",
+      "Type": 1,
+      "PlayId": -54574,
+      "FullName": "Silver D",
+      "ShortName": "Silver D",
+      "CompleteShortName": "LgQFeb1BAll 3s-4sSilver D",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver D",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52781,
+          "Name": "OMNI Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54554,
+      "GroupName": "All 5s-6s",
+      "Type": 1,
+      "PlayId": -55354,
+      "FullName": "Bronze A",
+      "ShortName": "Bronze A",
+      "CompleteShortName": "LgQFeb1BAll 5s-6sBronze A",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze A",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54554,
+      "GroupName": "All 5s-6s",
+      "Type": 1,
+      "PlayId": -55358,
+      "FullName": "Bronze B",
+      "ShortName": "Bronze B",
+      "CompleteShortName": "LgQFeb1BAll 5s-6sBronze B",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze B",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54554,
+      "GroupName": "All 5s-6s",
+      "Type": 1,
+      "PlayId": -55137,
+      "FullName": "Bronze C",
+      "ShortName": "Bronze C",
+      "CompleteShortName": "LgQFeb1BAll 5s-6sBronze C",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze C",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54273,
+      "RoundName": "LgQ - Feb 1 - Bracket",
+      "GroupId": -54554,
+      "GroupName": "All 5s-6s",
+      "Type": 1,
+      "PlayId": -54590,
+      "FullName": "Bronze D",
+      "ShortName": "Bronze D",
+      "CompleteShortName": "LgQFeb1BAll 5s-6sBronze D",
+      "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze D",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55382,
+      "GroupName": "Division 1",
+      "Type": 0,
+      "PlayId": -55386,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Feb22D1P1",
+      "CompleteFullName": "Lg1 Feb 22 Division 1 Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56402,
+          "Name": "ARC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55382,
+      "GroupName": "Division 1",
+      "Type": 0,
+      "PlayId": -55395,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Feb22D1P2",
+      "CompleteFullName": "Lg1 Feb 22 Division 1 Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56403,
+          "Name": "ARC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55384,
+      "GroupName": "Division 2",
+      "Type": 0,
+      "PlayId": -55404,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Feb22D2P1",
+      "CompleteFullName": "Lg1 Feb 22 Division 2 Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56404,
+          "Name": "ARC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55384,
+      "GroupName": "Division 2",
+      "Type": 0,
+      "PlayId": -55413,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Feb22D2P2",
+      "CompleteFullName": "Lg1 Feb 22 Division 2 Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56405,
+          "Name": "ARC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55385,
+      "GroupName": "Division 3",
+      "Type": 0,
+      "PlayId": -55422,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Feb22D3P1",
+      "CompleteFullName": "Lg1 Feb 22 Division 3 Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56406,
+          "Name": "FMS Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55385,
+      "GroupName": "Division 3",
+      "Type": 0,
+      "PlayId": -55431,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Feb22D3P2",
+      "CompleteFullName": "Lg1 Feb 22 Division 3 Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56407,
+          "Name": "FMS Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55383,
+      "GroupName": "Division 4",
+      "Type": 0,
+      "PlayId": -55440,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Feb22D4P1",
+      "CompleteFullName": "Lg1 Feb 22 Division 4 Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56408,
+          "Name": "VDL AUX Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55383,
+      "GroupName": "Division 4",
+      "Type": 0,
+      "PlayId": -55449,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Feb22D4P2",
+      "CompleteFullName": "Lg1 Feb 22 Division 4 Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56409,
+          "Name": "VDL AUX Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55381,
+      "GroupName": "Division 5",
+      "Type": 0,
+      "PlayId": -55458,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Feb22D5P1",
+      "CompleteFullName": "Lg1 Feb 22 Division 5 Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -55381,
+      "GroupName": "Division 5",
+      "Type": 0,
+      "PlayId": -55467,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Feb22D5P2",
+      "CompleteFullName": "Lg1 Feb 22 Division 5 Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -54278,
+      "GroupName": "Division 6",
+      "Type": 0,
+      "PlayId": -55476,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Feb22D6P1",
+      "CompleteFullName": "Lg1 Feb 22 Division 6 Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54277,
+      "RoundName": "Lg1 Feb 22",
+      "GroupId": -54278,
+      "GroupName": "Division 6",
+      "Type": 0,
+      "PlayId": -55485,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Feb22D6P2",
+      "CompleteFullName": "Lg1 Feb 22 Division 6 Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55494,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55609,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Feb22XOD11v1",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 1 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56402,
+          "Name": "ARC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55494,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55613,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Feb22XOD12v2",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 1 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56403,
+          "Name": "ARC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55494,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55617,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Feb22XOD13v3",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 1 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56402,
+          "Name": "ARC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55494,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55621,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Feb22XOD14v4",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 1 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56403,
+          "Name": "ARC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55496,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55625,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Feb22XOD21v1",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 2 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56404,
+          "Name": "ARC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55496,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55629,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Feb22XOD22v2",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 2 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56405,
+          "Name": "ARC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55496,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55633,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Feb22XOD23v3",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 2 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56404,
+          "Name": "ARC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55496,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55637,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Feb22XOD24v4",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 2 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56405,
+          "Name": "ARC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55498,
+      "GroupName": "Dvision 3",
+      "Type": 1,
+      "PlayId": -55641,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Feb22XOD31v1",
+      "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56406,
+          "Name": "FMS Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55498,
+      "GroupName": "Dvision 3",
+      "Type": 1,
+      "PlayId": -55645,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Feb22XOD32v2",
+      "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56407,
+          "Name": "FMS Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55498,
+      "GroupName": "Dvision 3",
+      "Type": 1,
+      "PlayId": -55649,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Feb22XOD33v3",
+      "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56406,
+          "Name": "FMS Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55498,
+      "GroupName": "Dvision 3",
+      "Type": 1,
+      "PlayId": -55653,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Feb22XOD34v4",
+      "CompleteFullName": "Lg 1 Feb 22 XO Dvision 3 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56407,
+          "Name": "FMS Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55497,
+      "GroupName": "Divison 4",
+      "Type": 1,
+      "PlayId": -55657,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Feb22XOD41v1",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56408,
+          "Name": "VDL AUX Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55497,
+      "GroupName": "Divison 4",
+      "Type": 1,
+      "PlayId": -55661,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Feb22XOD42v2",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56409,
+          "Name": "VDL AUX Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55497,
+      "GroupName": "Divison 4",
+      "Type": 1,
+      "PlayId": -55665,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Feb22XOD43v3",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56408,
+          "Name": "VDL AUX Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55497,
+      "GroupName": "Divison 4",
+      "Type": 1,
+      "PlayId": -55669,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Feb22XOD44v4",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 4 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -56409,
+          "Name": "VDL AUX Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55495,
+      "GroupName": "Divison 5",
+      "Type": 1,
+      "PlayId": -55673,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Feb22XOD51v1",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55495,
+      "GroupName": "Divison 5",
+      "Type": 1,
+      "PlayId": -55677,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Feb22XOD52v2",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55495,
+      "GroupName": "Divison 5",
+      "Type": 1,
+      "PlayId": -55681,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Feb22XOD53v3",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52784,
+          "Name": "OMNI Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -55495,
+      "GroupName": "Divison 5",
+      "Type": 1,
+      "PlayId": -55685,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Feb22XOD54v4",
+      "CompleteFullName": "Lg 1 Feb 22 XO Divison 5 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -54280,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -55689,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Feb22XOD61v1",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 6 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -54280,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -55693,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Feb22XOD62v2",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 6 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -54280,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -55697,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Feb22XOD63v3",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 6 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -54279,
+      "RoundName": "Lg 1 Feb 22 XO",
+      "GroupId": -54280,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -55701,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Feb22XOD64v4",
+      "CompleteFullName": "Lg 1 Feb 22 XO Division 6 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55500,
+      "GroupName": "Division 1",
+      "Type": 0,
+      "PlayId": -55801,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Mar14D1P1",
+      "CompleteFullName": "Lg 2 Mar 14 Division 1 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55500,
+      "GroupName": "Division 1",
+      "Type": 0,
+      "PlayId": -55810,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Mar14D1P2",
+      "CompleteFullName": "Lg 2 Mar 14 Division 1 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55501,
+      "GroupName": "Division 2",
+      "Type": 0,
+      "PlayId": -55819,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Mar14D2P1",
+      "CompleteFullName": "Lg 2 Mar 14 Division 2 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55501,
+      "GroupName": "Division 2",
+      "Type": 0,
+      "PlayId": -55828,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Mar14D2P2",
+      "CompleteFullName": "Lg 2 Mar 14 Division 2 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55503,
+      "GroupName": "Divison 3",
+      "Type": 0,
+      "PlayId": -55837,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Mar14D3P1",
+      "CompleteFullName": "Lg 2 Mar 14 Divison 3 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55503,
+      "GroupName": "Divison 3",
+      "Type": 0,
+      "PlayId": -55846,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Mar14D3P2",
+      "CompleteFullName": "Lg 2 Mar 14 Divison 3 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55502,
+      "GroupName": "Division 4",
+      "Type": 0,
+      "PlayId": -55855,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Mar14D4P1",
+      "CompleteFullName": "Lg 2 Mar 14 Division 4 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55502,
+      "GroupName": "Division 4",
+      "Type": 0,
+      "PlayId": -55864,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Mar14D4P2",
+      "CompleteFullName": "Lg 2 Mar 14 Division 4 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55499,
+      "GroupName": "Division 5",
+      "Type": 0,
+      "PlayId": -55873,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Mar14D5P1",
+      "CompleteFullName": "Lg 2 Mar 14 Division 5 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55499,
+      "GroupName": "Division 5",
+      "Type": 0,
+      "PlayId": -55882,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Mar14D5P2",
+      "CompleteFullName": "Lg 2 Mar 14 Division 5 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55289,
+      "GroupName": "Division 6",
+      "Type": 0,
+      "PlayId": -55891,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Mar14D6P1",
+      "CompleteFullName": "Lg 2 Mar 14 Division 6 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55288,
+      "RoundName": "Lg 2 Mar 14",
+      "GroupId": -55289,
+      "GroupName": "Division 6",
+      "Type": 0,
+      "PlayId": -55900,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Mar14D6P2",
+      "CompleteFullName": "Lg 2 Mar 14 Division 6 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55504,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55909,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Mar14XOD11v1",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 1 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55504,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55913,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Mar14XOD12v2",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 1 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55504,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55917,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Mar14XOD13v3",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 1 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55504,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -55921,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Mar14XOD14v4",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 1 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55506,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55925,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Mar14XOD21v1",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 2 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55506,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55929,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Mar14XOD22v2",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 2 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55506,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55933,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Mar14XOD23v3",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 2 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55506,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -55937,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Mar14XOD24v4",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 2 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55508,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -55941,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Mar14XOD31v1",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 3 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55508,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -55945,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Mar14XOD32v2",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 3 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55508,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -55949,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Mar14XOD33v3",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 3 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55508,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -55953,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Mar14XOD34v4",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 3 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55505,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -55957,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Mar14XOD41v1",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 4 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55505,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -55961,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Mar14XOD42v2",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 4 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55505,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -55965,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Mar14XOD43v3",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 4 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55505,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -55969,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Mar14XOD44v4",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 4 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55507,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -55973,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Mar14XOD51v1",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 5 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55507,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -55977,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Mar14XOD52v2",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 5 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55507,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -55981,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Mar14XOD53v3",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 5 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55507,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -55985,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Mar14XOD54v4",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 5 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55291,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -55989,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Mar14XOD61v1",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 6 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55291,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -55993,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Mar14XOD62v2",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 6 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55291,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -55997,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Mar14XOD63v3",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 6 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55290,
+      "RoundName": "Lg 2 Mar 14 XO",
+      "GroupId": -55291,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -56001,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Mar14XOD64v4",
+      "CompleteFullName": "Lg 2 Mar 14 XO Division 6 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55514,
+      "GroupName": "Division 1",
+      "Type": 0,
+      "PlayId": -56101,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3Apr4D1P1",
+      "CompleteFullName": "Lg 3 Apr 4 Division 1 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55514,
+      "GroupName": "Division 1",
+      "Type": 0,
+      "PlayId": -56110,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3Apr4D1P2",
+      "CompleteFullName": "Lg 3 Apr 4 Division 1 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55516,
+      "GroupName": "Division 2",
+      "Type": 0,
+      "PlayId": -56119,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3Apr4D2P1",
+      "CompleteFullName": "Lg 3 Apr 4 Division 2 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55516,
+      "GroupName": "Division 2",
+      "Type": 0,
+      "PlayId": -56128,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3Apr4D2P2",
+      "CompleteFullName": "Lg 3 Apr 4 Division 2 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55518,
+      "GroupName": "Division 3",
+      "Type": 0,
+      "PlayId": -56137,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3Apr4D3P1",
+      "CompleteFullName": "Lg 3 Apr 4 Division 3 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55518,
+      "GroupName": "Division 3",
+      "Type": 0,
+      "PlayId": -56146,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3Apr4D3P2",
+      "CompleteFullName": "Lg 3 Apr 4 Division 3 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55517,
+      "GroupName": "Division 4",
+      "Type": 0,
+      "PlayId": -56155,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3Apr4D4P1",
+      "CompleteFullName": "Lg 3 Apr 4 Division 4 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55517,
+      "GroupName": "Division 4",
+      "Type": 0,
+      "PlayId": -56164,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3Apr4D4P2",
+      "CompleteFullName": "Lg 3 Apr 4 Division 4 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55515,
+      "GroupName": "Division 5",
+      "Type": 0,
+      "PlayId": -56173,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3Apr4D5P1",
+      "CompleteFullName": "Lg 3 Apr 4 Division 5 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55515,
+      "GroupName": "Division 5",
+      "Type": 0,
+      "PlayId": -56182,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3Apr4D5P2",
+      "CompleteFullName": "Lg 3 Apr 4 Division 5 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55293,
+      "GroupName": "Division 6",
+      "Type": 0,
+      "PlayId": -56191,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3Apr4D6P1",
+      "CompleteFullName": "Lg 3 Apr 4 Division 6 Pool 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55292,
+      "RoundName": "Lg 3 Apr 4",
+      "GroupId": -55293,
+      "GroupName": "Division 6",
+      "Type": 0,
+      "PlayId": -56200,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3Apr4D6P2",
+      "CompleteFullName": "Lg 3 Apr 4 Division 6 Pool 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55509,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -56209,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3Apr4XOD11v1",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 1 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55509,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -56213,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3Apr4XOD12v2",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 1 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55509,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -56217,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3Apr4XOD13v3",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 1 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55509,
+      "GroupName": "Division 1",
+      "Type": 1,
+      "PlayId": -56221,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3Apr4XOD14v4",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 1 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55511,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -56290,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3Apr4XOD21v1",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 2 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55511,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -56294,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3Apr4XOD22v2",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 2 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55511,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -56298,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3Apr4XOD23v3",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 2 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55511,
+      "GroupName": "Division 2",
+      "Type": 1,
+      "PlayId": -56302,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3Apr4XOD24v4",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 2 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55513,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -56274,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3Apr4XOD31v1",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 3 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55513,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -56278,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3Apr4XOD32v2",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 3 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55513,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -56282,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3Apr4XOD33v3",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 3 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55513,
+      "GroupName": "Division 3",
+      "Type": 1,
+      "PlayId": -56286,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3Apr4XOD34v4",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 3 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55512,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -56258,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3Apr4XOD41v1",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 4 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55512,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -56262,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3Apr4XOD42v2",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 4 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55512,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -56266,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3Apr4XOD43v3",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 4 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55512,
+      "GroupName": "Division 4",
+      "Type": 1,
+      "PlayId": -56270,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3Apr4XOD44v4",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 4 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55510,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -56242,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3Apr4XOD51v1",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 5 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55510,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -56246,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3Apr4XOD52v2",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 5 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55510,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -56250,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3Apr4XOD53v3",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 5 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55510,
+      "GroupName": "Division 5",
+      "Type": 1,
+      "PlayId": -56254,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3Apr4XOD54v4",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 5 4 v 4",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55295,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -56226,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3Apr4XOD61v1",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 6 1 v 1",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55295,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -56230,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3Apr4XOD62v2",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 6 2 v 2",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55295,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -56234,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3Apr4XOD63v3",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 6 3 v 3",
+      "Order": 0,
+      "Courts": []
+    },
+    {
+      "RoundId": -55294,
+      "RoundName": "Lg 3 Apr 4 XO",
+      "GroupId": -55295,
+      "GroupName": "Division 6",
+      "Type": 1,
+      "PlayId": -56238,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3Apr4XOD64v4",
+      "CompleteFullName": "Lg 3 Apr 4 XO Division 6 4 v 4",
+      "Order": 0,
+      "Courts": []
+    }
+  ]
+}

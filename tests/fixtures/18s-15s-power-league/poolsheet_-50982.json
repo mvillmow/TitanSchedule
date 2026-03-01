@@ -1,0 +1,387 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 27473,
+        "TeamName": "Empire 16 Power Bella",
+        "TeamCode": "g16mpire3nc",
+        "TeamText": "Empire 16 Power Bella (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 4,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.4027777777777777,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 power bella",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 221171,
+        "TeamName": "Lakas 15 Power 2",
+        "TeamCode": "g15laiat3nc",
+        "TeamText": "Lakas 15 Power 2 (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 1,
+        "MatchPercent": 0.5,
+        "SetsWon": 2,
+        "SetsLost": 3,
+        "SetPercent": 0.4,
+        "PointRatio": 0.9074074074074074,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 5993,
+          "Name": "Lakas "
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "lakas 15 power 2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 39067,
+        "TeamName": "Titan Travel 15 Elia",
+        "TeamCode": "g15titav2nc",
+        "TeamText": "Titan Travel 15 Elia (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 2,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 4,
+        "SetPercent": 0.2,
+        "PointRatio": 0.831858407079646,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 15 elia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50982,
+    "FullName": "Pool 3",
+    "ShortName": "P3",
+    "CompleteShortName": "Lg2Jan25XOBronze CP3",
+    "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 3",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 27473,
+      "FirstTeamName": "Empire 16 Power Bella",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 16 Power Bella (NC)",
+      "SecondTeamId": 39067,
+      "SecondTeamName": "Titan Travel 15 Elia",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 15 Elia (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 221171,
+      "WorkTeamText": "Lakas 15 Power 2 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50991,
+      "Court": {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T15:30:00",
+      "ScheduledEndDateTime": "2026-01-25T16:29:59"
+    },
+    {
+      "FirstTeamId": 221171,
+      "FirstTeamName": "Lakas 15 Power 2",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Lakas 15 Power 2 (NC)",
+      "SecondTeamId": 39067,
+      "SecondTeamName": "Titan Travel 15 Elia",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 15 Elia (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 13,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27473,
+      "WorkTeamText": "Empire 16 Power Bella (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50992,
+      "Court": {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T16:30:00",
+      "ScheduledEndDateTime": "2026-01-25T17:29:59"
+    },
+    {
+      "FirstTeamId": 27473,
+      "FirstTeamName": "Empire 16 Power Bella",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 16 Power Bella (NC)",
+      "SecondTeamId": 221171,
+      "SecondTeamName": "Lakas 15 Power 2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Lakas 15 Power 2 (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 11,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 39067,
+      "WorkTeamText": "Titan Travel 15 Elia (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50993,
+      "Court": {
+        "CourtId": -52122,
+        "Name": "Oakland CC Ct.9",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T17:30:00",
+      "ScheduledEndDateTime": "2026-01-25T18:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Empire 16 Power Bella (NC)",
+      "Match": {
+        "MatchId": -54716,
+        "Court": {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T08:00:00",
+        "ScheduledEndDateTime": "2026-02-28T08:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -54718,
+        "Court": {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T10:00:00",
+        "ScheduledEndDateTime": "2026-02-28T10:59:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -51110,
+        "FullName": "Pool 1",
+        "ShortName": "P1",
+        "CompleteShortName": "Lg3 Feb 28Bronze CP1",
+        "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54696,
+            "Name": "Grounds Ct.17",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Lakas 15 Power 2 (NC)",
+      "Match": {
+        "MatchId": -54723,
+        "Court": {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T09:00:00",
+        "ScheduledEndDateTime": "2026-02-28T09:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -54727,
+        "Court": {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T13:00:00",
+        "ScheduledEndDateTime": "2026-02-28T13:59:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -51122,
+        "FullName": "Pool 2",
+        "ShortName": "P2",
+        "CompleteShortName": "Lg3 Feb 28Bronze CP2",
+        "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54697,
+            "Name": "Grounds Ct.18",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Titan Travel 15 Elia (NC)",
+      "Match": {
+        "MatchId": -54717,
+        "Court": {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T09:00:00",
+        "ScheduledEndDateTime": "2026-02-28T09:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -54721,
+        "Court": {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T13:00:00",
+        "ScheduledEndDateTime": "2026-02-28T13:59:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -51110,
+        "FullName": "Pool 1",
+        "ShortName": "P1",
+        "CompleteShortName": "Lg3 Feb 28Bronze CP1",
+        "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54696,
+            "Name": "Grounds Ct.17",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 217533,
+        "TeamName": "ACVC 16 Blue",
+        "TeamCode": "g16acvbc2nc",
+        "TeamText": "ACVC 16 Blue (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.8614457831325302,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 32557,
+          "Name": "ACVC - Amador County Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "acvc 16 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 113726,
+        "TeamName": "Stingray Blue 16-2",
+        "TeamCode": "g16stray2nc",
+        "TeamText": "Stingray Blue 16-2 (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.1041666666666667,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 816,
+          "Name": "Stingray Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "stingray blue 16-2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 89908,
+        "TeamName": "Titan Select 15 Hanah",
+        "TeamCode": "g15titav1nc",
+        "TeamText": "Titan Select 15 Hanah (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 2,
+        "SetPercent": 0.75,
+        "PointRatio": 1.3181818181818181,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan select 15 hanah",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206719,
+        "TeamName": "Morgan Hill 15 Black",
+        "TeamCode": "g15hmgnv1nc",
+        "TeamText": "Morgan Hill 15 Black (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.7888198757763976,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51890,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Bronze BP1",
+    "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 217533,
+      "FirstTeamName": "ACVC 16 Blue",
+      "FirstTeamWon": false,
+      "FirstTeamText": "ACVC 16 Blue (NC)",
+      "SecondTeamId": 89908,
+      "SecondTeamName": "Titan Select 15 Hanah",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Titan Select 15 Hanah (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 113726,
+      "WorkTeamText": "Stingray Blue 16-2 (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51893,
+      "Court": {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T08:00:00",
+      "ScheduledEndDateTime": "2026-02-28T08:59:59"
+    },
+    {
+      "FirstTeamId": 113726,
+      "FirstTeamName": "Stingray Blue 16-2",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Stingray Blue 16-2 (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 6,
+          "ScoreText": "15-6",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 217533,
+      "WorkTeamText": "ACVC 16 Blue (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51894,
+      "Court": {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T09:00:00",
+      "ScheduledEndDateTime": "2026-02-28T09:59:59"
+    },
+    {
+      "FirstTeamId": 217533,
+      "FirstTeamName": "ACVC 16 Blue",
+      "FirstTeamWon": false,
+      "FirstTeamText": "ACVC 16 Blue (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 9,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-9",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 89908,
+      "WorkTeamText": "Titan Select 15 Hanah (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51895,
+      "Court": {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T10:00:00",
+      "ScheduledEndDateTime": "2026-02-28T10:59:59"
+    },
+    {
+      "FirstTeamId": 113726,
+      "FirstTeamName": "Stingray Blue 16-2",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Stingray Blue 16-2 (NC)",
+      "SecondTeamId": 89908,
+      "SecondTeamName": "Titan Select 15 Hanah",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Titan Select 15 Hanah (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 7,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-7",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 217533,
+      "WorkTeamText": "ACVC 16 Blue (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51896,
+      "Court": {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T11:00:00",
+      "ScheduledEndDateTime": "2026-02-28T11:59:59"
+    },
+    {
+      "FirstTeamId": 89908,
+      "FirstTeamName": "Titan Select 15 Hanah",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Titan Select 15 Hanah (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 6,
+          "ScoreText": "25-6",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 113726,
+      "WorkTeamText": "Stingray Blue 16-2 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51897,
+      "Court": {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T12:00:00",
+      "ScheduledEndDateTime": "2026-02-28T12:59:59"
+    },
+    {
+      "FirstTeamId": 217533,
+      "FirstTeamName": "ACVC 16 Blue",
+      "FirstTeamWon": false,
+      "FirstTeamText": "ACVC 16 Blue (NC)",
+      "SecondTeamId": 113726,
+      "SecondTeamName": "Stingray Blue 16-2",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Stingray Blue 16-2 (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206719,
+      "WorkTeamText": "Morgan Hill 15 Black (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51898,
+      "Court": {
+        "CourtId": -54694,
+        "Name": "Grounds Ct.15",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T13:00:00",
+      "ScheduledEndDateTime": "2026-02-28T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Titan Select 15 Hanah (NC)",
+      "Match": {
+        "MatchId": -52006,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -52008,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51962,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze B1v1",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54694,
+            "Name": "Grounds Ct.15",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Stingray Blue 16-2 (NC)",
+      "Match": {
+        "MatchId": -52007,
+        "Court": {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51966,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze B2v2",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54695,
+            "Name": "Grounds Ct.16",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Morgan Hill 15 Black (NC)",
+      "Match": {
+        "MatchId": -52008,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51970,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze B3v3",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54694,
+            "Name": "Grounds Ct.15",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - ACVC 16 Blue (NC)",
+      "Match": {
+        "MatchId": -52009,
+        "Court": {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51974,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze B4v4",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54695,
+            "Name": "Grounds Ct.16",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 200114,
+        "TeamName": "MARIN 15 Fire",
+        "TeamCode": "g15marin4nc",
+        "TeamText": "MARIN 15 Fire (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.9863945578231292,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 3844,
+          "Name": "MARIN VOLLEYBALL"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "marin 15 fire",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 218131,
+        "TeamName": "Gallant 16-White",
+        "TeamCode": "g16gallaanc",
+        "TeamText": "Gallant 16-White (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 0.9571428571428572,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 31217,
+          "Name": "Gallant Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "gallant 16-white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27880,
+        "TeamName": "Titan Travel 16 Taylor",
+        "TeamCode": "g16titav2nc",
+        "TeamText": "Titan Travel 16 Taylor (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 1.0142857142857142,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 16 taylor",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 142326,
+        "TeamName": "Aspire 15-2 Pink",
+        "TeamCode": "g15folso2nc",
+        "TeamText": "Aspire 15-2 Pink (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.0476190476190477,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 15-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50775,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg2Jan25Silver CP1",
+    "CompleteFullName": "Lg2 Jan 25 Silver C Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 200114,
+      "FirstTeamName": "MARIN 15 Fire",
+      "FirstTeamWon": false,
+      "FirstTeamText": "MARIN 15 Fire (NC)",
+      "SecondTeamId": 27880,
+      "SecondTeamName": "Titan Travel 16 Taylor",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Titan Travel 16 Taylor (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "13-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 11,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-11",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 218131,
+      "WorkTeamText": "Gallant 16-White (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50778,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T08:00:00",
+      "ScheduledEndDateTime": "2026-01-25T08:59:59"
+    },
+    {
+      "FirstTeamId": 218131,
+      "FirstTeamName": "Gallant 16-White",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Gallant 16-White (NC)",
+      "SecondTeamId": 142326,
+      "SecondTeamName": "Aspire 15-2 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 15-2 Pink (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 200114,
+      "WorkTeamText": "MARIN 15 Fire (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50779,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T09:00:00",
+      "ScheduledEndDateTime": "2026-01-25T09:59:59"
+    },
+    {
+      "FirstTeamId": 200114,
+      "FirstTeamName": "MARIN 15 Fire",
+      "FirstTeamWon": false,
+      "FirstTeamText": "MARIN 15 Fire (NC)",
+      "SecondTeamId": 142326,
+      "SecondTeamName": "Aspire 15-2 Pink",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Aspire 15-2 Pink (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27880,
+      "WorkTeamText": "Titan Travel 16 Taylor (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50780,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T10:00:00",
+      "ScheduledEndDateTime": "2026-01-25T10:59:59"
+    },
+    {
+      "FirstTeamId": 218131,
+      "FirstTeamName": "Gallant 16-White",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Gallant 16-White (NC)",
+      "SecondTeamId": 27880,
+      "SecondTeamName": "Titan Travel 16 Taylor",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Titan Travel 16 Taylor (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 200114,
+      "WorkTeamText": "MARIN 15 Fire (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50781,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T11:00:00",
+      "ScheduledEndDateTime": "2026-01-25T11:59:59"
+    },
+    {
+      "FirstTeamId": 27880,
+      "FirstTeamName": "Titan Travel 16 Taylor",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Titan Travel 16 Taylor (NC)",
+      "SecondTeamId": 142326,
+      "SecondTeamName": "Aspire 15-2 Pink",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Aspire 15-2 Pink (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 218131,
+      "WorkTeamText": "Gallant 16-White (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50782,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:00:00",
+      "ScheduledEndDateTime": "2026-01-25T12:59:59"
+    },
+    {
+      "FirstTeamId": 200114,
+      "FirstTeamName": "MARIN 15 Fire",
+      "FirstTeamWon": true,
+      "FirstTeamText": "MARIN 15 Fire (NC)",
+      "SecondTeamId": 218131,
+      "SecondTeamName": "Gallant 16-White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Gallant 16-White (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 25,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 11,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 8,
+          "ScoreText": "15-8",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 142326,
+      "WorkTeamText": "Aspire 15-2 Pink (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50783,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:00:00",
+      "ScheduledEndDateTime": "2026-01-25T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Aspire 15-2 Pink (NC)",
+      "Match": {
+        "MatchId": -50941,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50951,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50937,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg2Jan25XOSilver C1v1",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver C 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52131,
+            "Name": "Vibe Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Titan Travel 16 Taylor (NC)",
+      "Match": {
+        "MatchId": -50946,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50956,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50942,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg2Jan25XOSilver C2v2",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver C 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52132,
+            "Name": "Vibe Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - MARIN 15 Fire (NC)",
+      "Match": {
+        "MatchId": -50951,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50947,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg2Jan25XOSilver C3v3",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver C 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52131,
+            "Name": "Vibe Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Gallant 16-White (NC)",
+      "Match": {
+        "MatchId": -50956,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50952,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg2Jan25XOSilver C4v4",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver C 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52132,
+            "Name": "Vibe Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

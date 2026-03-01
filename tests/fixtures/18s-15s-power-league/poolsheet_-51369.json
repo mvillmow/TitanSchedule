@@ -1,0 +1,599 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 59871,
+        "TeamName": "Club Solano 18 Maroon",
+        "TeamCode": "g18solno1nc",
+        "TeamText": "Club Solano 18 Maroon (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 2558,
+          "Name": "Club Solano"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "club solano 18 maroon",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27884,
+        "TeamName": "Titan Travel 18 Misha",
+        "TeamCode": "g18titav2nc",
+        "TeamText": "Titan Travel 18 Misha (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 18 misha",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 100743,
+        "TeamName": "SynergyForce 15 Gold",
+        "TeamCode": "g15force3nc",
+        "TeamText": "SynergyForce 15 Gold (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 gold",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 1403,
+        "TeamName": "City Beach 16-Green",
+        "TeamCode": "g16beach2nc",
+        "TeamText": "City Beach 16-Green (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 16-green",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51369,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg4Mar1Silver AP1",
+    "CompleteFullName": "Lg4 Mar 1 Silver A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 100743,
+      "SecondTeamName": "SynergyForce 15 Gold",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 15 Gold (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27884,
+      "WorkTeamText": "Titan Travel 18 Misha (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51372,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T08:00:00",
+      "ScheduledEndDateTime": "2026-03-01T08:59:59"
+    },
+    {
+      "FirstTeamId": 27884,
+      "FirstTeamName": "Titan Travel 18 Misha",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Titan Travel 18 Misha (NC)",
+      "SecondTeamId": 1403,
+      "SecondTeamName": "City Beach 16-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 16-Green (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 59871,
+      "WorkTeamText": "Club Solano 18 Maroon (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51373,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T09:00:00",
+      "ScheduledEndDateTime": "2026-03-01T09:59:59"
+    },
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 1403,
+      "SecondTeamName": "City Beach 16-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 16-Green (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 100743,
+      "WorkTeamText": "SynergyForce 15 Gold (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51374,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T10:00:00",
+      "ScheduledEndDateTime": "2026-03-01T10:59:59"
+    },
+    {
+      "FirstTeamId": 27884,
+      "FirstTeamName": "Titan Travel 18 Misha",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Titan Travel 18 Misha (NC)",
+      "SecondTeamId": 100743,
+      "SecondTeamName": "SynergyForce 15 Gold",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 15 Gold (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 59871,
+      "WorkTeamText": "Club Solano 18 Maroon (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51375,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T11:00:00",
+      "ScheduledEndDateTime": "2026-03-01T11:59:59"
+    },
+    {
+      "FirstTeamId": 100743,
+      "FirstTeamName": "SynergyForce 15 Gold",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 15 Gold (NC)",
+      "SecondTeamId": 1403,
+      "SecondTeamName": "City Beach 16-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 16-Green (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27884,
+      "WorkTeamText": "Titan Travel 18 Misha (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51376,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T12:00:00",
+      "ScheduledEndDateTime": "2026-03-01T12:59:59"
+    },
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 27884,
+      "SecondTeamName": "Titan Travel 18 Misha",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 18 Misha (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 1403,
+      "WorkTeamText": "City Beach 16-Green (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51377,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T13:00:00",
+      "ScheduledEndDateTime": "2026-03-01T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg4Mar1Silver AP1",
+      "Match": {
+        "MatchId": -51531,
+        "Court": {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51536,
+        "Court": {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51527,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg 4Mar1XOSilver A1v1",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54686,
+            "Name": "Grounds Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg4Mar1Silver AP1",
+      "Match": {
+        "MatchId": -51536,
+        "Court": {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51531,
+        "Court": {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51532,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg 4Mar1XOSilver A2v2",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54686,
+            "Name": "Grounds Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg4Mar1Silver AP1",
+      "Match": {
+        "MatchId": -51541,
+        "Court": {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51546,
+        "Court": {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51537,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg 4Mar1XOSilver A3v3",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54687,
+            "Name": "Grounds Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg4Mar1Silver AP1",
+      "Match": {
+        "MatchId": -51546,
+        "Court": {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51541,
+        "Court": {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51542,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg 4Mar1XOSilver A4v4",
+        "CompleteFullName": "Lg 4 Mar 1 XO Silver A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54687,
+            "Name": "Grounds Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

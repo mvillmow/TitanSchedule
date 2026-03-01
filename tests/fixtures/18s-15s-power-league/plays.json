@@ -1,0 +1,4331 @@
+{
+  "Division": {
+    "DivisionId": 199187,
+    "Name": "18s - 15s Power League",
+    "TeamCount": 73,
+    "CodeAlias": "18s-16s Open",
+    "ColorHex": "#5FFFBF"
+  },
+  "Plays": [
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50363,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -50364,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Gold AP1",
+      "CompleteFullName": "Lg1 Jan 24 Gold A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50363,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -50373,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Gold AP2",
+      "CompleteFullName": "Lg1 Jan 24 Gold A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50382,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -50383,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Gold BP1",
+      "CompleteFullName": "Lg1 Jan 24 Gold B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50382,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -50392,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Gold BP2",
+      "CompleteFullName": "Lg1 Jan 24 Gold B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50401,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -50402,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Gold CP1",
+      "CompleteFullName": "Lg1 Jan 24 Gold C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50401,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -50411,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Gold CP2",
+      "CompleteFullName": "Lg1 Jan 24 Gold C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50420,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -50421,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Silver AP1",
+      "CompleteFullName": "Lg1 Jan 24 Silver A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50420,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -50430,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Silver AP2",
+      "CompleteFullName": "Lg1 Jan 24 Silver A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50439,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -50440,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Silver BP1",
+      "CompleteFullName": "Lg1 Jan 24 Silver B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52129,
+          "Name": "City Beach Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50439,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -50449,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Silver BP2",
+      "CompleteFullName": "Lg1 Jan 24 Silver B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52130,
+          "Name": "City Beach Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50458,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -50459,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24SIlver CP1",
+      "CompleteFullName": "Lg1 Jan 24 Silver C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50458,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -50468,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24SIlver CP2",
+      "CompleteFullName": "Lg1 Jan 24 Silver C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -51627,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -51628,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Bronze AP1",
+      "CompleteFullName": "Lg1 Jan 24 Bronze A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -51627,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -51637,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Bronze AP2",
+      "CompleteFullName": "Lg1 Jan 24 Bronze A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -51626,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -51646,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Bronze BP1",
+      "CompleteFullName": "Lg1 Jan 24 Bronze B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -51626,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -51655,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Bronze BP2",
+      "CompleteFullName": "Lg1 Jan 24 Bronze B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50477,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50478,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24Bronze CP1",
+      "CompleteFullName": "Lg1 Jan 24 Bronze C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50477,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50490,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24Bronze CP2",
+      "CompleteFullName": "Lg1 Jan 24 Bronze C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50362,
+      "RoundName": "Lg1 Jan 24",
+      "GroupId": -50477,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50502,
+      "FullName": "Pool 3",
+      "ShortName": "P3",
+      "CompleteShortName": "Lg1Jan24Bronze CP3",
+      "CompleteFullName": "Lg1 Jan 24 Bronze C Pool 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50515,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50516,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOGold A1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50515,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50521,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOGold A2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50515,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50526,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOGold A3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50515,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50531,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOGold A4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50536,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50537,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOGold B1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50536,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50542,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOGold B2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50536,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50547,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOGold B3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50536,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50552,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOGold B4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50557,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50558,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOGold C1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50557,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50563,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOGold C2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50557,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50568,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOGold C3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50557,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50573,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOGold C4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Gold C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50578,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50579,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOSilver A1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50578,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50584,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOSilver A2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50578,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50589,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOSilver A3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50578,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50594,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOSilver A4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50599,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50600,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOSIlver B1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52129,
+          "Name": "City Beach Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50599,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50605,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOSIlver B2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52130,
+          "Name": "City Beach Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50599,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50610,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOSIlver B3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52129,
+          "Name": "City Beach Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50599,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50615,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOSIlver B4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52130,
+          "Name": "City Beach Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50620,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50621,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOSIlver C1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50620,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50626,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOSIlver C2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50620,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50631,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOSIlver C3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50620,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50636,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOSIlver C4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Silver C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51665,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51702,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOBronze A1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51665,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51706,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOBronze A2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51665,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51710,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOBronze A3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51665,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51714,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOBronze A4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51664,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51718,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg1Jan24XOBronze B1v1",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51664,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51722,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg1Jan24XOBronze B2v2",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51664,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51726,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg1Jan24XOBronze B3v3",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -51664,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51730,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg1Jan24XOBronze B4v4",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50641,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50642,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg1Jan24XOBronze CP1",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50641,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50654,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg1Jan24XOBronze CP2",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50514,
+      "RoundName": "Lg1 Jan 24 XO",
+      "GroupId": -50641,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50666,
+      "FullName": "Pool 3",
+      "ShortName": "P3",
+      "CompleteShortName": "Lg1Jan24XOBronze CP3",
+      "CompleteFullName": "Lg1 Jan 24 XO Bronze C Pool 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50679,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -50680,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Gold AP1",
+      "CompleteFullName": "Lg2 Jan 25 Gold A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50679,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -50689,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Gold AP2",
+      "CompleteFullName": "Lg2 Jan 25 Gold A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50698,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -50699,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Gold BP1",
+      "CompleteFullName": "Lg2 Jan 25 Gold B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50698,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -50708,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Gold BP2",
+      "CompleteFullName": "Lg2 Jan 25 Gold B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50717,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -50718,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Gold CP1",
+      "CompleteFullName": "Lg2 Jan 25 Gold C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50717,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -50727,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Gold CP2",
+      "CompleteFullName": "Lg2 Jan 25 Gold C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50736,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -50737,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Silver AP1",
+      "CompleteFullName": "Lg2 Jan 25 Silver A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50736,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -50746,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Silver AP2",
+      "CompleteFullName": "Lg2 Jan 25 Silver A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50755,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -50756,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Silver BP1",
+      "CompleteFullName": "Lg2 Jan 25 Silver B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52129,
+          "Name": "City Beach Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50755,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -50765,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Silver BP2",
+      "CompleteFullName": "Lg2 Jan 25 Silver B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52130,
+          "Name": "City Beach Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50774,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -50775,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Silver CP1",
+      "CompleteFullName": "Lg2 Jan 25 Silver C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50774,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -50784,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Silver CP2",
+      "CompleteFullName": "Lg2 Jan 25 Silver C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -51767,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -51768,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Bronze AP1",
+      "CompleteFullName": "Lg2 Jan 25 Bronze A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -51767,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -51777,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Bronze AP2",
+      "CompleteFullName": "Lg2 Jan 25 Bronze A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -51766,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -51786,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Bronze BP1",
+      "CompleteFullName": "Lg2 Jan 25 Bronze B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -51766,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -51795,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Bronze BP2",
+      "CompleteFullName": "Lg2 Jan 25 Bronze B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50793,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50794,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25Bronze CP1",
+      "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50793,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50806,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25Bronze CP2",
+      "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50678,
+      "RoundName": "Lg2 Jan 25",
+      "GroupId": -50793,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50818,
+      "FullName": "Pool 3",
+      "ShortName": "P3",
+      "CompleteShortName": "Lg2Jan25Bronze CP3",
+      "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50831,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50832,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOGold A1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50831,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50837,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOGold A2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50831,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50842,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOGold A3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50831,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -50847,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOGold A4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50852,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50853,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOGold B1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50852,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50858,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOGold B2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50852,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50863,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOGold B3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52123,
+          "Name": "NorCal Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50852,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -50868,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOGold B4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52124,
+          "Name": "NorCal Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50873,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50874,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOGold C1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50873,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50879,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOGold C2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50873,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50884,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOGold C3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50873,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -50889,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOGold C4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Gold C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50894,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50895,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOSilver A1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50894,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50900,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOSilver A2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50894,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50905,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOSilver A3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50894,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -50910,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOSilver A4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50915,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50916,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOSilver B1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52129,
+          "Name": "City Beach Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50915,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50921,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOSilver B2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52130,
+          "Name": "City Beach Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50915,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50926,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOSilver B3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52129,
+          "Name": "City Beach Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50915,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -50931,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOSilver B4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52130,
+          "Name": "City Beach Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50936,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50937,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOSilver C1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50936,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50942,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOSilver C2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50936,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50947,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOSilver C3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50936,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -50952,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOSilver C4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Silver C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51805,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51806,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOBronze A1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51805,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51810,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOBronze A2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51805,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51814,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOBronze A3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51805,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51818,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOBronze A4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51804,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51822,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg2Jan25XOBronze B1v1",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51804,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51826,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg2Jan25XOBronze B2v2",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51804,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51830,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg2Jan25XOBronze B3v3",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52118,
+          "Name": "Oakland CC Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -51804,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51834,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg2Jan25XOBronze B4v4",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52119,
+          "Name": "Oakland CC Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50957,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50958,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg2Jan25XOBronze CP1",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50957,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50970,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg2Jan25XOBronze CP2",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50830,
+      "RoundName": "Lg2 Jan 25 XO",
+      "GroupId": -50957,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -50982,
+      "FullName": "Pool 3",
+      "ShortName": "P3",
+      "CompleteShortName": "Lg2Jan25XOBronze CP3",
+      "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -50995,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -50996,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Gold AP1",
+      "CompleteFullName": "Lg3 Feb 28 Gold A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -50995,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -51005,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Gold AP2",
+      "CompleteFullName": "Lg3 Feb 28 Gold A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51014,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -51015,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Gold BP1",
+      "CompleteFullName": "Lg3 Feb 28 Gold B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51014,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -51024,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Gold BP2",
+      "CompleteFullName": "Lg3 Feb 28 Gold B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51033,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -51034,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Gold CP1",
+      "CompleteFullName": "Lg3 Feb 28 Gold C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54684,
+          "Name": "Grounds Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51033,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -51043,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Gold CP2",
+      "CompleteFullName": "Lg3 Feb 28 Gold C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54685,
+          "Name": "Grounds Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51052,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -51053,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Silver AP1",
+      "CompleteFullName": "Lg3 Feb 28 Silver A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51052,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -51062,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Silver AP2",
+      "CompleteFullName": "Lg3 Feb 28 Silver A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51071,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -51072,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Silver BP1",
+      "CompleteFullName": "Lg3 Feb 28 Silver B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51071,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -51081,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Silver BP2",
+      "CompleteFullName": "Lg3 Feb 28 Silver B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51090,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -51091,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Silver CP1",
+      "CompleteFullName": "Lg3 Feb 28 Silver C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51090,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -51100,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Silver CP2",
+      "CompleteFullName": "Lg3 Feb 28 Silver C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51871,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -51872,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Bronze AP1",
+      "CompleteFullName": "Lg3 Feb 28 Bronze A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51871,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -51881,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Bronze AP2",
+      "CompleteFullName": "Lg3 Feb 28 Bronze A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51870,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -51890,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Bronze BP1",
+      "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51870,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -51899,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Bronze BP2",
+      "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51109,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -51110,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg3 Feb 28Bronze CP1",
+      "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -50994,
+      "RoundName": "Lg3 Feb 28",
+      "GroupId": -51109,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -51122,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg3 Feb 28Bronze CP2",
+      "CompleteFullName": "Lg3 Feb 28 Bronze C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51147,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51148,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOGold A1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51147,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51153,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOGold A2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51147,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51158,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOGold A3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51147,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51163,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOGold A4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51168,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51169,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOGold B1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51168,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51174,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOGold B2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51168,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51179,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOGold B3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51168,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51184,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOGold B4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51189,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51190,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOGold C1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54684,
+          "Name": "Grounds Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51189,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51195,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOGold C2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54685,
+          "Name": "Grounds Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51189,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51200,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOGold C3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54684,
+          "Name": "Grounds Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51189,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51205,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOGold C4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Gold C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54685,
+          "Name": "Grounds Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51210,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51211,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver A1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51210,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51216,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver A2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51210,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51221,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver A3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51210,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51226,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver A4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51231,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51232,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver B1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51231,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51237,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver B2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51231,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51242,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver B3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51231,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51247,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver B4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51252,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51253,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver C1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51252,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51258,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver C2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51252,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51263,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver C3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51252,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51268,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOSilver C4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Silver C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51909,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51946,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze A1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51909,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51950,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze A2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51909,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51954,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze A3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51909,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -51958,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze A4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51908,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51962,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze B1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51908,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51966,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze B2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51908,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51970,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze B3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51908,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -51974,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze B4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51273,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54728,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze C1v1",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51273,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54732,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze C2v2",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51273,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54736,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze C3v3",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51146,
+      "RoundName": "Lg3 Feb 28 XO",
+      "GroupId": -51273,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54740,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg3 Feb 28 XOBronze C4v4",
+      "CompleteFullName": "Lg3 Feb 28 XO Bronze C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51311,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -51312,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Gold AP1",
+      "CompleteFullName": "Lg4 Mar 1 Gold A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51311,
+      "GroupName": "Gold A",
+      "Type": 0,
+      "PlayId": -51321,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Gold AP2",
+      "CompleteFullName": "Lg4 Mar 1 Gold A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51330,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -51331,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Gold BP1",
+      "CompleteFullName": "Lg4 Mar 1 Gold B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51330,
+      "GroupName": "Gold B",
+      "Type": 0,
+      "PlayId": -51340,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Gold BP2",
+      "CompleteFullName": "Lg4 Mar 1 Gold B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51349,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -51350,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Gold CP1",
+      "CompleteFullName": "Lg4 Mar 1 Gold C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54684,
+          "Name": "Grounds Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51349,
+      "GroupName": "Gold C",
+      "Type": 0,
+      "PlayId": -51359,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Gold CP2",
+      "CompleteFullName": "Lg4 Mar 1 Gold C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54685,
+          "Name": "Grounds Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51368,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -51369,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Silver AP1",
+      "CompleteFullName": "Lg4 Mar 1 Silver A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51368,
+      "GroupName": "Silver A",
+      "Type": 0,
+      "PlayId": -51378,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Silver AP2",
+      "CompleteFullName": "Lg4 Mar 1 Silver A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51387,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -51388,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Silver BP1",
+      "CompleteFullName": "Lg4 Mar 1 Silver B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51387,
+      "GroupName": "Silver B",
+      "Type": 0,
+      "PlayId": -51397,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Silver BP2",
+      "CompleteFullName": "Lg4 Mar 1 Silver B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51406,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -51407,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Silver CP1",
+      "CompleteFullName": "Lg4 Mar 1 Silver C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51406,
+      "GroupName": "Silver C",
+      "Type": 0,
+      "PlayId": -51416,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Silver CP2",
+      "CompleteFullName": "Lg4 Mar 1 Silver C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -52011,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -52012,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Bronze AP1",
+      "CompleteFullName": "Lg4 Mar 1 Bronze A Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -52011,
+      "GroupName": "Bronze A",
+      "Type": 0,
+      "PlayId": -52021,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Bronze AP2",
+      "CompleteFullName": "Lg4 Mar 1 Bronze A Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -52010,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -52030,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Bronze BP1",
+      "CompleteFullName": "Lg4 Mar 1 Bronze B Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -52010,
+      "GroupName": "Bronze B",
+      "Type": 0,
+      "PlayId": -52039,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Bronze BP2",
+      "CompleteFullName": "Lg4 Mar 1 Bronze B Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51425,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -51426,
+      "FullName": "Pool 1",
+      "ShortName": "P1",
+      "CompleteShortName": "Lg4Mar1Bronze CP1",
+      "CompleteFullName": "Lg4 Mar 1 Bronze C Pool 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51310,
+      "RoundName": "Lg4 Mar 1",
+      "GroupId": -51425,
+      "GroupName": "Bronze C",
+      "Type": 0,
+      "PlayId": -51438,
+      "FullName": "Pool 2",
+      "ShortName": "P2",
+      "CompleteShortName": "Lg4Mar1Bronze CP2",
+      "CompleteFullName": "Lg4 Mar 1 Bronze C Pool 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51463,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51464,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOGold A1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51463,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51469,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOGold A2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51463,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51474,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOGold A3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54680,
+          "Name": "Grounds Ct.1",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51463,
+      "GroupName": "Gold A",
+      "Type": 1,
+      "PlayId": -51479,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOGold A4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54681,
+          "Name": "Grounds Ct.2",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51484,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51485,
+      "FullName": "1 v 1",
+      "ShortName": "1 v 1",
+      "CompleteShortName": "Lg 4Mar1XOGold B1 v 1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51484,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51490,
+      "FullName": "2 v 2",
+      "ShortName": "2 v 2",
+      "CompleteShortName": "Lg 4Mar1XOGold B2 v 2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51484,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51495,
+      "FullName": "3 v 3",
+      "ShortName": "3 v 3",
+      "CompleteShortName": "Lg 4Mar1XOGold B3 v 3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51484,
+      "GroupName": "Gold B",
+      "Type": 1,
+      "PlayId": -51500,
+      "FullName": "4 v 4",
+      "ShortName": "4 v 4",
+      "CompleteShortName": "Lg 4Mar1XOGold B4 v 4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51505,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51506,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOGold C1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54684,
+          "Name": "Grounds Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51505,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51511,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOGold C2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54685,
+          "Name": "Grounds Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51505,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51516,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOGold C3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54684,
+          "Name": "Grounds Ct.5",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51505,
+      "GroupName": "Gold C",
+      "Type": 1,
+      "PlayId": -51521,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOGold C4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Gold C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54685,
+          "Name": "Grounds Ct.6",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51526,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51527,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOSilver A1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51526,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51532,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOSilver A2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51526,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51537,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOSilver A3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51526,
+      "GroupName": "Silver A",
+      "Type": 1,
+      "PlayId": -51542,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOSilver A4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51547,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51548,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOSilver B1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51547,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51553,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOSilver B2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54688,
+          "Name": "Grounds Ct.9",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51547,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51558,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOSilver B3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51547,
+      "GroupName": "Silver B",
+      "Type": 1,
+      "PlayId": -51563,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOSilver B4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54689,
+          "Name": "Grounds Ct.10",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51568,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51569,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOSilver C1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51568,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51574,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOSilver C2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51568,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51579,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOSilver C3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51568,
+      "GroupName": "Silver C",
+      "Type": 1,
+      "PlayId": -51584,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOSilver C4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Silver C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52049,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -52050,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOBronze A1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52049,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -52054,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOBronze A2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52049,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -52058,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOBronze A3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52049,
+      "GroupName": "Bronze A",
+      "Type": 1,
+      "PlayId": -52062,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOBronze A4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze A 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52048,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -52066,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOBronze B1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52048,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -52070,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOBronze B2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52048,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -52074,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOBronze B3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -52048,
+      "GroupName": "Bronze B",
+      "Type": 1,
+      "PlayId": -52078,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOBronze B4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51589,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54826,
+      "FullName": "1 v 1",
+      "ShortName": "1v1",
+      "CompleteShortName": "Lg 4Mar1XOBronze C1v1",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze C 1 v 1",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51589,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54830,
+      "FullName": "2 v 2",
+      "ShortName": "2v2",
+      "CompleteShortName": "Lg 4Mar1XOBronze C2v2",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze C 2 v 2",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51589,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54834,
+      "FullName": "3 v 3",
+      "ShortName": "3v3",
+      "CompleteShortName": "Lg 4Mar1XOBronze C3v3",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze C 3 v 3",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54696,
+          "Name": "Grounds Ct.17",
+          "VideoLink": ""
+        }
+      ]
+    },
+    {
+      "RoundId": -51462,
+      "RoundName": "Lg 4 Mar 1 XO",
+      "GroupId": -51589,
+      "GroupName": "Bronze C",
+      "Type": 1,
+      "PlayId": -54838,
+      "FullName": "4 v 4",
+      "ShortName": "4v4",
+      "CompleteShortName": "Lg 4Mar1XOBronze C4v4",
+      "CompleteFullName": "Lg 4 Mar 1 XO Bronze C 4 v 4",
+      "Order": 0,
+      "Courts": [
+        {
+          "CourtId": -54697,
+          "Name": "Grounds Ct.18",
+          "VideoLink": ""
+        }
+      ]
+    }
+  ]
+}

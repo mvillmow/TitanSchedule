@@ -1,0 +1,1019 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 149335,
+        "TeamName": "AAVC 14-Black",
+        "TeamCode": "g14auace1nc",
+        "TeamText": "AAVC 14-Black (NC) (7)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.9801980198019802,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 23413,
+          "Name": "Auburn Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aavc 14-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170918,
+        "TeamName": "Yuba Elite 14 Blue",
+        "TeamCode": "g14yubae2nc",
+        "TeamText": "Yuba Elite 14 Blue (NC) (10)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 2.5316455696202533,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 24557,
+          "Name": "Yuba Elite Volleyball club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "yuba elite 14 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 153030,
+        "TeamName": "SynergyForce 14 Blue",
+        "TeamCode": "g14force9nc",
+        "TeamText": "SynergyForce 14 Blue (NC) (23)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 0.7608695652173914,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171350,
+        "TeamName": "Aspire 13-3 Teal",
+        "TeamCode": "g13folso3nc",
+        "TeamText": "Aspire 13-3 Teal (NC) (26)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.7033492822966507,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aspire 13-3 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 149336,
+        "TeamName": "AAVC 13-Black",
+        "TeamCode": "g13auace1nc",
+        "TeamText": "AAVC 13-Black (NC) (39)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.7760416666666666,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 23413,
+          "Name": "Auburn Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aavc 13-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171733,
+        "TeamName": "SynergyForce 14 Teal",
+        "TeamCode": "g14force11nc",
+        "TeamText": "SynergyForce 14 Teal (NC) (42)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 2,
+        "SetsLost": 7,
+        "SetPercent": 0.2222222222222222,
+        "PointRatio": 0.6682242990654206,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54335,
+    "FullName": "Pool 7",
+    "ShortName": "P7",
+    "CompleteShortName": "LgQJan31P7",
+    "CompleteFullName": "LgQ - Jan 31 Pool 7",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 171350,
+      "FirstTeamName": "Aspire 13-3 Teal",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Aspire 13-3 Teal (NC) (26)",
+      "SecondTeamId": 171733,
+      "SecondTeamName": "SynergyForce 14 Teal",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 14 Teal (NC) (42)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 16,
+          "ScoreText": "16-14",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 149335,
+      "WorkTeamText": "AAVC 14-Black (NC) (7)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54523,
+      "Court": {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T14:30:00",
+      "ScheduledEndDateTime": "2026-01-31T15:29:59"
+    },
+    {
+      "FirstTeamId": 153030,
+      "FirstTeamName": "SynergyForce 14 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 14 Blue (NC) (23)",
+      "SecondTeamId": 149336,
+      "SecondTeamName": "AAVC 13-Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "AAVC 13-Black (NC) (39)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170918,
+      "WorkTeamText": "Yuba Elite 14 Blue (NC) (10)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54524,
+      "Court": {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T14:30:00",
+      "ScheduledEndDateTime": "2026-01-31T15:29:59"
+    },
+    {
+      "FirstTeamId": 149335,
+      "FirstTeamName": "AAVC 14-Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "AAVC 14-Black (NC) (7)",
+      "SecondTeamId": 171733,
+      "SecondTeamName": "SynergyForce 14 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Teal (NC) (42)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171350,
+      "WorkTeamText": "Aspire 13-3 Teal (NC) (26)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54525,
+      "Court": {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T15:30:00",
+      "ScheduledEndDateTime": "2026-01-31T16:29:59"
+    },
+    {
+      "FirstTeamId": 170918,
+      "FirstTeamName": "Yuba Elite 14 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 14 Blue (NC) (10)",
+      "SecondTeamId": 149336,
+      "SecondTeamName": "AAVC 13-Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "AAVC 13-Black (NC) (39)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 153030,
+      "WorkTeamText": "SynergyForce 14 Blue (NC) (23)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54526,
+      "Court": {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T15:30:00",
+      "ScheduledEndDateTime": "2026-01-31T16:29:59"
+    },
+    {
+      "FirstTeamId": 149335,
+      "FirstTeamName": "AAVC 14-Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "AAVC 14-Black (NC) (7)",
+      "SecondTeamId": 171350,
+      "SecondTeamName": "Aspire 13-3 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-3 Teal (NC) (26)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171733,
+      "WorkTeamText": "SynergyForce 14 Teal (NC) (42)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54527,
+      "Court": {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T16:30:00",
+      "ScheduledEndDateTime": "2026-01-31T17:29:59"
+    },
+    {
+      "FirstTeamId": 170918,
+      "FirstTeamName": "Yuba Elite 14 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 14 Blue (NC) (10)",
+      "SecondTeamId": 153030,
+      "SecondTeamName": "SynergyForce 14 Blue",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Blue (NC) (23)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 5,
+          "ScoreText": "25-5",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 149336,
+      "WorkTeamText": "AAVC 13-Black (NC) (39)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54528,
+      "Court": {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T16:30:00",
+      "ScheduledEndDateTime": "2026-01-31T17:29:59"
+    },
+    {
+      "FirstTeamId": 171350,
+      "FirstTeamName": "Aspire 13-3 Teal",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Aspire 13-3 Teal (NC) (26)",
+      "SecondTeamId": 149336,
+      "SecondTeamName": "AAVC 13-Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "AAVC 13-Black (NC) (39)",
+      "MatchFullName": "Match 7",
+      "MatchShortName": "M7",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 149335,
+      "WorkTeamText": "AAVC 14-Black (NC) (7)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54529,
+      "Court": {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T17:30:00",
+      "ScheduledEndDateTime": "2026-01-31T18:29:59"
+    },
+    {
+      "FirstTeamId": 153030,
+      "FirstTeamName": "SynergyForce 14 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 14 Blue (NC) (23)",
+      "SecondTeamId": 171733,
+      "SecondTeamName": "SynergyForce 14 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Teal (NC) (42)",
+      "MatchFullName": "Match 8",
+      "MatchShortName": "M8",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 28,
+          "SecondTeamScore": 26,
+          "ScoreText": "28-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170918,
+      "WorkTeamText": "Yuba Elite 14 Blue (NC) (10)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -54530,
+      "Court": {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T17:30:00",
+      "ScheduledEndDateTime": "2026-01-31T18:29:59"
+    },
+    {
+      "FirstTeamId": 149335,
+      "FirstTeamName": "AAVC 14-Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "AAVC 14-Black (NC) (7)",
+      "SecondTeamId": 149336,
+      "SecondTeamName": "AAVC 13-Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "AAVC 13-Black (NC) (39)",
+      "MatchFullName": "Match 9",
+      "MatchShortName": "M9",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 153030,
+      "WorkTeamText": "SynergyForce 14 Blue (NC) (23)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54531,
+      "Court": {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T18:30:00",
+      "ScheduledEndDateTime": "2026-01-31T19:29:59"
+    },
+    {
+      "FirstTeamId": 170918,
+      "FirstTeamName": "Yuba Elite 14 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 14 Blue (NC) (10)",
+      "SecondTeamId": 171733,
+      "SecondTeamName": "SynergyForce 14 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Teal (NC) (42)",
+      "MatchFullName": "Match 10",
+      "MatchShortName": "M10",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 10,
+          "ScoreText": "25-10",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 4,
+          "ScoreText": "25-4",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171350,
+      "WorkTeamText": "Aspire 13-3 Teal (NC) (26)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -54532,
+      "Court": {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T18:30:00",
+      "ScheduledEndDateTime": "2026-01-31T19:29:59"
+    },
+    {
+      "FirstTeamId": 149335,
+      "FirstTeamName": "AAVC 14-Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "AAVC 14-Black (NC) (7)",
+      "SecondTeamId": 153030,
+      "SecondTeamName": "SynergyForce 14 Blue",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 14 Blue (NC) (23)",
+      "MatchFullName": "Match 11",
+      "MatchShortName": "M11",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 6,
+          "ScoreText": "25-6",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 149336,
+      "WorkTeamText": "AAVC 13-Black (NC) (39)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54533,
+      "Court": {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T19:30:00",
+      "ScheduledEndDateTime": "2026-01-31T20:29:59"
+    },
+    {
+      "FirstTeamId": 170918,
+      "FirstTeamName": "Yuba Elite 14 Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 14 Blue (NC) (10)",
+      "SecondTeamId": 171350,
+      "SecondTeamName": "Aspire 13-3 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 13-3 Teal (NC) (26)",
+      "MatchFullName": "Match 12",
+      "MatchShortName": "M12",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 5,
+          "ScoreText": "25-5",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 171733,
+      "WorkTeamText": "SynergyForce 14 Teal (NC) (42)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -54534,
+      "Court": {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-31T19:30:00",
+      "ScheduledEndDateTime": "2026-01-31T20:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Yuba Elite 14 Blue (NC) (10)",
+      "Match": {
+        "MatchId": -55317,
+        "Court": {
+          "CourtId": -52786,
+          "Name": "OMNI Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -54558,
+        "FullName": "Gold B",
+        "ShortName": "Gold B",
+        "CompleteShortName": "LgQFeb1BAll 1s-2sGold B",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold B",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52786,
+            "Name": "OMNI Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - AAVC 14-Black (NC) (7)",
+      "Match": {
+        "MatchId": -55325,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55324,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T07:30:00",
+        "ScheduledEndDateTime": "2026-02-01T08:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55304,
+        "FullName": "Gold D",
+        "ShortName": "Gold D",
+        "CompleteShortName": "LgQFeb1BAll 1s-2sGold D",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 1s-2s Gold D",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52785,
+            "Name": "OMNI Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - SynergyForce 14 Blue (NC) (23)",
+      "Match": {
+        "MatchId": -55344,
+        "Court": {
+          "CourtId": -52782,
+          "Name": "OMNI Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55342,
+        "Court": {
+          "CourtId": -52782,
+          "Name": "OMNI Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T09:30:00",
+        "ScheduledEndDateTime": "2026-02-01T10:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55327,
+        "FullName": "Silver B",
+        "ShortName": "Silver B",
+        "CompleteShortName": "LgQFeb1BAll 3s-4sSilver B",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver B",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52782,
+            "Name": "OMNI Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - AAVC 13-Black (NC) (39)",
+      "Match": {
+        "MatchId": -55352,
+        "Court": {
+          "CourtId": -52781,
+          "Name": "OMNI Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T08:30:00",
+        "ScheduledEndDateTime": "2026-02-01T09:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55351,
+        "Court": {
+          "CourtId": -52781,
+          "Name": "OMNI Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T07:30:00",
+        "ScheduledEndDateTime": "2026-02-01T08:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -54574,
+        "FullName": "Silver D",
+        "ShortName": "Silver D",
+        "CompleteShortName": "LgQFeb1BAll 3s-4sSilver D",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 3s-4s Silver D",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52781,
+            "Name": "OMNI Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "5 - SynergyForce 14 Teal (NC) (42)",
+      "Match": {
+        "MatchId": -55371,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T13:30:00",
+        "ScheduledEndDateTime": "2026-02-01T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55369,
+        "Court": {
+          "CourtId": -52785,
+          "Name": "OMNI Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T14:30:00",
+        "ScheduledEndDateTime": "2026-02-01T15:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -55358,
+        "FullName": "Bronze B",
+        "ShortName": "Bronze B",
+        "CompleteShortName": "LgQFeb1BAll 5s-6sBronze B",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze B",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52785,
+            "Name": "OMNI Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "6 - Aspire 13-3 Teal (NC) (26)",
+      "Match": {
+        "MatchId": -55379,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T13:30:00",
+        "ScheduledEndDateTime": "2026-02-01T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -55378,
+        "Court": {
+          "CourtId": -52787,
+          "Name": "OMNI Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-01T12:30:00",
+        "ScheduledEndDateTime": "2026-02-01T13:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -54590,
+        "FullName": "Bronze D",
+        "ShortName": "Bronze D",
+        "CompleteShortName": "LgQFeb1BAll 5s-6sBronze D",
+        "CompleteFullName": "LgQ - Feb 1 - Bracket All 5s-6s Bronze D",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52787,
+            "Name": "OMNI Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

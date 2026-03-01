@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 206717,
+        "TeamName": "Morgan Hill 18 Elite",
+        "TeamCode": "g18hmgnv1nc",
+        "TeamText": "Morgan Hill 18 Elite (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.673202614379085,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 18 elite",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165589,
+        "TeamName": "OMNI 15 Power",
+        "TeamCode": "g15omniv3nc",
+        "TeamText": "OMNI 15 Power (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 0.9736842105263158,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 15 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 142325,
+        "TeamName": "Aspire 16-2 Pink",
+        "TeamCode": "g16folso2nc",
+        "TeamText": "Aspire 16-2 Pink (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 1.0,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 16-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165594,
+        "TeamName": "OMNI 16 Prime",
+        "TeamCode": "g16omniv4nc",
+        "TeamText": "OMNI 16 Prime (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.5625,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 16 prime",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50746,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg2Jan25Silver AP2",
+    "CompleteFullName": "Lg2 Jan 25 Silver A Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52128,
+        "Name": "City Beach Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 206717,
+      "FirstTeamName": "Morgan Hill 18 Elite",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Morgan Hill 18 Elite (NC)",
+      "SecondTeamId": 142325,
+      "SecondTeamName": "Aspire 16-2 Pink",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Aspire 16-2 Pink (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 9,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165589,
+      "WorkTeamText": "OMNI 15 Power (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50749,
+      "Court": {
+        "CourtId": -52128,
+        "Name": "City Beach Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T08:00:00",
+      "ScheduledEndDateTime": "2026-01-25T08:59:59"
+    },
+    {
+      "FirstTeamId": 165589,
+      "FirstTeamName": "OMNI 15 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 15 Power (NC)",
+      "SecondTeamId": 165594,
+      "SecondTeamName": "OMNI 16 Prime",
+      "SecondTeamWon": true,
+      "SecondTeamText": "OMNI 16 Prime (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 11,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206717,
+      "WorkTeamText": "Morgan Hill 18 Elite (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50750,
+      "Court": {
+        "CourtId": -52128,
+        "Name": "City Beach Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T09:00:00",
+      "ScheduledEndDateTime": "2026-01-25T09:59:59"
+    },
+    {
+      "FirstTeamId": 206717,
+      "FirstTeamName": "Morgan Hill 18 Elite",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Morgan Hill 18 Elite (NC)",
+      "SecondTeamId": 165594,
+      "SecondTeamName": "OMNI 16 Prime",
+      "SecondTeamWon": true,
+      "SecondTeamText": "OMNI 16 Prime (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 17,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 142325,
+      "WorkTeamText": "Aspire 16-2 Pink (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50751,
+      "Court": {
+        "CourtId": -52128,
+        "Name": "City Beach Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T10:00:00",
+      "ScheduledEndDateTime": "2026-01-25T10:59:59"
+    },
+    {
+      "FirstTeamId": 165589,
+      "FirstTeamName": "OMNI 15 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "OMNI 15 Power (NC)",
+      "SecondTeamId": 142325,
+      "SecondTeamName": "Aspire 16-2 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 16-2 Pink (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 14,
+          "ScoreText": "16-14",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206717,
+      "WorkTeamText": "Morgan Hill 18 Elite (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50752,
+      "Court": {
+        "CourtId": -52128,
+        "Name": "City Beach Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T11:00:00",
+      "ScheduledEndDateTime": "2026-01-25T11:59:59"
+    },
+    {
+      "FirstTeamId": 142325,
+      "FirstTeamName": "Aspire 16-2 Pink",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Aspire 16-2 Pink (NC)",
+      "SecondTeamId": 165594,
+      "SecondTeamName": "OMNI 16 Prime",
+      "SecondTeamWon": true,
+      "SecondTeamText": "OMNI 16 Prime (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165589,
+      "WorkTeamText": "OMNI 15 Power (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50753,
+      "Court": {
+        "CourtId": -52128,
+        "Name": "City Beach Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:00:00",
+      "ScheduledEndDateTime": "2026-01-25T12:59:59"
+    },
+    {
+      "FirstTeamId": 206717,
+      "FirstTeamName": "Morgan Hill 18 Elite",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Morgan Hill 18 Elite (NC)",
+      "SecondTeamId": 165589,
+      "SecondTeamName": "OMNI 15 Power",
+      "SecondTeamWon": true,
+      "SecondTeamText": "OMNI 15 Power (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 28,
+          "ScoreText": "28-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165594,
+      "WorkTeamText": "OMNI 16 Prime (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50754,
+      "Court": {
+        "CourtId": -52128,
+        "Name": "City Beach Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:00:00",
+      "ScheduledEndDateTime": "2026-01-25T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - OMNI 16 Prime (NC)",
+      "Match": {
+        "MatchId": -50899,
+        "Court": {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50895,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg2Jan25XOSilver A1v1",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52127,
+            "Name": "City Beach Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - OMNI 15 Power (NC)",
+      "Match": {
+        "MatchId": -50904,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50914,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50900,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg2Jan25XOSilver A2v2",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52128,
+            "Name": "City Beach Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Aspire 16-2 Pink (NC)",
+      "Match": {
+        "MatchId": -50909,
+        "Court": {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50899,
+        "Court": {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50905,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg2Jan25XOSilver A3v3",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52127,
+            "Name": "City Beach Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Morgan Hill 18 Elite (NC)",
+      "Match": {
+        "MatchId": -50914,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50904,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50910,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg2Jan25XOSilver A4v4",
+        "CompleteFullName": "Lg2 Jan 25 XO Silver A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52128,
+            "Name": "City Beach Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

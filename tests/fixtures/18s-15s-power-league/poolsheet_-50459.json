@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 131808,
+        "TeamName": "Aspire 17-2 Pink",
+        "TeamCode": "g17folso1nc",
+        "TeamText": "Aspire 17-2 Pink (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 0.952755905511811,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 17-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 168642,
+        "TeamName": "Yuba Elite 16 Pink",
+        "TeamCode": "g16yubae1nc",
+        "TeamText": "Yuba Elite 16 Pink (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.424778761061947,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 24557,
+          "Name": "Yuba Elite Volleyball club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "yuba elite 16 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225586,
+        "TeamName": "Morgan Hill 16U",
+        "TeamCode": "g16hmgnv1nc",
+        "TeamText": "Morgan Hill 16U (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.8404907975460123,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 16u",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27880,
+        "TeamName": "Titan Travel 16 Taylor",
+        "TeamCode": "g16titav2nc",
+        "TeamText": "Titan Travel 16 Taylor (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.9064327485380117,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan travel 16 taylor",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50459,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg1Jan24SIlver CP1",
+    "CompleteFullName": "Lg1 Jan 24 Silver C Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 131808,
+      "FirstTeamName": "Aspire 17-2 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Aspire 17-2 Pink (NC)",
+      "SecondTeamId": 225586,
+      "SecondTeamName": "Morgan Hill 16U",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Morgan Hill 16U (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 168642,
+      "WorkTeamText": "Yuba Elite 16 Pink (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50462,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T08:00:00",
+      "ScheduledEndDateTime": "2026-01-24T08:59:59"
+    },
+    {
+      "FirstTeamId": 168642,
+      "FirstTeamName": "Yuba Elite 16 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 16 Pink (NC)",
+      "SecondTeamId": 27880,
+      "SecondTeamName": "Titan Travel 16 Taylor",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 16 Taylor (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 9,
+          "ScoreText": "15-9",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 131808,
+      "WorkTeamText": "Aspire 17-2 Pink (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50463,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T09:00:00",
+      "ScheduledEndDateTime": "2026-01-24T09:59:59"
+    },
+    {
+      "FirstTeamId": 131808,
+      "FirstTeamName": "Aspire 17-2 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Aspire 17-2 Pink (NC)",
+      "SecondTeamId": 27880,
+      "SecondTeamName": "Titan Travel 16 Taylor",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Titan Travel 16 Taylor (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 225586,
+      "WorkTeamText": "Morgan Hill 16U (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50464,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T10:00:00",
+      "ScheduledEndDateTime": "2026-01-24T10:59:59"
+    },
+    {
+      "FirstTeamId": 168642,
+      "FirstTeamName": "Yuba Elite 16 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Yuba Elite 16 Pink (NC)",
+      "SecondTeamId": 225586,
+      "SecondTeamName": "Morgan Hill 16U",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Morgan Hill 16U (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 131808,
+      "WorkTeamText": "Aspire 17-2 Pink (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50465,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T11:00:00",
+      "ScheduledEndDateTime": "2026-01-24T11:59:59"
+    },
+    {
+      "FirstTeamId": 225586,
+      "FirstTeamName": "Morgan Hill 16U",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Morgan Hill 16U (NC)",
+      "SecondTeamId": 27880,
+      "SecondTeamName": "Titan Travel 16 Taylor",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Titan Travel 16 Taylor (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-12",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 168642,
+      "WorkTeamText": "Yuba Elite 16 Pink (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50466,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T12:00:00",
+      "ScheduledEndDateTime": "2026-01-24T12:59:59"
+    },
+    {
+      "FirstTeamId": 131808,
+      "FirstTeamName": "Aspire 17-2 Pink",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Aspire 17-2 Pink (NC)",
+      "SecondTeamId": 168642,
+      "SecondTeamName": "Yuba Elite 16 Pink",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Yuba Elite 16 Pink (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 5,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-5",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27880,
+      "WorkTeamText": "Titan Travel 16 Taylor (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50467,
+      "Court": {
+        "CourtId": -52131,
+        "Name": "Vibe Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T13:00:00",
+      "ScheduledEndDateTime": "2026-01-24T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Yuba Elite 16 Pink (NC)",
+      "Match": {
+        "MatchId": -50625,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50635,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50621,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Jan24XOSIlver C1v1",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52131,
+            "Name": "Vibe Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Aspire 17-2 Pink (NC)",
+      "Match": {
+        "MatchId": -50630,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50640,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50626,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Jan24XOSIlver C2v2",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52132,
+            "Name": "Vibe Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Titan Travel 16 Taylor (NC)",
+      "Match": {
+        "MatchId": -50635,
+        "Court": {
+          "CourtId": -52131,
+          "Name": "Vibe Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50631,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Jan24XOSIlver C3v3",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52131,
+            "Name": "Vibe Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Morgan Hill 16U (NC)",
+      "Match": {
+        "MatchId": -50640,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50630,
+        "Court": {
+          "CourtId": -52132,
+          "Name": "Vibe Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50636,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Jan24XOSIlver C4v4",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver C 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52132,
+            "Name": "Vibe Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

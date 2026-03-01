@@ -1,0 +1,563 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 100743,
+        "TeamName": "SynergyForce 15 Gold",
+        "TeamCode": "g15force3nc",
+        "TeamText": "SynergyForce 15 Gold (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 0.9493670886075949,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 gold",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 142325,
+        "TeamName": "Aspire 16-2 Pink",
+        "TeamCode": "g16folso2nc",
+        "TeamText": "Aspire 16-2 Pink (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 2,
+        "SetPercent": 0.7142857142857143,
+        "PointRatio": 1.3360655737704918,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 16-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75341,
+        "TeamName": "SynergyForce 15 Black",
+        "TeamCode": "g15force4nc",
+        "TeamText": "SynergyForce 15 Black (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7349397590361446,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 32274,
+        "TeamName": "Aspire 15-1 Black",
+        "TeamCode": "g15folso1nc",
+        "TeamText": "Aspire 15-1 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 1.0723684210526316,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 15-1 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51053,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Silver AP1",
+    "CompleteFullName": "Lg3 Feb 28 Silver A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 100743,
+      "FirstTeamName": "SynergyForce 15 Gold",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 15 Gold (NC)",
+      "SecondTeamId": 75341,
+      "SecondTeamName": "SynergyForce 15 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 15 Black (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "23-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 25,
+          "ScoreText": "27-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 14,
+          "ScoreText": "16-14",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 142325,
+      "WorkTeamText": "Aspire 16-2 Pink (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51056,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T08:00:00",
+      "ScheduledEndDateTime": "2026-02-28T08:59:59"
+    },
+    {
+      "FirstTeamId": 142325,
+      "FirstTeamName": "Aspire 16-2 Pink",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Aspire 16-2 Pink (NC)",
+      "SecondTeamId": 32274,
+      "SecondTeamName": "Aspire 15-1 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Aspire 15-1 Black (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-27",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 17,
+          "SecondTeamScore": 19,
+          "ScoreText": "19-17",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 100743,
+      "WorkTeamText": "SynergyForce 15 Gold (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51057,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T09:00:00",
+      "ScheduledEndDateTime": "2026-02-28T09:59:59"
+    },
+    {
+      "FirstTeamId": 100743,
+      "FirstTeamName": "SynergyForce 15 Gold",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 15 Gold (NC)",
+      "SecondTeamId": 32274,
+      "SecondTeamName": "Aspire 15-1 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 15-1 Black (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75341,
+      "WorkTeamText": "SynergyForce 15 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51058,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T10:00:00",
+      "ScheduledEndDateTime": "2026-02-28T10:59:59"
+    },
+    {
+      "FirstTeamId": 142325,
+      "FirstTeamName": "Aspire 16-2 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Aspire 16-2 Pink (NC)",
+      "SecondTeamId": 75341,
+      "SecondTeamName": "SynergyForce 15 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 15 Black (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 7,
+          "ScoreText": "25-7",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 100743,
+      "WorkTeamText": "SynergyForce 15 Gold (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51059,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T11:00:00",
+      "ScheduledEndDateTime": "2026-02-28T11:59:59"
+    },
+    {
+      "FirstTeamId": 75341,
+      "FirstTeamName": "SynergyForce 15 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 15 Black (NC)",
+      "SecondTeamId": 32274,
+      "SecondTeamName": "Aspire 15-1 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Aspire 15-1 Black (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 142325,
+      "WorkTeamText": "Aspire 16-2 Pink (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51060,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T12:00:00",
+      "ScheduledEndDateTime": "2026-02-28T12:59:59"
+    },
+    {
+      "FirstTeamId": 100743,
+      "FirstTeamName": "SynergyForce 15 Gold",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 15 Gold (NC)",
+      "SecondTeamId": 142325,
+      "SecondTeamName": "Aspire 16-2 Pink",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Aspire 16-2 Pink (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 11,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 32274,
+      "WorkTeamText": "Aspire 15-1 Black (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51061,
+      "Court": {
+        "CourtId": -54686,
+        "Name": "Grounds Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T13:00:00",
+      "ScheduledEndDateTime": "2026-02-28T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Aspire 16-2 Pink (NC)",
+      "Match": {
+        "MatchId": -51215,
+        "Court": {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51211,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver A1v1",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54686,
+            "Name": "Grounds Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Aspire 15-1 Black (NC)",
+      "Match": {
+        "MatchId": -51220,
+        "Court": {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51216,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver A2v2",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54687,
+            "Name": "Grounds Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - SynergyForce 15 Gold (NC)",
+      "Match": {
+        "MatchId": -51225,
+        "Court": {
+          "CourtId": -54686,
+          "Name": "Grounds Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51221,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver A3v3",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54686,
+            "Name": "Grounds Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - SynergyForce 15 Black (NC)",
+      "Match": {
+        "MatchId": -51230,
+        "Court": {
+          "CourtId": -54687,
+          "Name": "Grounds Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51226,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver A4v4",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54687,
+            "Name": "Grounds Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,1794 @@
+[
+  {
+    "Teams": [
+      {
+        "TeamId": 222898,
+        "TeamName": "Arbuckle 14 KJ",
+        "TeamCode": "g14arbkl1nc",
+        "TeamText": "Arbuckle 14 KJ (NC) (1)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.7699115044247788,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "arbuckle 14 kj",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 217535,
+        "TeamName": "ACVC 13",
+        "TeamCode": "g13acvbc1nc",
+        "TeamText": "ACVC 13 (NC) (16)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 5,
+        "SetsLost": 4,
+        "SetPercent": 0.5555555555555556,
+        "PointRatio": 1.1835443037974684,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 32557,
+          "Name": "ACVC - Amador County Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "acvc 13",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 219338,
+        "TeamName": "EVC 14-Black",
+        "TeamCode": "g14evsnv1nc",
+        "TeamText": "EVC 14-Black (NC) (17)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 6,
+        "SetsLost": 2,
+        "SetPercent": 0.75,
+        "PointRatio": 1.4609375,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 29857,
+          "Name": "Envision Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "evc 14-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 208735,
+        "TeamName": "FPVC 14 Derek",
+        "TeamCode": "g14fpvcv5nc",
+        "TeamText": "FPVC 14 Derek (NC) (32)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 6,
+        "SetsLost": 3,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.2356687898089171,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 7370,
+          "Name": "FPVC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "fpvc 14 derek",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225136,
+        "TeamName": "Five Starz 13 White Padri",
+        "TeamCode": "g13fives2nc",
+        "TeamText": "Five Starz 13 White Padri (NC) (33)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 8,
+        "SetPercent": 0.0,
+        "PointRatio": 0.515,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 4308,
+          "Name": "Five Starz VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "five starz 13 white padri",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170617,
+        "TeamName": "SynergyForce 13 Pink",
+        "TeamCode": "g13force9nc",
+        "TeamText": "SynergyForce 13 Pink (NC) (48)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 8,
+        "SetPercent": 0.0,
+        "PointRatio": 0.425,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 13 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54281,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "LgQJan31P1",
+    "CompleteFullName": "LgQ - Jan 31 Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 149885,
+        "TeamName": "MVC 14-1",
+        "TeamCode": "g14lmtad1nc",
+        "TeamText": "MVC 14-1 (NC) (2)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 1,
+        "SetPercent": 0.8888888888888888,
+        "PointRatio": 1.8521739130434782,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 26566,
+          "Name": "Motherlode Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "mvc 14-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 90168,
+        "TeamName": "Aspire 14-3 Teal",
+        "TeamCode": "g14folso3nc",
+        "TeamText": "Aspire 14-3 Teal (NC) (15)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 6,
+        "SetsLost": 3,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.1686746987951808,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aspire 14-3 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75336,
+        "TeamName": "SynergyForce 13 Red",
+        "TeamCode": "g13force6nc",
+        "TeamText": "SynergyForce 13 Red (NC) (18)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 7,
+        "SetsLost": 2,
+        "SetPercent": 0.7777777777777778,
+        "PointRatio": 1.364864864864865,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 13 red",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170543,
+        "TeamName": "NNJ 13 Kaisa",
+        "TeamCode": "g13nnejr2nc",
+        "TeamText": "NNJ 13 Kaisa (NC) (31)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.2014388489208634,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "nnj 13 kaisa",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 150334,
+        "TeamName": "SynergyForce 13 White",
+        "TeamCode": "g13force7nc",
+        "TeamText": "SynergyForce 13 White (NC) (34)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.6310679611650486,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 13 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 187958,
+        "TeamName": "Aspire 13-4 White",
+        "TeamCode": "g13folso4nc",
+        "TeamText": "Aspire 13-4 White (NC) (47)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 8,
+        "SetPercent": 0.0,
+        "PointRatio": 0.34,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aspire 13-4 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54290,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "LgQJan31P2",
+    "CompleteFullName": "LgQ - Jan 31 Pool 2",
+    "Order": 1,
+    "Courts": [
+      {
+        "CourtId": -52781,
+        "Name": "OMNI Ct.3",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52782,
+        "Name": "OMNI Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 88242,
+        "TeamName": "SynergyForce 14 Red",
+        "TeamCode": "g14force7nc",
+        "TeamText": "SynergyForce 14 Red (NC) (3)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 1,
+        "SetPercent": 0.8888888888888888,
+        "PointRatio": 1.3354430379746836,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 red",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171001,
+        "TeamName": "OMNI 14 Premier I",
+        "TeamCode": "g14omniv5nc",
+        "TeamText": "OMNI 14 Premier I (NC) (14)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 5,
+        "SetsLost": 5,
+        "SetPercent": 0.5,
+        "PointRatio": 1.01,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "omni 14 premier i",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170390,
+        "TeamName": "NorCal Supreme 13 Blue",
+        "TeamCode": "g13116191nc",
+        "TeamText": "NorCal Supreme 13 Blue (NC) (19)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 7,
+        "SetsLost": 2,
+        "SetPercent": 0.7777777777777778,
+        "PointRatio": 1.274390243902439,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "norcal supreme 13 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 223494,
+        "TeamName": "Stockton Ace 14-1",
+        "TeamCode": "g14wvbn41nc",
+        "TeamText": "Stockton Ace 14-1 (NC) (30)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 5,
+        "SetsLost": 5,
+        "SetPercent": 0.5,
+        "PointRatio": 1.0655737704918034,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 32625,
+          "Name": "Stockton Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "stockton ace 14-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225627,
+        "TeamName": "SPVC 14 Nicole",
+        "TeamCode": "g14spvcv4nc",
+        "TeamText": "SPVC 14 Nicole (NC) (35)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 8,
+        "SetPercent": 0.0,
+        "PointRatio": 0.71,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 7196,
+          "Name": "Sac Performance Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "spvc 14 nicole",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 207870,
+        "TeamName": "NNJ 13 Malia",
+        "TeamCode": "g13nnejr3nc",
+        "TeamText": "NNJ 13 Malia (NC) (46)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 3,
+        "SetsLost": 7,
+        "SetPercent": 0.3,
+        "PointRatio": 0.7488372093023256,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "nnj 13 malia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54299,
+    "FullName": "Pool 3",
+    "ShortName": "P3",
+    "CompleteShortName": "LgQJan31P3",
+    "CompleteFullName": "LgQ - Jan 31 Pool 3",
+    "Order": 2,
+    "Courts": [
+      {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 161630,
+        "TeamName": "NorCal Supreme 14 Blue",
+        "TeamCode": "g14116191nc",
+        "TeamText": "NorCal Supreme 14 Blue (NC) (4)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 2.1739130434782608,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "norcal supreme 14 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 125056,
+        "TeamName": "Pulse 14 Pink",
+        "TeamCode": "g14pulse2nc",
+        "TeamText": "Pulse 14 Pink (NC) (13)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 3,
+        "SetPercent": 0.7272727272727273,
+        "PointRatio": 1.2094240837696335,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 6983,
+          "Name": "Pulse Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "pulse 14 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225625,
+        "TeamName": "SPVC 14 Jacquie",
+        "TeamCode": "g14spvcv3nc",
+        "TeamText": "SPVC 14 Jacquie (NC) (20)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 5,
+        "SetsLost": 4,
+        "SetPercent": 0.5555555555555556,
+        "PointRatio": 1.0778443113772456,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 7196,
+          "Name": "Sac Performance Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "spvc 14 jacquie",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225477,
+        "TeamName": "OMNI 14 Premier III",
+        "TeamCode": "g14omniv7nc",
+        "TeamText": "OMNI 14 Premier III (NC) (29)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.6037735849056604,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "omni 14 premier iii",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 194861,
+        "TeamName": "Aspire 14-4 White",
+        "TeamCode": "g14folso4nc",
+        "TeamText": "Aspire 14-4 White (NC) (36)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 3,
+        "SetsLost": 6,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.7819148936170213,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aspire 14-4 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 161807,
+        "TeamName": "FPVC 13 Sophia",
+        "TeamCode": "g13fpvcv4nc",
+        "TeamText": "FPVC 13 Sophia (NC) (45)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.797752808988764,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 7370,
+          "Name": "FPVC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "fpvc 13 sophia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54308,
+    "FullName": "Pool 4",
+    "ShortName": "P4",
+    "CompleteShortName": "LgQJan31P4",
+    "CompleteFullName": "LgQ - Jan 31 Pool 4",
+    "Order": 3,
+    "Courts": [
+      {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 225626,
+        "TeamName": "SPVC 14 Katelyn",
+        "TeamCode": "g14spvcv2nc",
+        "TeamText": "SPVC 14 Katelyn (NC) (5)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 6,
+        "SetsLost": 4,
+        "SetPercent": 0.6,
+        "PointRatio": 1.0203045685279188,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 7196,
+          "Name": "Sac Performance Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "spvc 14 katelyn",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 152064,
+        "TeamName": "NNJ 14 Aceenia",
+        "TeamCode": "g14nnejr4nc",
+        "TeamText": "NNJ 14 Aceenia (NC) (12)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 7,
+        "SetsLost": 4,
+        "SetPercent": 0.6363636363636364,
+        "PointRatio": 1.2240437158469946,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "nnj 14 aceenia",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 163135,
+        "TeamName": "FPVC 13 Clara",
+        "TeamCode": "g13fpvcv3nc",
+        "TeamText": "FPVC 13 Clara (NC) (21)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 3,
+        "SetsLost": 6,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.8301886792452831,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 7370,
+          "Name": "FPVC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "fpvc 13 clara",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 197459,
+        "TeamName": "Yuba Elite 14 Black",
+        "TeamCode": "g14yubae3nc",
+        "TeamText": "Yuba Elite 14 Black (NC) (28)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 2,
+        "SetPercent": 0.8,
+        "PointRatio": 1.5384615384615385,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 24557,
+          "Name": "Yuba Elite Volleyball club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "yuba elite 14 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 154604,
+        "TeamName": "SynergyForce 14 Pink",
+        "TeamCode": "g14force10nc",
+        "TeamText": "SynergyForce 14 Pink (NC) (37)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.680952380952381,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 153029,
+        "TeamName": "SynergyForce 13 Blue",
+        "TeamCode": "g13force8nc",
+        "TeamText": "SynergyForce 13 Blue (NC) (44)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 5,
+        "SetPercent": 0.4444444444444444,
+        "PointRatio": 0.9040404040404041,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 13 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54317,
+    "FullName": "Pool 5",
+    "ShortName": "P5",
+    "CompleteShortName": "LgQJan31P5",
+    "CompleteFullName": "LgQ - Jan 31 Pool 5",
+    "Order": 4,
+    "Courts": [
+      {
+        "CourtId": -52779,
+        "Name": "OMNI Ct.1",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52780,
+        "Name": "OMNI Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 192738,
+        "TeamName": "FPVC 14 Ethan",
+        "TeamCode": "g14fpvcv4nc",
+        "TeamText": "FPVC 14 Ethan (NC) (6)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 1,
+        "SetPercent": 0.8888888888888888,
+        "PointRatio": 1.355263157894737,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 7370,
+          "Name": "FPVC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "fpvc 14 ethan",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 130307,
+        "TeamName": "SynergyForce 14 White",
+        "TeamCode": "g14force8nc",
+        "TeamText": "SynergyForce 14 White (NC) (11)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 6,
+        "SetsLost": 3,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.3,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225523,
+        "TeamName": "ATN 13 Ohana",
+        "TeamCode": "g13abtnt1nc",
+        "TeamText": "ATN 13 Ohana (NC) (22)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 3,
+        "SetsLost": 6,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.9722222222222222,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 30992,
+          "Name": "Above The Net VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "atn 13 ohana",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170875,
+        "TeamName": "AAVC 14-Silver",
+        "TeamCode": "g14auace2nc",
+        "TeamText": "AAVC 14-Silver (NC) (27)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 5,
+        "SetsLost": 4,
+        "SetPercent": 0.5555555555555556,
+        "PointRatio": 1.1090909090909091,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 23413,
+          "Name": "Auburn Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aavc 14-silver",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 225325,
+        "TeamName": "Yuba Elite 14 Silver",
+        "TeamCode": "g14yubae4nc",
+        "TeamText": "Yuba Elite 14 Silver (NC) (38)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 0.8936170212765957,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 24557,
+          "Name": "Yuba Elite Volleyball club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "yuba elite 14 silver",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170779,
+        "TeamName": "NorCal Supreme 13 Red",
+        "TeamCode": "g13116192nc",
+        "TeamText": "NorCal Supreme 13 Red (NC) (43)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 8,
+        "SetPercent": 0.0,
+        "PointRatio": 0.525,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "norcal supreme 13 red",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54326,
+    "FullName": "Pool 6",
+    "ShortName": "P6",
+    "CompleteShortName": "LgQJan31P6",
+    "CompleteFullName": "LgQ - Jan 31 Pool 6",
+    "Order": 5,
+    "Courts": [
+      {
+        "CourtId": -52781,
+        "Name": "OMNI Ct.3",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52782,
+        "Name": "OMNI Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 149335,
+        "TeamName": "AAVC 14-Black",
+        "TeamCode": "g14auace1nc",
+        "TeamText": "AAVC 14-Black (NC) (7)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.9801980198019802,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 23413,
+          "Name": "Auburn Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aavc 14-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 170918,
+        "TeamName": "Yuba Elite 14 Blue",
+        "TeamCode": "g14yubae2nc",
+        "TeamText": "Yuba Elite 14 Blue (NC) (10)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 2.5316455696202533,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 24557,
+          "Name": "Yuba Elite Volleyball club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "yuba elite 14 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 153030,
+        "TeamName": "SynergyForce 14 Blue",
+        "TeamCode": "g14force9nc",
+        "TeamText": "SynergyForce 14 Blue (NC) (23)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 0.7608695652173914,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171350,
+        "TeamName": "Aspire 13-3 Teal",
+        "TeamCode": "g13folso3nc",
+        "TeamText": "Aspire 13-3 Teal (NC) (26)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.7033492822966507,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aspire 13-3 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 149336,
+        "TeamName": "AAVC 13-Black",
+        "TeamCode": "g13auace1nc",
+        "TeamText": "AAVC 13-Black (NC) (39)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.7760416666666666,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 23413,
+          "Name": "Auburn Aces Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "aavc 13-black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171733,
+        "TeamName": "SynergyForce 14 Teal",
+        "TeamCode": "g14force11nc",
+        "TeamText": "SynergyForce 14 Teal (NC) (42)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 2,
+        "SetsLost": 7,
+        "SetPercent": 0.2222222222222222,
+        "PointRatio": 0.6682242990654206,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "synergyforce 14 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54335,
+    "FullName": "Pool 7",
+    "ShortName": "P7",
+    "CompleteShortName": "LgQJan31P7",
+    "CompleteFullName": "LgQ - Jan 31 Pool 7",
+    "Order": 6,
+    "Courts": [
+      {
+        "CourtId": -52784,
+        "Name": "OMNI Ct.6",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52785,
+        "Name": "OMNI Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  {
+    "Teams": [
+      {
+        "TeamId": 225522,
+        "TeamName": "ATN 14 Chloe",
+        "TeamCode": "g14abtnt2nc",
+        "TeamText": "ATN 14 Chloe (NC) (8)",
+        "MatchesWon": 4,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 8,
+        "SetsLost": 1,
+        "SetPercent": 0.8888888888888888,
+        "PointRatio": 1.401360544217687,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 30992,
+          "Name": "Above The Net VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "atn 14 chloe",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206878,
+        "TeamName": "Five Starz 14 White Chelsea",
+        "TeamCode": "g14fives2nc",
+        "TeamText": "Five Starz 14 White Chelsea (NC) (9)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 6,
+        "SetsLost": 5,
+        "SetPercent": 0.5454545454545454,
+        "PointRatio": 1.1485148514851484,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 4308,
+          "Name": "Five Starz VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "five starz 14 white chelsea",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 171320,
+        "TeamName": "OMNI 14 Premier II",
+        "TeamCode": "g14omniv6nc",
+        "TeamText": "OMNI 14 Premier II (NC) (24)",
+        "MatchesWon": 1,
+        "MatchesLost": 3,
+        "MatchPercent": 0.25,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.6871794871794872,
+        "FinishRank": 5,
+        "OverallRank": null,
+        "FinishRankText": "5th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "omni 14 premier ii",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 161631,
+        "TeamName": "NorCal Supreme 14 Red",
+        "TeamCode": "g14116192nc",
+        "TeamText": "NorCal Supreme 14 Red (NC) (25)",
+        "MatchesWon": 3,
+        "MatchesLost": 1,
+        "MatchPercent": 0.75,
+        "SetsWon": 7,
+        "SetsLost": 3,
+        "SetPercent": 0.7,
+        "PointRatio": 1.2359550561797752,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "norcal supreme 14 red",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 222899,
+        "TeamName": "Arbuckle 14 LK",
+        "TeamCode": "g14arbkl2nc",
+        "TeamText": "Arbuckle 14 LK (NC) (40)",
+        "MatchesWon": 0,
+        "MatchesLost": 4,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 8,
+        "SetPercent": 0.1111111111111111,
+        "PointRatio": 0.8018867924528302,
+        "FinishRank": 6,
+        "OverallRank": null,
+        "FinishRankText": "6th",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "arbuckle 14 lk",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 207822,
+        "TeamName": "NNJ 14 Brooklyn",
+        "TeamCode": "g14nnejr5nc",
+        "TeamText": "NNJ 14 Brooklyn (NC) (41)",
+        "MatchesWon": 2,
+        "MatchesLost": 2,
+        "MatchPercent": 0.5,
+        "SetsWon": 4,
+        "SetsLost": 5,
+        "SetPercent": 0.4444444444444444,
+        "PointRatio": 0.8571428571428571,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199194,
+          "Name": "14s Girls",
+          "TeamCount": 48,
+          "CodeAlias": "14s Girls",
+          "ColorHex": "#DF5F9F"
+        },
+        "SearchableTeamName": "nnj 14 brooklyn",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -54344,
+    "FullName": "Pool 8",
+    "ShortName": "P8",
+    "CompleteShortName": "LgQJan31P8",
+    "CompleteFullName": "LgQ - Jan 31 Pool 8",
+    "Order": 7,
+    "Courts": [
+      {
+        "CourtId": -52786,
+        "Name": "OMNI Ct.8",
+        "VideoLink": ""
+      },
+      {
+        "CourtId": -52787,
+        "Name": "OMNI Ct.9",
+        "VideoLink": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 216272,
+        "TeamName": "Arbuckle 17 Lauren",
+        "TeamCode": "g17arbkl2nc",
+        "TeamText": "Arbuckle 17 Lauren (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.3636363636363635,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "arbuckle 17 lauren",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 128938,
+        "TeamName": "SynergyForce 17 Black",
+        "TeamCode": "g17force4nc",
+        "TeamText": "SynergyForce 17 Black (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.9030303030303031,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 17 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 86785,
+        "TeamName": "City Beach 17-Green",
+        "TeamCode": "g17beach2nc",
+        "TeamText": "City Beach 17-Green (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 1.1079136690647482,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 201,
+          "Name": "City Beach Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "city beach 17-green",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 198426,
+        "TeamName": "OMNI 18 Power",
+        "TeamCode": "g18omniv3nc",
+        "TeamText": "OMNI 18 Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.7592592592592593,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 18 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51024,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Gold BP2",
+    "CompleteFullName": "Lg3 Feb 28 Gold B Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 216272,
+      "FirstTeamName": "Arbuckle 17 Lauren",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 17 Lauren (NC)",
+      "SecondTeamId": 86785,
+      "SecondTeamName": "City Beach 17-Green",
+      "SecondTeamWon": false,
+      "SecondTeamText": "City Beach 17-Green (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 128938,
+      "WorkTeamText": "SynergyForce 17 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51027,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T08:00:00",
+      "ScheduledEndDateTime": "2026-02-28T08:59:59"
+    },
+    {
+      "FirstTeamId": 128938,
+      "FirstTeamName": "SynergyForce 17 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 17 Black (NC)",
+      "SecondTeamId": 198426,
+      "SecondTeamName": "OMNI 18 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 18 Power (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 7,
+          "ScoreText": "15-7",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216272,
+      "WorkTeamText": "Arbuckle 17 Lauren (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51028,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T09:00:00",
+      "ScheduledEndDateTime": "2026-02-28T09:59:59"
+    },
+    {
+      "FirstTeamId": 216272,
+      "FirstTeamName": "Arbuckle 17 Lauren",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 17 Lauren (NC)",
+      "SecondTeamId": 198426,
+      "SecondTeamName": "OMNI 18 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 18 Power (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 11,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 86785,
+      "WorkTeamText": "City Beach 17-Green (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51029,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T10:00:00",
+      "ScheduledEndDateTime": "2026-02-28T10:59:59"
+    },
+    {
+      "FirstTeamId": 128938,
+      "FirstTeamName": "SynergyForce 17 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "SynergyForce 17 Black (NC)",
+      "SecondTeamId": 86785,
+      "SecondTeamName": "City Beach 17-Green",
+      "SecondTeamWon": true,
+      "SecondTeamText": "City Beach 17-Green (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "19-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 9,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-9",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216272,
+      "WorkTeamText": "Arbuckle 17 Lauren (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51030,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T11:00:00",
+      "ScheduledEndDateTime": "2026-02-28T11:59:59"
+    },
+    {
+      "FirstTeamId": 86785,
+      "FirstTeamName": "City Beach 17-Green",
+      "FirstTeamWon": true,
+      "FirstTeamText": "City Beach 17-Green (NC)",
+      "SecondTeamId": 198426,
+      "SecondTeamName": "OMNI 18 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 18 Power (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 128938,
+      "WorkTeamText": "SynergyForce 17 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51031,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T12:00:00",
+      "ScheduledEndDateTime": "2026-02-28T12:59:59"
+    },
+    {
+      "FirstTeamId": 216272,
+      "FirstTeamName": "Arbuckle 17 Lauren",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 17 Lauren (NC)",
+      "SecondTeamId": 128938,
+      "SecondTeamName": "SynergyForce 17 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "SynergyForce 17 Black (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 198426,
+      "WorkTeamText": "OMNI 18 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51032,
+      "Court": {
+        "CourtId": -54683,
+        "Name": "Grounds Ct.4",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T13:00:00",
+      "ScheduledEndDateTime": "2026-02-28T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Arbuckle 17 Lauren (NC)",
+      "Match": {
+        "MatchId": -51173,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51183,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51169,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg3 Feb 28 XOGold B1v1",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54682,
+            "Name": "Grounds Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - City Beach 17-Green (NC)",
+      "Match": {
+        "MatchId": -51178,
+        "Court": {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51174,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg3 Feb 28 XOGold B2v2",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54683,
+            "Name": "Grounds Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - SynergyForce 17 Black (NC)",
+      "Match": {
+        "MatchId": -51183,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51173,
+        "Court": {
+          "CourtId": -54682,
+          "Name": "Grounds Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51179,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg3 Feb 28 XOGold B3v3",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54682,
+            "Name": "Grounds Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - OMNI 18 Power (NC)",
+      "Match": {
+        "MatchId": -51188,
+        "Court": {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51178,
+        "Court": {
+          "CourtId": -54683,
+          "Name": "Grounds Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51184,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg3 Feb 28 XOGold B4v4",
+        "CompleteFullName": "Lg3 Feb 28 XO Gold B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54683,
+            "Name": "Grounds Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

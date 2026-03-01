@@ -1,0 +1,387 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 63191,
+        "TeamName": "Empire 15 Power Jack",
+        "TeamCode": "g15mpire3nc",
+        "TeamText": "Empire 15 Power Jack (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 1,
+        "MatchPercent": 0.5,
+        "SetsWon": 2,
+        "SetsLost": 2,
+        "SetPercent": 0.5,
+        "PointRatio": 1.0434782608695652,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 power jack",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27473,
+        "TeamName": "Empire 16 Power Bella",
+        "TeamCode": "g16mpire3nc",
+        "TeamText": "Empire 16 Power Bella (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 2,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 4,
+        "SetPercent": 0.2,
+        "PointRatio": 0.9464285714285714,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 power bella",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206719,
+        "TeamName": "Morgan Hill 15 Black",
+        "TeamCode": "g15hmgnv1nc",
+        "TeamText": "Morgan Hill 15 Black (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 4,
+        "SetsLost": 1,
+        "SetPercent": 0.8,
+        "PointRatio": 1.018348623853211,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50654,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg1Jan24XOBronze CP2",
+    "CompleteFullName": "Lg1 Jan 24 XO Bronze C Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 63191,
+      "FirstTeamName": "Empire 15 Power Jack",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Empire 15 Power Jack (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27473,
+      "WorkTeamText": "Empire 16 Power Bella (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50663,
+      "Court": {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T15:30:00",
+      "ScheduledEndDateTime": "2026-01-24T16:29:59"
+    },
+    {
+      "FirstTeamId": 27473,
+      "FirstTeamName": "Empire 16 Power Bella",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Empire 16 Power Bella (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 28,
+          "ScoreText": "28-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 63191,
+      "WorkTeamText": "Empire 15 Power Jack (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50664,
+      "Court": {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T16:30:00",
+      "ScheduledEndDateTime": "2026-01-24T17:29:59"
+    },
+    {
+      "FirstTeamId": 63191,
+      "FirstTeamName": "Empire 15 Power Jack",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 15 Power Jack (NC)",
+      "SecondTeamId": 27473,
+      "SecondTeamName": "Empire 16 Power Bella",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 16 Power Bella (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206719,
+      "WorkTeamText": "Morgan Hill 15 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50665,
+      "Court": {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T17:30:00",
+      "ScheduledEndDateTime": "2026-01-24T18:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Morgan Hill 15 Black (NC)",
+      "Match": {
+        "MatchId": -50828,
+        "Court": {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T13:30:00",
+        "ScheduledEndDateTime": "2026-01-25T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50827,
+        "Court": {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T12:30:00",
+        "ScheduledEndDateTime": "2026-01-25T13:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50818,
+        "FullName": "Pool 3",
+        "ShortName": "P3",
+        "CompleteShortName": "Lg2Jan25Bronze CP3",
+        "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52122,
+            "Name": "Oakland CC Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Empire 15 Power Jack (NC)",
+      "Match": {
+        "MatchId": -50816,
+        "Court": {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T13:30:00",
+        "ScheduledEndDateTime": "2026-01-25T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50815,
+        "Court": {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T12:30:00",
+        "ScheduledEndDateTime": "2026-01-25T13:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50806,
+        "FullName": "Pool 2",
+        "ShortName": "P2",
+        "CompleteShortName": "Lg2Jan25Bronze CP2",
+        "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52121,
+            "Name": "Oakland CC Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Empire 16 Power Bella (NC)",
+      "Match": {
+        "MatchId": -50804,
+        "Court": {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T13:30:00",
+        "ScheduledEndDateTime": "2026-01-25T14:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50803,
+        "Court": {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T12:30:00",
+        "ScheduledEndDateTime": "2026-01-25T13:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50794,
+        "FullName": "Pool 1",
+        "ShortName": "P1",
+        "CompleteShortName": "Lg2Jan25Bronze CP1",
+        "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52120,
+            "Name": "Oakland CC Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

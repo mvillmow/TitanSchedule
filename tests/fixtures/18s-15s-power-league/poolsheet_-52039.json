@@ -1,0 +1,590 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 218131,
+        "TeamName": "Gallant 16-White",
+        "TeamCode": "g16gallaanc",
+        "TeamText": "Gallant 16-White (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 31217,
+          "Name": "Gallant Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "gallant 16-white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 164509,
+        "TeamName": "UVA 15 Power",
+        "TeamCode": "g15ucelt3nc",
+        "TeamText": "UVA 15 Power (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 15 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165591,
+        "TeamName": "OMNI 15 Prime",
+        "TeamCode": "g15omniv4nc",
+        "TeamText": "OMNI 15 Prime (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 15 prime",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 182270,
+        "TeamName": "Fusion 15 Titanium",
+        "TeamCode": "g15fuvbc1nc",
+        "TeamText": "Fusion 15 Titanium (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 15 titanium",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -52039,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg4Mar1Bronze BP2",
+    "CompleteFullName": "Lg4 Mar 1 Bronze B Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 218131,
+      "FirstTeamName": "Gallant 16-White",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Gallant 16-White (NC)",
+      "SecondTeamId": 165591,
+      "SecondTeamName": "OMNI 15 Prime",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 15 Prime (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 164509,
+      "WorkTeamText": "UVA 15 Power (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -52042,
+      "Court": {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T08:00:00",
+      "ScheduledEndDateTime": "2026-03-01T08:59:59"
+    },
+    {
+      "FirstTeamId": 164509,
+      "FirstTeamName": "UVA 15 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "UVA 15 Power (NC)",
+      "SecondTeamId": 182270,
+      "SecondTeamName": "Fusion 15 Titanium",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Fusion 15 Titanium (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 218131,
+      "WorkTeamText": "Gallant 16-White (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -52043,
+      "Court": {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T09:00:00",
+      "ScheduledEndDateTime": "2026-03-01T09:59:59"
+    },
+    {
+      "FirstTeamId": 218131,
+      "FirstTeamName": "Gallant 16-White",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Gallant 16-White (NC)",
+      "SecondTeamId": 182270,
+      "SecondTeamName": "Fusion 15 Titanium",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Fusion 15 Titanium (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165591,
+      "WorkTeamText": "OMNI 15 Prime (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -52044,
+      "Court": {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T10:00:00",
+      "ScheduledEndDateTime": "2026-03-01T10:59:59"
+    },
+    {
+      "FirstTeamId": 164509,
+      "FirstTeamName": "UVA 15 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "UVA 15 Power (NC)",
+      "SecondTeamId": 165591,
+      "SecondTeamName": "OMNI 15 Prime",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 15 Prime (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 218131,
+      "WorkTeamText": "Gallant 16-White (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -52045,
+      "Court": {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T11:00:00",
+      "ScheduledEndDateTime": "2026-03-01T11:59:59"
+    },
+    {
+      "FirstTeamId": 165591,
+      "FirstTeamName": "OMNI 15 Prime",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 15 Prime (NC)",
+      "SecondTeamId": 182270,
+      "SecondTeamName": "Fusion 15 Titanium",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Fusion 15 Titanium (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 164509,
+      "WorkTeamText": "UVA 15 Power (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -52046,
+      "Court": {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T12:00:00",
+      "ScheduledEndDateTime": "2026-03-01T12:59:59"
+    },
+    {
+      "FirstTeamId": 218131,
+      "FirstTeamName": "Gallant 16-White",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Gallant 16-White (NC)",
+      "SecondTeamId": 164509,
+      "SecondTeamName": "UVA 15 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "UVA 15 Power (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 182270,
+      "WorkTeamText": "Fusion 15 Titanium (NC)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -52047,
+      "Court": {
+        "CourtId": -54695,
+        "Name": "Grounds Ct.16",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-03-01T13:00:00",
+      "ScheduledEndDateTime": "2026-03-01T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-Lg4Mar1Bronze BP2",
+      "Match": {
+        "MatchId": -52110,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -52112,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -52066,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg 4Mar1XOBronze B1v1",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54694,
+            "Name": "Grounds Ct.15",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-Lg4Mar1Bronze BP2",
+      "Match": {
+        "MatchId": -52111,
+        "Court": {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -52113,
+        "Court": {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -52070,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg 4Mar1XOBronze B2v2",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54695,
+            "Name": "Grounds Ct.16",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": false,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-Lg4Mar1Bronze BP2",
+      "Match": {
+        "MatchId": -52112,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -52110,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T14:00:00",
+        "ScheduledEndDateTime": "2026-03-01T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -52074,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg 4Mar1XOBronze B3v3",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54694,
+            "Name": "Grounds Ct.15",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - 4th-Lg4Mar1Bronze BP2",
+      "Match": {
+        "MatchId": -52113,
+        "Court": {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-03-01T15:00:00",
+        "ScheduledEndDateTime": "2026-03-01T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -52078,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg 4Mar1XOBronze B4v4",
+        "CompleteFullName": "Lg 4 Mar 1 XO Bronze B 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54695,
+            "Name": "Grounds Ct.16",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

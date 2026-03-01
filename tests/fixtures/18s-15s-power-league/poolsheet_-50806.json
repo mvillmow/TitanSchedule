@@ -1,0 +1,387 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 164509,
+        "TeamName": "UVA 15 Power",
+        "TeamCode": "g15ucelt3nc",
+        "TeamText": "UVA 15 Power (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 4,
+        "SetsLost": 1,
+        "SetPercent": 0.8,
+        "PointRatio": 1.5,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 15 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 63191,
+        "TeamName": "Empire 15 Power Jack",
+        "TeamCode": "g15mpire3nc",
+        "TeamText": "Empire 15 Power Jack (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 1,
+        "MatchPercent": 0.5,
+        "SetsWon": 2,
+        "SetsLost": 3,
+        "SetPercent": 0.4,
+        "PointRatio": 0.9578947368421052,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 power jack",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 221171,
+        "TeamName": "Lakas 15 Power 2",
+        "TeamCode": "g15laiat3nc",
+        "TeamText": "Lakas 15 Power 2 (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 2,
+        "MatchPercent": 0.0,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.7166666666666667,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 5993,
+          "Name": "Lakas "
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "lakas 15 power 2",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50806,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg2Jan25Bronze CP2",
+    "CompleteFullName": "Lg2 Jan 25 Bronze C Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 164509,
+      "FirstTeamName": "UVA 15 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "UVA 15 Power (NC)",
+      "SecondTeamId": 221171,
+      "SecondTeamName": "Lakas 15 Power 2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Lakas 15 Power 2 (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "24-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 6,
+          "ScoreText": "15-6",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 63191,
+      "WorkTeamText": "Empire 15 Power Jack (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50815,
+      "Court": {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:30:00",
+      "ScheduledEndDateTime": "2026-01-25T13:29:59"
+    },
+    {
+      "FirstTeamId": 63191,
+      "FirstTeamName": "Empire 15 Power Jack",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 15 Power Jack (NC)",
+      "SecondTeamId": 221171,
+      "SecondTeamName": "Lakas 15 Power 2",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Lakas 15 Power 2 (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 11,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "16-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 9,
+          "ScoreText": "15-9",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 164509,
+      "WorkTeamText": "UVA 15 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50816,
+      "Court": {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:30:00",
+      "ScheduledEndDateTime": "2026-01-25T14:29:59"
+    },
+    {
+      "FirstTeamId": 164509,
+      "FirstTeamName": "UVA 15 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "UVA 15 Power (NC)",
+      "SecondTeamId": 63191,
+      "SecondTeamName": "Empire 15 Power Jack",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 15 Power Jack (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 221171,
+      "WorkTeamText": "Lakas 15 Power 2 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50817,
+      "Court": {
+        "CourtId": -52121,
+        "Name": "Oakland CC Ct.8",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T14:30:00",
+      "ScheduledEndDateTime": "2026-01-25T15:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - UVA 15 Power (NC)",
+      "Match": {
+        "MatchId": -50968,
+        "Court": {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T16:30:00",
+        "ScheduledEndDateTime": "2026-01-25T17:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50967,
+        "Court": {
+          "CourtId": -52120,
+          "Name": "Oakland CC Ct.7",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:30:00",
+        "ScheduledEndDateTime": "2026-01-25T16:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50958,
+        "FullName": "Pool 1",
+        "ShortName": "P1",
+        "CompleteShortName": "Lg2Jan25XOBronze CP1",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52120,
+            "Name": "Oakland CC Ct.7",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Empire 15 Power Jack (NC)",
+      "Match": {
+        "MatchId": -50980,
+        "Court": {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T16:30:00",
+        "ScheduledEndDateTime": "2026-01-25T17:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50979,
+        "Court": {
+          "CourtId": -52121,
+          "Name": "Oakland CC Ct.8",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:30:00",
+        "ScheduledEndDateTime": "2026-01-25T16:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50970,
+        "FullName": "Pool 2",
+        "ShortName": "P2",
+        "CompleteShortName": "Lg2Jan25XOBronze CP2",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52121,
+            "Name": "Oakland CC Ct.8",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Lakas 15 Power 2 (NC)",
+      "Match": {
+        "MatchId": -50992,
+        "Court": {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T16:30:00",
+        "ScheduledEndDateTime": "2026-01-25T17:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50991,
+        "Court": {
+          "CourtId": -52122,
+          "Name": "Oakland CC Ct.9",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:30:00",
+        "ScheduledEndDateTime": "2026-01-25T16:29:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -50982,
+        "FullName": "Pool 3",
+        "ShortName": "P3",
+        "CompleteShortName": "Lg2Jan25XOBronze CP3",
+        "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52122,
+            "Name": "Oakland CC Ct.9",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

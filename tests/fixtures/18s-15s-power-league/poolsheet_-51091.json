@@ -1,0 +1,563 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 216270,
+        "TeamName": "Arbuckle 15",
+        "TeamCode": "g15arbkl1nc",
+        "TeamText": "Arbuckle 15 (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 3,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.04093567251462,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 27487,
+          "Name": "Arbuckle VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "arbuckle 15",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 131808,
+        "TeamName": "Aspire 17-2 Pink",
+        "TeamCode": "g17folso1nc",
+        "TeamText": "Aspire 17-2 Pink (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.129251700680272,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 17-2 pink",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 150684,
+        "TeamName": "VVA 15-Talavera",
+        "TeamCode": "g15vavbc3nc",
+        "TeamText": "VVA 15-Talavera (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.1258278145695364,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 27398,
+          "Name": "Valley Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "vva 15-talavera",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 7826,
+        "TeamName": "Empire 16 Power Jordan",
+        "TeamCode": "g16mpire2nc",
+        "TeamText": "Empire 16 Power Jordan (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 6,
+        "SetPercent": 0.14285714285714285,
+        "PointRatio": 0.725609756097561,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 16 power jordan",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51091,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg3 Feb 28Silver CP1",
+    "CompleteFullName": "Lg3 Feb 28 Silver C Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 216270,
+      "FirstTeamName": "Arbuckle 15",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 15 (NC)",
+      "SecondTeamId": 150684,
+      "SecondTeamName": "VVA 15-Talavera",
+      "SecondTeamWon": false,
+      "SecondTeamText": "VVA 15-Talavera (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 17,
+          "SecondTeamScore": 25,
+          "ScoreText": "17-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 6,
+          "ScoreText": "15-6",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 131808,
+      "WorkTeamText": "Aspire 17-2 Pink (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51094,
+      "Court": {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T08:00:00",
+      "ScheduledEndDateTime": "2026-02-28T08:59:59"
+    },
+    {
+      "FirstTeamId": 131808,
+      "FirstTeamName": "Aspire 17-2 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Aspire 17-2 Pink (NC)",
+      "SecondTeamId": 7826,
+      "SecondTeamName": "Empire 16 Power Jordan",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 16 Power Jordan (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 12,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216270,
+      "WorkTeamText": "Arbuckle 15 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51095,
+      "Court": {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T09:00:00",
+      "ScheduledEndDateTime": "2026-02-28T09:59:59"
+    },
+    {
+      "FirstTeamId": 216270,
+      "FirstTeamName": "Arbuckle 15",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 15 (NC)",
+      "SecondTeamId": 7826,
+      "SecondTeamName": "Empire 16 Power Jordan",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 16 Power Jordan (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "24-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 10,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 150684,
+      "WorkTeamText": "VVA 15-Talavera (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51096,
+      "Court": {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T10:00:00",
+      "ScheduledEndDateTime": "2026-02-28T10:59:59"
+    },
+    {
+      "FirstTeamId": 131808,
+      "FirstTeamName": "Aspire 17-2 Pink",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Aspire 17-2 Pink (NC)",
+      "SecondTeamId": 150684,
+      "SecondTeamName": "VVA 15-Talavera",
+      "SecondTeamWon": false,
+      "SecondTeamText": "VVA 15-Talavera (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 25,
+          "ScoreText": "12-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 18,
+          "SecondTeamScore": 16,
+          "ScoreText": "18-16",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 216270,
+      "WorkTeamText": "Arbuckle 15 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51097,
+      "Court": {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T11:00:00",
+      "ScheduledEndDateTime": "2026-02-28T11:59:59"
+    },
+    {
+      "FirstTeamId": 150684,
+      "FirstTeamName": "VVA 15-Talavera",
+      "FirstTeamWon": true,
+      "FirstTeamText": "VVA 15-Talavera (NC)",
+      "SecondTeamId": 7826,
+      "SecondTeamName": "Empire 16 Power Jordan",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Empire 16 Power Jordan (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 131808,
+      "WorkTeamText": "Aspire 17-2 Pink (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51098,
+      "Court": {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T12:00:00",
+      "ScheduledEndDateTime": "2026-02-28T12:59:59"
+    },
+    {
+      "FirstTeamId": 216270,
+      "FirstTeamName": "Arbuckle 15",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Arbuckle 15 (NC)",
+      "SecondTeamId": 131808,
+      "SecondTeamName": "Aspire 17-2 Pink",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 17-2 Pink (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "16-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 13,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 7826,
+      "WorkTeamText": "Empire 16 Power Jordan (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51099,
+      "Court": {
+        "CourtId": -54690,
+        "Name": "Grounds Ct.11",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T13:00:00",
+      "ScheduledEndDateTime": "2026-02-28T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Arbuckle 15 (NC)",
+      "Match": {
+        "MatchId": -51257,
+        "Court": {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51253,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver C1v1",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver C 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54690,
+            "Name": "Grounds Ct.11",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Aspire 17-2 Pink (NC)",
+      "Match": {
+        "MatchId": -51262,
+        "Court": {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51258,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver C2v2",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver C 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54691,
+            "Name": "Grounds Ct.12",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - VVA 15-Talavera (NC)",
+      "Match": {
+        "MatchId": -51267,
+        "Court": {
+          "CourtId": -54690,
+          "Name": "Grounds Ct.11",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51263,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver C3v3",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver C 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54690,
+            "Name": "Grounds Ct.11",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Empire 16 Power Jordan (NC)",
+      "Match": {
+        "MatchId": -51272,
+        "Court": {
+          "CourtId": -54691,
+          "Name": "Grounds Ct.12",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51268,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg3 Feb 28 XOSilver C4v4",
+        "CompleteFullName": "Lg3 Feb 28 XO Silver C 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54691,
+            "Name": "Grounds Ct.12",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

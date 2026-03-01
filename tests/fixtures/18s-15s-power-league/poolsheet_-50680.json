@@ -1,0 +1,563 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 2135,
+        "TeamName": "Empire 17 National",
+        "TeamCode": "g17mpire1nc",
+        "TeamText": "Empire 17 National (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.6451612903225807,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 17 national",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 215951,
+        "TeamName": "MVC 17",
+        "TeamCode": "g17lmtad2nc",
+        "TeamText": "MVC 17 (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.6490066225165563,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26566,
+          "Name": "Motherlode Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "mvc 17",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180801,
+        "TeamName": "NorCal Supreme 18  Blue",
+        "TeamCode": "g18116191nc",
+        "TeamText": "NorCal Supreme 18  Blue (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 2,
+        "SetPercent": 0.6666666666666666,
+        "PointRatio": 1.165289256198347,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 27377,
+          "Name": "NorCal Supreme Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "norcal supreme 18  blue",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 31883,
+        "TeamName": "Aspire 16-1 Black",
+        "TeamCode": "g16folso1nc",
+        "TeamText": "Aspire 16-1 Black (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 4,
+        "SetPercent": 0.3333333333333333,
+        "PointRatio": 0.815068493150685,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 6242,
+          "Name": "Aspire Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "aspire 16-1 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50680,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg2Jan25Gold AP1",
+    "CompleteFullName": "Lg2 Jan 25 Gold A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52114,
+        "Name": "Oakland CC Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 2135,
+      "FirstTeamName": "Empire 17 National",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 17 National (NC)",
+      "SecondTeamId": 180801,
+      "SecondTeamName": "NorCal Supreme 18  Blue",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NorCal Supreme 18  Blue (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 28,
+          "SecondTeamScore": 26,
+          "ScoreText": "28-26",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 15,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 215951,
+      "WorkTeamText": "MVC 17 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50683,
+      "Court": {
+        "CourtId": -52114,
+        "Name": "Oakland CC Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T08:00:00",
+      "ScheduledEndDateTime": "2026-01-25T08:59:59"
+    },
+    {
+      "FirstTeamId": 215951,
+      "FirstTeamName": "MVC 17",
+      "FirstTeamWon": false,
+      "FirstTeamText": "MVC 17 (NC)",
+      "SecondTeamId": 31883,
+      "SecondTeamName": "Aspire 16-1 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Aspire 16-1 Black (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 2135,
+      "WorkTeamText": "Empire 17 National (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50684,
+      "Court": {
+        "CourtId": -52114,
+        "Name": "Oakland CC Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T09:00:00",
+      "ScheduledEndDateTime": "2026-01-25T09:59:59"
+    },
+    {
+      "FirstTeamId": 2135,
+      "FirstTeamName": "Empire 17 National",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 17 National (NC)",
+      "SecondTeamId": 31883,
+      "SecondTeamName": "Aspire 16-1 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 16-1 Black (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 180801,
+      "WorkTeamText": "NorCal Supreme 18  Blue (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50685,
+      "Court": {
+        "CourtId": -52114,
+        "Name": "Oakland CC Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T10:00:00",
+      "ScheduledEndDateTime": "2026-01-25T10:59:59"
+    },
+    {
+      "FirstTeamId": 215951,
+      "FirstTeamName": "MVC 17",
+      "FirstTeamWon": false,
+      "FirstTeamText": "MVC 17 (NC)",
+      "SecondTeamId": 180801,
+      "SecondTeamName": "NorCal Supreme 18  Blue",
+      "SecondTeamWon": true,
+      "SecondTeamText": "NorCal Supreme 18  Blue (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 10,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-10",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 2135,
+      "WorkTeamText": "Empire 17 National (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50686,
+      "Court": {
+        "CourtId": -52114,
+        "Name": "Oakland CC Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T11:00:00",
+      "ScheduledEndDateTime": "2026-01-25T11:59:59"
+    },
+    {
+      "FirstTeamId": 180801,
+      "FirstTeamName": "NorCal Supreme 18  Blue",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NorCal Supreme 18  Blue (NC)",
+      "SecondTeamId": 31883,
+      "SecondTeamName": "Aspire 16-1 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Aspire 16-1 Black (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 215951,
+      "WorkTeamText": "MVC 17 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50687,
+      "Court": {
+        "CourtId": -52114,
+        "Name": "Oakland CC Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:00:00",
+      "ScheduledEndDateTime": "2026-01-25T12:59:59"
+    },
+    {
+      "FirstTeamId": 2135,
+      "FirstTeamName": "Empire 17 National",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 17 National (NC)",
+      "SecondTeamId": 215951,
+      "SecondTeamName": "MVC 17",
+      "SecondTeamWon": false,
+      "SecondTeamText": "MVC 17 (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 11,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 31883,
+      "WorkTeamText": "Aspire 16-1 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50688,
+      "Court": {
+        "CourtId": -52114,
+        "Name": "Oakland CC Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:00:00",
+      "ScheduledEndDateTime": "2026-01-25T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Empire 17 National (NC)",
+      "Match": {
+        "MatchId": -50836,
+        "Court": {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50832,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg2Jan25XOGold A1v1",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52114,
+            "Name": "Oakland CC Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - NorCal Supreme 18  Blue (NC)",
+      "Match": {
+        "MatchId": -50841,
+        "Court": {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50837,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg2Jan25XOGold A2v2",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52115,
+            "Name": "Oakland CC Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Aspire 16-1 Black (NC)",
+      "Match": {
+        "MatchId": -50846,
+        "Court": {
+          "CourtId": -52114,
+          "Name": "Oakland CC Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50842,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg2Jan25XOGold A3v3",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52114,
+            "Name": "Oakland CC Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - MVC 17 (NC)",
+      "Match": {
+        "MatchId": -50851,
+        "Court": {
+          "CourtId": -52115,
+          "Name": "Oakland CC Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50847,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg2Jan25XOGold A4v4",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52115,
+            "Name": "Oakland CC Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

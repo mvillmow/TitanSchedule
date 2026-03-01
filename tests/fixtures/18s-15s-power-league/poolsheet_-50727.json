@@ -1,0 +1,581 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 59871,
+        "TeamName": "Club Solano 18 Maroon",
+        "TeamCode": "g18solno1nc",
+        "TeamText": "Club Solano 18 Maroon (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 5,
+        "SetPercent": 0.375,
+        "PointRatio": 0.7602339181286549,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2558,
+          "Name": "Club Solano"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "club solano 18 maroon",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 143083,
+        "TeamName": "Vibe 17's-Velocity",
+        "TeamCode": "g17vvibe1nc",
+        "TeamText": "Vibe 17's-Velocity (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.8618421052631579,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 24675,
+          "Name": "Vibe VBC"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "vibe 17's-velocity",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75344,
+        "TeamName": "SynergyForce 16 Black",
+        "TeamCode": "g16force4nc",
+        "TeamText": "SynergyForce 16 Black (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.391304347826087,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 16 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 217532,
+        "TeamName": "ACVC 16 White",
+        "TeamCode": "g16acvbc1nc",
+        "TeamText": "ACVC 16 White (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 4,
+        "SetPercent": 0.5,
+        "PointRatio": 1.114864864864865,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 32557,
+          "Name": "ACVC - Amador County Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "acvc 16 white",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50727,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg2Jan25Gold CP2",
+    "CompleteFullName": "Lg2 Jan 25 Gold C Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52126,
+        "Name": "Las Positas Ct.2",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 75344,
+      "SecondTeamName": "SynergyForce 16 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 16 Black (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 143083,
+      "WorkTeamText": "Vibe 17's-Velocity (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50730,
+      "Court": {
+        "CourtId": -52126,
+        "Name": "Las Positas Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T08:00:00",
+      "ScheduledEndDateTime": "2026-01-25T08:59:59"
+    },
+    {
+      "FirstTeamId": 143083,
+      "FirstTeamName": "Vibe 17's-Velocity",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Vibe 17's-Velocity (NC)",
+      "SecondTeamId": 217532,
+      "SecondTeamName": "ACVC 16 White",
+      "SecondTeamWon": true,
+      "SecondTeamText": "ACVC 16 White (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 59871,
+      "WorkTeamText": "Club Solano 18 Maroon (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50731,
+      "Court": {
+        "CourtId": -52126,
+        "Name": "Las Positas Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T09:00:00",
+      "ScheduledEndDateTime": "2026-01-25T09:59:59"
+    },
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 217532,
+      "SecondTeamName": "ACVC 16 White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "ACVC 16 White (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 25,
+          "ScoreText": "13-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 12,
+          "ScoreText": "15-12",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75344,
+      "WorkTeamText": "SynergyForce 16 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50732,
+      "Court": {
+        "CourtId": -52126,
+        "Name": "Las Positas Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T10:00:00",
+      "ScheduledEndDateTime": "2026-01-25T10:59:59"
+    },
+    {
+      "FirstTeamId": 143083,
+      "FirstTeamName": "Vibe 17's-Velocity",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Vibe 17's-Velocity (NC)",
+      "SecondTeamId": 75344,
+      "SecondTeamName": "SynergyForce 16 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 16 Black (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 59871,
+      "WorkTeamText": "Club Solano 18 Maroon (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50733,
+      "Court": {
+        "CourtId": -52126,
+        "Name": "Las Positas Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T11:00:00",
+      "ScheduledEndDateTime": "2026-01-25T11:59:59"
+    },
+    {
+      "FirstTeamId": 75344,
+      "FirstTeamName": "SynergyForce 16 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 16 Black (NC)",
+      "SecondTeamId": 217532,
+      "SecondTeamName": "ACVC 16 White",
+      "SecondTeamWon": false,
+      "SecondTeamText": "ACVC 16 White (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "25-18",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "20-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 12,
+          "ScoreText": "15-12",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 143083,
+      "WorkTeamText": "Vibe 17's-Velocity (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50734,
+      "Court": {
+        "CourtId": -52126,
+        "Name": "Las Positas Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T12:00:00",
+      "ScheduledEndDateTime": "2026-01-25T12:59:59"
+    },
+    {
+      "FirstTeamId": 59871,
+      "FirstTeamName": "Club Solano 18 Maroon",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Club Solano 18 Maroon (NC)",
+      "SecondTeamId": 143083,
+      "SecondTeamName": "Vibe 17's-Velocity",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Vibe 17's-Velocity (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 11,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-11",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 217532,
+      "WorkTeamText": "ACVC 16 White (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50735,
+      "Court": {
+        "CourtId": -52126,
+        "Name": "Las Positas Ct.2",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T13:00:00",
+      "ScheduledEndDateTime": "2026-01-25T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - SynergyForce 16 Black (NC)",
+      "Match": {
+        "MatchId": -50878,
+        "Court": {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50874,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg2Jan25XOGold C1v1",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold C 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52125,
+            "Name": "Las Positas Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - ACVC 16 White (NC)",
+      "Match": {
+        "MatchId": -50883,
+        "Court": {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50879,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg2Jan25XOGold C2v2",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold C 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52126,
+            "Name": "Las Positas Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Club Solano 18 Maroon (NC)",
+      "Match": {
+        "MatchId": -50888,
+        "Court": {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50878,
+        "Court": {
+          "CourtId": -52125,
+          "Name": "Las Positas Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50884,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg2Jan25XOGold C3v3",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold C 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52125,
+            "Name": "Las Positas Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Vibe 17's-Velocity (NC)",
+      "Match": {
+        "MatchId": -50893,
+        "Court": {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T15:00:00",
+        "ScheduledEndDateTime": "2026-01-25T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50883,
+        "Court": {
+          "CourtId": -52126,
+          "Name": "Las Positas Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-25T14:00:00",
+        "ScheduledEndDateTime": "2026-01-25T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50889,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg2Jan25XOGold C4v4",
+        "CompleteFullName": "Lg2 Jan 25 XO Gold C 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52126,
+            "Name": "Las Positas Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 165589,
+        "TeamName": "OMNI 15 Power",
+        "TeamCode": "g15omniv3nc",
+        "TeamText": "OMNI 15 Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 4,
+        "SetsLost": 5,
+        "SetPercent": 0.4444444444444444,
+        "PointRatio": 0.9441340782122905,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 15 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 226787,
+        "TeamName": "Adrenaline - Todd 15-1",
+        "TeamCode": "g15avcrc1nc",
+        "TeamText": "Adrenaline - Todd 15-1 (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.7204968944099379,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 28971,
+          "Name": "Adrenaline Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "adrenaline - todd 15-1",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 75344,
+        "TeamName": "SynergyForce 16 Black",
+        "TeamCode": "g16force4nc",
+        "TeamText": "SynergyForce 16 Black (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.4636363636363636,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 595,
+          "Name": "SynergyForce Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "synergyforce 16 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165182,
+        "TeamName": "NNJ 17 Justin",
+        "TeamCode": "g17nnejr3nc",
+        "TeamText": "NNJ 17 Justin (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 1.0277777777777777,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "nnj 17 justin",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50421,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg1Jan24Silver AP1",
+    "CompleteFullName": "Lg1 Jan 24 Silver A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52127,
+        "Name": "City Beach Ct.1",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 165589,
+      "FirstTeamName": "OMNI 15 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 15 Power (NC)",
+      "SecondTeamId": 75344,
+      "SecondTeamName": "SynergyForce 16 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 16 Black (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 11,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-11",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-16",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 226787,
+      "WorkTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50424,
+      "Court": {
+        "CourtId": -52127,
+        "Name": "City Beach Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T08:00:00",
+      "ScheduledEndDateTime": "2026-01-24T08:59:59"
+    },
+    {
+      "FirstTeamId": 226787,
+      "FirstTeamName": "Adrenaline - Todd 15-1",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "SecondTeamId": 165182,
+      "SecondTeamName": "NNJ 17 Justin",
+      "SecondTeamWon": true,
+      "SecondTeamText": "NNJ 17 Justin (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165589,
+      "WorkTeamText": "OMNI 15 Power (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50425,
+      "Court": {
+        "CourtId": -52127,
+        "Name": "City Beach Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T09:00:00",
+      "ScheduledEndDateTime": "2026-01-24T09:59:59"
+    },
+    {
+      "FirstTeamId": 165589,
+      "FirstTeamName": "OMNI 15 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "OMNI 15 Power (NC)",
+      "SecondTeamId": 165182,
+      "SecondTeamName": "NNJ 17 Justin",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 17 Justin (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 25,
+          "ScoreText": "27-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 25,
+          "ScoreText": "14-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 12,
+          "ScoreText": "15-12",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 75344,
+      "WorkTeamText": "SynergyForce 16 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50426,
+      "Court": {
+        "CourtId": -52127,
+        "Name": "City Beach Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T10:00:00",
+      "ScheduledEndDateTime": "2026-01-24T10:59:59"
+    },
+    {
+      "FirstTeamId": 226787,
+      "FirstTeamName": "Adrenaline - Todd 15-1",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "SecondTeamId": 75344,
+      "SecondTeamName": "SynergyForce 16 Black",
+      "SecondTeamWon": true,
+      "SecondTeamText": "SynergyForce 16 Black (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 14,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 8,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-8",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165589,
+      "WorkTeamText": "OMNI 15 Power (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50427,
+      "Court": {
+        "CourtId": -52127,
+        "Name": "City Beach Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T11:00:00",
+      "ScheduledEndDateTime": "2026-01-24T11:59:59"
+    },
+    {
+      "FirstTeamId": 75344,
+      "FirstTeamName": "SynergyForce 16 Black",
+      "FirstTeamWon": true,
+      "FirstTeamText": "SynergyForce 16 Black (NC)",
+      "SecondTeamId": 165182,
+      "SecondTeamName": "NNJ 17 Justin",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 17 Justin (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 226787,
+      "WorkTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50428,
+      "Court": {
+        "CourtId": -52127,
+        "Name": "City Beach Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T12:00:00",
+      "ScheduledEndDateTime": "2026-01-24T12:59:59"
+    },
+    {
+      "FirstTeamId": 165589,
+      "FirstTeamName": "OMNI 15 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 15 Power (NC)",
+      "SecondTeamId": 226787,
+      "SecondTeamName": "Adrenaline - Todd 15-1",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Adrenaline - Todd 15-1 (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "16-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-13",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165182,
+      "WorkTeamText": "NNJ 17 Justin (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -50429,
+      "Court": {
+        "CourtId": -52127,
+        "Name": "City Beach Ct.1",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T13:00:00",
+      "ScheduledEndDateTime": "2026-01-24T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - SynergyForce 16 Black (NC)",
+      "Match": {
+        "MatchId": -50583,
+        "Court": {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50579,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Jan24XOSilver A1v1",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52127,
+            "Name": "City Beach Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - OMNI 15 Power (NC)",
+      "Match": {
+        "MatchId": -50588,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50598,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50584,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Jan24XOSilver A2v2",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52128,
+            "Name": "City Beach Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - NNJ 17 Justin (NC)",
+      "Match": {
+        "MatchId": -50593,
+        "Court": {
+          "CourtId": -52127,
+          "Name": "City Beach Ct.1",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -50589,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Jan24XOSilver A3v3",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52127,
+            "Name": "City Beach Ct.1",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - Adrenaline - Todd 15-1 (NC)",
+      "Match": {
+        "MatchId": -50598,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T15:00:00",
+        "ScheduledEndDateTime": "2026-01-24T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -50588,
+        "Court": {
+          "CourtId": -52128,
+          "Name": "City Beach Ct.2",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T14:00:00",
+        "ScheduledEndDateTime": "2026-01-24T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -50594,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Jan24XOSilver A4v4",
+        "CompleteFullName": "Lg1 Jan 24 XO Silver A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52128,
+            "Name": "City Beach Ct.2",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+[project]
+name = "titan-schedule"
+version = "0.1.0"
+description = "Tournament sorting network visualization for SportsEngine AES"
+requires-python = ">=3.11"
+license = "BSD-3-Clause"
+authors = [{name = "Micah Villmow"}]
+
+[tool.setuptools.packages.find]
+include = ["scraper*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.pixi.workspace]
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[tool.pixi.dependencies]
+python = ">=3.11"
+
+[tool.pixi.pypi-dependencies]
+titan-schedule = { path = ".", editable = true }
+httpx = ">=0.27.0"
+pytest = ">=8.0.0"
+pytest-asyncio = ">=0.23.0"
+respx = ">=0.21.0"
+ruff = ">=0.4.0"
+mypy = ">=1.10.0"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = false
+ignore_missing_imports = true
+check_untyped_defs = true
+warn_unused_ignores = true
+warn_return_any = false
+
+[tool.pixi.tasks]
+test = "pytest tests/ --ignore=tests/test_integration.py"
+test-all = "pytest tests/"
+scrape = { cmd = "python -m scraper.cli", description = "Scrape an AES division URL. Usage: pixi run scrape <URL>" }
+serve = { cmd = "python -m http.server 8080 --directory web/", description = "Serve the web UI at http://localhost:8080" }
+capture-fixtures = { cmd = "python -m scraper.cli --capture-fixtures", description = "Capture API fixtures for TDD. Usage: pixi run capture-fixtures <URL>" }
+lint = { cmd = "ruff check scraper/ tests/", description = "Run ruff linter on scraper and tests" }
+typecheck = { cmd = "mypy scraper/", description = "Run mypy type checker on scraper package" }

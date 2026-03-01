@@ -1,0 +1,387 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 89908,
+        "TeamName": "Titan Select 15 Hanah",
+        "TeamCode": "g15titav1nc",
+        "TeamText": "Titan Select 15 Hanah (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 4,
+        "SetsLost": 1,
+        "SetPercent": 0.8,
+        "PointRatio": 1.1770833333333333,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 5850,
+          "Name": "Titan Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "titan select 15 hanah",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 164509,
+        "TeamName": "UVA 15 Power",
+        "TeamCode": "g15ucelt3nc",
+        "TeamText": "UVA 15 Power (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 1,
+        "MatchPercent": 0.5,
+        "SetsWon": 2,
+        "SetsLost": 2,
+        "SetPercent": 0.5,
+        "PointRatio": 0.967741935483871,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 15 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 206719,
+        "TeamName": "Morgan Hill 15 Black",
+        "TeamCode": "g15hmgnv1nc",
+        "TeamText": "Morgan Hill 15 Black (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 2,
+        "MatchPercent": 0.0,
+        "SetsWon": 1,
+        "SetsLost": 4,
+        "SetPercent": 0.2,
+        "PointRatio": 0.8761061946902655,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 31561,
+          "Name": "Morgan Hill Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "morgan hill 15 black",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -50958,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg2Jan25XOBronze CP1",
+    "CompleteFullName": "Lg2 Jan 25 XO Bronze C Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52120,
+        "Name": "Oakland CC Ct.7",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 89908,
+      "FirstTeamName": "Titan Select 15 Hanah",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Titan Select 15 Hanah (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "22-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 16,
+          "SecondTeamScore": 14,
+          "ScoreText": "16-14",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 164509,
+      "WorkTeamText": "UVA 15 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50967,
+      "Court": {
+        "CourtId": -52120,
+        "Name": "Oakland CC Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T15:30:00",
+      "ScheduledEndDateTime": "2026-01-25T16:29:59"
+    },
+    {
+      "FirstTeamId": 164509,
+      "FirstTeamName": "UVA 15 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "UVA 15 Power (NC)",
+      "SecondTeamId": 206719,
+      "SecondTeamName": "Morgan Hill 15 Black",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Morgan Hill 15 Black (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 89908,
+      "WorkTeamText": "Titan Select 15 Hanah (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -50968,
+      "Court": {
+        "CourtId": -52120,
+        "Name": "Oakland CC Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T16:30:00",
+      "ScheduledEndDateTime": "2026-01-25T17:29:59"
+    },
+    {
+      "FirstTeamId": 89908,
+      "FirstTeamName": "Titan Select 15 Hanah",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Titan Select 15 Hanah (NC)",
+      "SecondTeamId": 164509,
+      "SecondTeamName": "UVA 15 Power",
+      "SecondTeamWon": false,
+      "SecondTeamText": "UVA 15 Power (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206719,
+      "WorkTeamText": "Morgan Hill 15 Black (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -50969,
+      "Court": {
+        "CourtId": -52120,
+        "Name": "Oakland CC Ct.7",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-25T17:30:00",
+      "ScheduledEndDateTime": "2026-01-25T18:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Titan Select 15 Hanah (NC)",
+      "Match": {
+        "MatchId": -51893,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T08:00:00",
+        "ScheduledEndDateTime": "2026-02-28T08:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51895,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T10:00:00",
+        "ScheduledEndDateTime": "2026-02-28T10:59:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -51890,
+        "FullName": "Pool 1",
+        "ShortName": "P1",
+        "CompleteShortName": "Lg3 Feb 28Bronze BP1",
+        "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54694,
+            "Name": "Grounds Ct.15",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - UVA 15 Power (NC)",
+      "Match": {
+        "MatchId": -51902,
+        "Court": {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T08:00:00",
+        "ScheduledEndDateTime": "2026-02-28T08:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51904,
+        "Court": {
+          "CourtId": -54695,
+          "Name": "Grounds Ct.16",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T10:00:00",
+        "ScheduledEndDateTime": "2026-02-28T10:59:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -51899,
+        "FullName": "Pool 2",
+        "ShortName": "P2",
+        "CompleteShortName": "Lg3 Feb 28Bronze BP2",
+        "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54695,
+            "Name": "Grounds Ct.16",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Morgan Hill 15 Black (NC)",
+      "Match": {
+        "MatchId": -51894,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T09:00:00",
+        "ScheduledEndDateTime": "2026-02-28T09:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51898,
+        "Court": {
+          "CourtId": -54694,
+          "Name": "Grounds Ct.15",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T13:00:00",
+        "ScheduledEndDateTime": "2026-02-28T13:59:59"
+      },
+      "Play": {
+        "Type": 0,
+        "PlayId": -51890,
+        "FullName": "Pool 1",
+        "ShortName": "P1",
+        "CompleteShortName": "Lg3 Feb 28Bronze BP1",
+        "CompleteFullName": "Lg3 Feb 28 Bronze B Pool 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54694,
+            "Name": "Grounds Ct.15",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

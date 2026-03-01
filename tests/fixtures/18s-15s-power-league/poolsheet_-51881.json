@@ -1,0 +1,599 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 182547,
+        "TeamName": "OMNI 16 Pulse",
+        "TeamCode": "g16omniv5nc",
+        "TeamText": "OMNI 16 Pulse (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 2,
+        "SetsLost": 6,
+        "SetPercent": 0.25,
+        "PointRatio": 0.9127906976744186,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 16 pulse",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180277,
+        "TeamName": "Fusion 16 Steel",
+        "TeamCode": "g16fuvbc2nc",
+        "TeamText": "Fusion 16 Steel (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 5,
+        "SetsLost": 3,
+        "SetPercent": 0.625,
+        "PointRatio": 1.0,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 16 steel",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 27472,
+        "TeamName": "Empire 15 Power Ryan",
+        "TeamCode": "g15mpire2nc",
+        "TeamText": "Empire 15 Power Ryan (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 1,
+        "SetPercent": 0.8571428571428571,
+        "PointRatio": 1.1824817518248176,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 635,
+          "Name": "Empire"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "empire 15 power ryan",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 219120,
+        "TeamName": "Club Solano 16 Teal",
+        "TeamCode": "g16solno3nc",
+        "TeamText": "Club Solano 16 Teal (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 2,
+        "SetsLost": 5,
+        "SetPercent": 0.2857142857142857,
+        "PointRatio": 0.9358974358974359,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2558,
+          "Name": "Club Solano"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "club solano 16 teal",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51881,
+    "FullName": "Pool 2",
+    "ShortName": "P2",
+    "CompleteShortName": "Lg3 Feb 28Bronze AP2",
+    "CompleteFullName": "Lg3 Feb 28 Bronze A Pool 2",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 182547,
+      "FirstTeamName": "OMNI 16 Pulse",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 16 Pulse (NC)",
+      "SecondTeamId": 27472,
+      "SecondTeamName": "Empire 15 Power Ryan",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Empire 15 Power Ryan (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 17,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 180277,
+      "WorkTeamText": "Fusion 16 Steel (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51884,
+      "Court": {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T08:00:00",
+      "ScheduledEndDateTime": "2026-02-28T08:59:59"
+    },
+    {
+      "FirstTeamId": 180277,
+      "FirstTeamName": "Fusion 16 Steel",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Fusion 16 Steel (NC)",
+      "SecondTeamId": 219120,
+      "SecondTeamName": "Club Solano 16 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Club Solano 16 Teal (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 26,
+          "SecondTeamScore": 24,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 182547,
+      "WorkTeamText": "OMNI 16 Pulse (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51885,
+      "Court": {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T09:00:00",
+      "ScheduledEndDateTime": "2026-02-28T09:59:59"
+    },
+    {
+      "FirstTeamId": 182547,
+      "FirstTeamName": "OMNI 16 Pulse",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 16 Pulse (NC)",
+      "SecondTeamId": 219120,
+      "SecondTeamName": "Club Solano 16 Teal",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Club Solano 16 Teal (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 19,
+          "ScoreText": "19-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 7,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-7",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 27472,
+      "WorkTeamText": "Empire 15 Power Ryan (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51886,
+      "Court": {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T10:00:00",
+      "ScheduledEndDateTime": "2026-02-28T10:59:59"
+    },
+    {
+      "FirstTeamId": 180277,
+      "FirstTeamName": "Fusion 16 Steel",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Fusion 16 Steel (NC)",
+      "SecondTeamId": 27472,
+      "SecondTeamName": "Empire 15 Power Ryan",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Empire 15 Power Ryan (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 8,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-8",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 182547,
+      "WorkTeamText": "OMNI 16 Pulse (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51887,
+      "Court": {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T11:00:00",
+      "ScheduledEndDateTime": "2026-02-28T11:59:59"
+    },
+    {
+      "FirstTeamId": 27472,
+      "FirstTeamName": "Empire 15 Power Ryan",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Empire 15 Power Ryan (NC)",
+      "SecondTeamId": 219120,
+      "SecondTeamName": "Club Solano 16 Teal",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Club Solano 16 Teal (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 23,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 17,
+          "ScoreText": "25-17",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 180277,
+      "WorkTeamText": "Fusion 16 Steel (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51888,
+      "Court": {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T12:00:00",
+      "ScheduledEndDateTime": "2026-02-28T12:59:59"
+    },
+    {
+      "FirstTeamId": 182547,
+      "FirstTeamName": "OMNI 16 Pulse",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 16 Pulse (NC)",
+      "SecondTeamId": 180277,
+      "SecondTeamName": "Fusion 16 Steel",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fusion 16 Steel (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-12",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 219120,
+      "WorkTeamText": "Club Solano 16 Teal (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51889,
+      "Court": {
+        "CourtId": -54693,
+        "Name": "Grounds Ct.14",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-02-28T13:00:00",
+      "ScheduledEndDateTime": "2026-02-28T13:59:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Empire 15 Power Ryan (NC)",
+      "Match": {
+        "MatchId": -51990,
+        "Court": {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51992,
+        "Court": {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51946,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze A1v1",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54692,
+            "Name": "Grounds Ct.13",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - Fusion 16 Steel (NC)",
+      "Match": {
+        "MatchId": -51991,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51993,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51950,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze A2v2",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54693,
+            "Name": "Grounds Ct.14",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - Club Solano 16 Teal (NC)",
+      "Match": {
+        "MatchId": -51992,
+        "Court": {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51990,
+        "Court": {
+          "CourtId": -54692,
+          "Name": "Grounds Ct.13",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51954,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze A3v3",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54692,
+            "Name": "Grounds Ct.13",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - OMNI 16 Pulse (NC)",
+      "Match": {
+        "MatchId": -51993,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T15:00:00",
+        "ScheduledEndDateTime": "2026-02-28T15:59:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51991,
+        "Court": {
+          "CourtId": -54693,
+          "Name": "Grounds Ct.14",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-02-28T14:00:00",
+        "ScheduledEndDateTime": "2026-02-28T14:59:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51958,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg3 Feb 28 XOBronze A4v4",
+        "CompleteFullName": "Lg3 Feb 28 XO Bronze A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -54693,
+            "Name": "Grounds Ct.14",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": 170531,
+        "TeamName": "UVA 16 Power",
+        "TeamCode": "g16ucelt3nc",
+        "TeamText": "UVA 16 Power (NC)",
+        "MatchesWon": 2,
+        "MatchesLost": 1,
+        "MatchPercent": 0.6666666666666666,
+        "SetsWon": 4,
+        "SetsLost": 3,
+        "SetPercent": 0.5714285714285714,
+        "PointRatio": 1.051094890510949,
+        "FinishRank": 2,
+        "OverallRank": null,
+        "FinishRankText": "2nd",
+        "Club": {
+          "ClubId": 10747,
+          "Name": "Union Volleyball Academy"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "uva 16 power",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165191,
+        "TeamName": "NNJ 15 Hannah",
+        "TeamCode": "g15nnejr3nc",
+        "TeamText": "NNJ 15 Hannah (NC)",
+        "MatchesWon": 1,
+        "MatchesLost": 2,
+        "MatchPercent": 0.3333333333333333,
+        "SetsWon": 3,
+        "SetsLost": 4,
+        "SetPercent": 0.42857142857142855,
+        "PointRatio": 1.0633802816901408,
+        "FinishRank": 3,
+        "OverallRank": null,
+        "FinishRankText": "3rd",
+        "Club": {
+          "ClubId": 2874,
+          "Name": "Northern Nevada Juniors"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "nnj 15 hannah",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 165591,
+        "TeamName": "OMNI 15 Prime",
+        "TeamCode": "g15omniv4nc",
+        "TeamText": "OMNI 15 Prime (NC)",
+        "MatchesWon": 0,
+        "MatchesLost": 3,
+        "MatchPercent": 0.0,
+        "SetsWon": 0,
+        "SetsLost": 6,
+        "SetPercent": 0.0,
+        "PointRatio": 0.4866666666666667,
+        "FinishRank": 4,
+        "OverallRank": null,
+        "FinishRankText": "4th",
+        "Club": {
+          "ClubId": 26543,
+          "Name": "OMNI Volleyball Club"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "omni 15 prime",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      },
+      {
+        "TeamId": 180276,
+        "TeamName": "Fusion 16 Titanium",
+        "TeamCode": "g16fuvbc1nc",
+        "TeamText": "Fusion 16 Titanium (NC)",
+        "MatchesWon": 3,
+        "MatchesLost": 0,
+        "MatchPercent": 1.0,
+        "SetsWon": 6,
+        "SetsLost": 0,
+        "SetPercent": 1.0,
+        "PointRatio": 1.6853932584269662,
+        "FinishRank": 1,
+        "OverallRank": null,
+        "FinishRankText": "1st",
+        "Club": {
+          "ClubId": 29760,
+          "Name": "Fusion Volleyball"
+        },
+        "Division": {
+          "DivisionId": 199187,
+          "Name": "18s - 15s Power League",
+          "TeamCount": 73,
+          "CodeAlias": "18s-16s Open",
+          "ColorHex": "#5FFFBF"
+        },
+        "SearchableTeamName": "fusion 16 titanium",
+        "BidIdentification": {
+          "BidStatus": 0,
+          "DivisionAlias": "None",
+          "DivisionId": 0
+        }
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -51628,
+    "FullName": "Pool 1",
+    "ShortName": "P1",
+    "CompleteShortName": "Lg1Jan24Bronze AP1",
+    "CompleteFullName": "Lg1 Jan 24 Bronze A Pool 1",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -52116,
+        "Name": "Oakland CC Ct.3",
+        "VideoLink": ""
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": 170531,
+      "FirstTeamName": "UVA 16 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "UVA 16 Power (NC)",
+      "SecondTeamId": 165591,
+      "SecondTeamName": "OMNI 15 Prime",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 15 Prime (NC)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 9,
+          "ScoreText": "25-9",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165191,
+      "WorkTeamText": "NNJ 15 Hannah (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51631,
+      "Court": {
+        "CourtId": -52116,
+        "Name": "Oakland CC Ct.3",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T12:30:00",
+      "ScheduledEndDateTime": "2026-01-24T13:29:59"
+    },
+    {
+      "FirstTeamId": 165191,
+      "FirstTeamName": "NNJ 15 Hannah",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NNJ 15 Hannah (NC)",
+      "SecondTeamId": 180276,
+      "SecondTeamName": "Fusion 16 Titanium",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fusion 16 Titanium (NC)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 20,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170531,
+      "WorkTeamText": "UVA 16 Power (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51632,
+      "Court": {
+        "CourtId": -52116,
+        "Name": "Oakland CC Ct.3",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T13:30:00",
+      "ScheduledEndDateTime": "2026-01-24T14:29:59"
+    },
+    {
+      "FirstTeamId": 170531,
+      "FirstTeamName": "UVA 16 Power",
+      "FirstTeamWon": false,
+      "FirstTeamText": "UVA 16 Power (NC)",
+      "SecondTeamId": 180276,
+      "SecondTeamName": "Fusion 16 Titanium",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fusion 16 Titanium (NC)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 12,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-12",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165591,
+      "WorkTeamText": "OMNI 15 Prime (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51633,
+      "Court": {
+        "CourtId": -52116,
+        "Name": "Oakland CC Ct.3",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T14:30:00",
+      "ScheduledEndDateTime": "2026-01-24T15:29:59"
+    },
+    {
+      "FirstTeamId": 165191,
+      "FirstTeamName": "NNJ 15 Hannah",
+      "FirstTeamWon": true,
+      "FirstTeamText": "NNJ 15 Hannah (NC)",
+      "SecondTeamId": 165591,
+      "SecondTeamName": "OMNI 15 Prime",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OMNI 15 Prime (NC)",
+      "MatchFullName": "Match 4",
+      "MatchShortName": "M4",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 13,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 170531,
+      "WorkTeamText": "UVA 16 Power (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51634,
+      "Court": {
+        "CourtId": -52116,
+        "Name": "Oakland CC Ct.3",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T15:30:00",
+      "ScheduledEndDateTime": "2026-01-24T16:29:59"
+    },
+    {
+      "FirstTeamId": 165591,
+      "FirstTeamName": "OMNI 15 Prime",
+      "FirstTeamWon": false,
+      "FirstTeamText": "OMNI 15 Prime (NC)",
+      "SecondTeamId": 180276,
+      "SecondTeamName": "Fusion 16 Titanium",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fusion 16 Titanium (NC)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 13,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-13",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 6,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-6",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 165191,
+      "WorkTeamText": "NNJ 15 Hannah (NC)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51635,
+      "Court": {
+        "CourtId": -52116,
+        "Name": "Oakland CC Ct.3",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T16:30:00",
+      "ScheduledEndDateTime": "2026-01-24T17:29:59"
+    },
+    {
+      "FirstTeamId": 170531,
+      "FirstTeamName": "UVA 16 Power",
+      "FirstTeamWon": true,
+      "FirstTeamText": "UVA 16 Power (NC)",
+      "SecondTeamId": 165191,
+      "SecondTeamName": "NNJ 15 Hannah",
+      "SecondTeamWon": false,
+      "SecondTeamText": "NNJ 15 Hannah (NC)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 25,
+          "ScoreText": "27-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 12,
+          "ScoreText": "15-12",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 180276,
+      "WorkTeamText": "Fusion 16 Titanium (NC)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51636,
+      "Court": {
+        "CourtId": -52116,
+        "Name": "Oakland CC Ct.3",
+        "VideoLink": ""
+      },
+      "ScheduledStartDateTime": "2026-01-24T17:30:00",
+      "ScheduledEndDateTime": "2026-01-24T18:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - Fusion 16 Titanium (NC)",
+      "Match": {
+        "MatchId": -51746,
+        "Court": {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T18:30:00",
+        "ScheduledEndDateTime": "2026-01-24T19:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51702,
+        "FullName": "1 v 1",
+        "ShortName": "1v1",
+        "CompleteShortName": "Lg1Jan24XOBronze A1v1",
+        "CompleteFullName": "Lg1 Jan 24 XO Bronze A 1 v 1",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52116,
+            "Name": "Oakland CC Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - UVA 16 Power (NC)",
+      "Match": {
+        "MatchId": -51747,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T18:30:00",
+        "ScheduledEndDateTime": "2026-01-24T19:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51749,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T19:30:00",
+        "ScheduledEndDateTime": "2026-01-24T20:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51706,
+        "FullName": "2 v 2",
+        "ShortName": "2v2",
+        "CompleteShortName": "Lg1Jan24XOBronze A2v2",
+        "CompleteFullName": "Lg1 Jan 24 XO Bronze A 2 v 2",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52117,
+            "Name": "Oakland CC Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - NNJ 15 Hannah (NC)",
+      "Match": {
+        "MatchId": -51748,
+        "Court": {
+          "CourtId": -52116,
+          "Name": "Oakland CC Ct.3",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T19:30:00",
+        "ScheduledEndDateTime": "2026-01-24T20:29:59"
+      },
+      "WorkMatch": null,
+      "Play": {
+        "Type": 1,
+        "PlayId": -51710,
+        "FullName": "3 v 3",
+        "ShortName": "3v3",
+        "CompleteShortName": "Lg1Jan24XOBronze A3v3",
+        "CompleteFullName": "Lg1 Jan 24 XO Bronze A 3 v 3",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52116,
+            "Name": "Oakland CC Ct.3",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "4 - OMNI 15 Prime (NC)",
+      "Match": {
+        "MatchId": -51749,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T19:30:00",
+        "ScheduledEndDateTime": "2026-01-24T20:29:59"
+      },
+      "WorkMatch": {
+        "MatchId": -51747,
+        "Court": {
+          "CourtId": -52117,
+          "Name": "Oakland CC Ct.4",
+          "VideoLink": ""
+        },
+        "ScheduledStartDateTime": "2026-01-24T18:30:00",
+        "ScheduledEndDateTime": "2026-01-24T19:29:59"
+      },
+      "Play": {
+        "Type": 1,
+        "PlayId": -51714,
+        "FullName": "4 v 4",
+        "ShortName": "4v4",
+        "CompleteShortName": "Lg1Jan24XOBronze A4v4",
+        "CompleteFullName": "Lg1 Jan 24 XO Bronze A 4 v 4",
+        "Order": 0,
+        "Courts": [
+          {
+            "CourtId": -52117,
+            "Name": "Oakland CC Ct.4",
+            "VideoLink": ""
+          }
+        ]
+      },
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}
