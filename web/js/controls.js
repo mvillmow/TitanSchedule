@@ -105,6 +105,37 @@ function _fmtDate(iso) {
 // ------------------------------------------------------------------ //
 
 /**
+ * Compute the set of phases visible under the current day filter.
+ * Returns null when all days are shown (no date selected), or a Set<number>
+ * of visible phase numbers when a specific date is active.
+ */
+function _getVisiblePhases(cy) {
+  if (_activeDates.size === 0) return null;
+
+  const maxPhase = Math.max(...cy.nodes().map(n => n.data('phase')));
+  const visiblePhases = new Set();
+  const sortedDates = Array.from(_dateToPhases.keys()).sort();
+  const firstDate = sortedDates[0];
+  const lastDate = sortedDates[sortedDates.length - 1];
+
+  // Phase 0 (start ranking) only shown when first date is selected
+  if (firstDate && _activeDates.has(firstDate)) {
+    visiblePhases.add(0);
+  }
+  // End ranking only shown when last date is selected
+  if (lastDate && _activeDates.has(lastDate)) {
+    visiblePhases.add(maxPhase);
+  }
+
+  _activeDates.forEach(date => {
+    const phases = _dateToPhases.get(date);
+    if (phases) phases.forEach(p => visiblePhases.add(p));
+  });
+
+  return visiblePhases;
+}
+
+/**
  * Single function that owns visibility state. Steps:
  *   1. Reset all visibility + remove classes
  *   2. Day filter (hide nodes outside selected phases; always show phase 0 + max phase)
@@ -116,32 +147,16 @@ function _applyFilters(cy) {
   const showAllDays = _activeDates.size === 0;
   const hasTeam = _activeTeamIds.length > 0;
 
+  // Compute visiblePhases before the batch so step 4 can reuse it
+  const visiblePhases = _getVisiblePhases(cy);
+
   cy.batch(() => {
     // Step 1: reset visibility and trajectory classes
     cy.elements().removeClass('team-win team-loss edge-highlight dimmed');
     cy.elements().style('display', 'element');
 
     // Step 2: day filter
-    if (!showAllDays) {
-      const maxPhase = Math.max(...cy.nodes().map(n => n.data('phase')));
-      const visiblePhases = new Set();
-      const sortedDates = Array.from(_dateToPhases.keys()).sort();
-      const firstDate = sortedDates[0];
-      const lastDate = sortedDates[sortedDates.length - 1];
-      // Phase 0 (start ranking) only shown when first date is selected
-      if (firstDate && _activeDates.has(firstDate)) {
-        visiblePhases.add(0);
-      }
-      // End ranking only shown when last date is selected
-      if (lastDate && _activeDates.has(lastDate)) {
-        visiblePhases.add(maxPhase);
-      }
-
-      _activeDates.forEach(date => {
-        const phases = _dateToPhases.get(date);
-        if (phases) phases.forEach(p => visiblePhases.add(p));
-      });
-
+    if (visiblePhases) {
       cy.nodes().forEach(n => {
         const phase = n.data('phase');
         if (!visiblePhases.has(phase)) {
@@ -157,8 +172,9 @@ function _applyFilters(cy) {
   // ^^^ batch ends here — styles are now recalculated
 
   // Step 4: team trajectory — OUTSIDE batch so e.visible() is accurate
+  // Pass visiblePhases so trajectory respects the day filter
   if (hasTeam) {
-    activateTrajectory(cy, _activeTeamIds);
+    activateTrajectory(cy, _activeTeamIds, visiblePhases);
   }
 
   // Step 5: layout management
@@ -312,6 +328,16 @@ function _applyHighlight(cy, teamIds) {
   parentIds.forEach(id => { teamParentNodes = teamParentNodes.union(cy.$id(id)); });
 
   const teamCollection = teamEdges.union(teamPortNodes).union(teamParentNodes);
+
+  // Re-show team-path nodes, respecting the active day filter
+  const hlVisiblePhases = _getVisiblePhases(cy);
+  if (hlVisiblePhases) {
+    teamCollection.nodes().forEach(n => {
+      if (hlVisiblePhases.has(n.data('phase'))) n.style('display', 'element');
+    });
+  } else {
+    teamCollection.nodes().style('display', 'element');
+  }
 
   // Dim visible nodes not in the team's path
   cy.nodes().filter(n => n.visible()).difference(teamCollection).addClass('dimmed');

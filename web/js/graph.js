@@ -50,7 +50,8 @@ function buildMatchCardHTML(data) {
   }
   if (_highlightState.active) {
     const isTeamNode = teams.some(t => t.role !== 'work' && _highlightState.teamIds.has(t.id));
-    if (!isTeamNode) styleParts.push('opacity:0.15');
+    // Don't dim nodes that are follow-on targets (empty teams but in trajectory)
+    if (!isTeamNode && teams.length > 0) styleParts.push('opacity:0.15');
   }
   const styleAttr = styleParts.length > 0 ? ` style="${styleParts.join(';')}"` : '';
   let html = `<div class="match-card"${styleAttr}>`;

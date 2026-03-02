@@ -9,7 +9,7 @@
  * @param {Object} cy - Cytoscape instance
  * @param {Array<number>} teamIds - Array of team IDs to highlight
  */
-function activateTrajectory(cy, teamIds) {
+function activateTrajectory(cy, teamIds, visiblePhases) {
   // Do NOT call clearTrajectory here — _applyFilters already reset visibility.
   if (!teamIds || teamIds.length === 0) return;
 
@@ -30,6 +30,18 @@ function activateTrajectory(cy, teamIds) {
   parentIds.forEach(id => { teamParentNodes = teamParentNodes.union(cy.$id(id)); });
 
   const teamCollection = teamEdges.union(teamPortNodes).union(teamParentNodes);
+
+  // Re-show team-path nodes, but only if their phase is allowed by the day filter.
+  // When visiblePhases is null, all phases are visible (no day filter active).
+  if (visiblePhases) {
+    teamCollection.nodes().forEach(n => {
+      if (visiblePhases.has(n.data('phase'))) {
+        n.style('display', 'element');
+      }
+    });
+  } else {
+    teamCollection.nodes().style('display', 'element');
+  }
 
   // Hide CURRENTLY VISIBLE nodes not in any team's path.
   // Preserves day filter state set by _applyFilters.
