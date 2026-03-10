@@ -1,0 +1,46 @@
+[project]
+name = "titanschedule"
+version = "0.1.0"
+description = "Tournament sorting network visualization for SportsEngine AES volleyball tournaments"
+requires-python = ">=3.11"
+license = "BSD-3-Clause"
+dependencies = [
+    "httpx[http2]",
+    "click",
+]
+
+[tool.pixi.workspace]
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[tool.pixi.pypi-dependencies]
+titanschedule = { path = ".", editable = true }
+pytest = "*"
+pytest-asyncio = "*"
+respx = "*"
+ruff = "*"
+mypy = "*"
+
+[tool.pixi.tasks]
+test = "pytest tests/ -x --ignore=tests/integration"
+test-all = "pytest tests/ -x"
+scrape = "python -m scraper.cli"
+serve = "python -m http.server 8080 -d web"
+capture-fixtures = "python -m scraper.capture_fixtures"
+lint = "ruff check scraper/ tests/"
+typecheck = "mypy scraper/"
+
+[tool.setuptools.packages.find]
+include = ["scraper*"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"]
+
+[tool.mypy]
+strict = true
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
