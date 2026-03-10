@@ -4,10 +4,70 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TitanSchedule</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-    <div id="app"></div>
+<body class="bg-gray-100 min-h-screen">
+    <!-- Header -->
+    <header class="bg-gradient-to-r from-indigo-700 to-purple-700 text-white shadow-lg">
+        <div class="max-w-4xl mx-auto px-4 py-4">
+            <h1 class="text-xl font-bold tracking-tight">TitanSchedule</h1>
+            <div class="mt-3">
+                <select id="division-select"
+                        class="w-full rounded-full px-4 py-2 text-sm text-gray-800 bg-white shadow focus:outline-none focus:ring-2 focus:ring-indigo-300"
+                        aria-label="Select division">
+                    <option value="">Loading divisions...</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <!-- Controls -->
+    <div class="max-w-4xl mx-auto px-4 mt-4 space-y-3">
+        <!-- Team search combobox -->
+        <div id="team-search-container" class="relative" role="combobox" aria-expanded="false" aria-haspopup="listbox">
+            <input id="team-search"
+                   type="text"
+                   placeholder="Search teams..."
+                   autocomplete="off"
+                   class="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-400"
+                   aria-label="Search teams"
+                   aria-controls="team-listbox"
+                   aria-autocomplete="list">
+            <ul id="team-listbox"
+                role="listbox"
+                class="hidden absolute z-20 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-60 overflow-y-auto custom-scroll">
+            </ul>
+        </div>
+
+        <!-- Day tabs -->
+        <div id="day-tabs" role="tablist" aria-label="Tournament dates"
+             class="flex gap-2 overflow-x-auto pb-1">
+        </div>
+    </div>
+
+    <!-- Cards container -->
+    <main class="max-w-4xl mx-auto px-4 mt-4 pb-8">
+        <div id="cards" aria-live="polite" class="grid gap-4">
+        </div>
+
+        <!-- Loading skeleton -->
+        <div id="loading" class="hidden grid gap-4">
+            <div class="skeleton h-48 rounded-xl"></div>
+            <div class="skeleton h-48 rounded-xl"></div>
+            <div class="skeleton h-48 rounded-xl"></div>
+        </div>
+
+        <!-- Empty state -->
+        <div id="empty-state" class="hidden text-center py-12 text-gray-400">
+            <svg class="mx-auto h-12 w-12 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+                      d="M9.75 9.75l4.5 4.5m0-4.5l-4.5 4.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <p id="empty-message" class="text-sm">No games found</p>
+        </div>
+    </main>
+
     <script src="js/app.js"></script>
 </body>
 </html>
