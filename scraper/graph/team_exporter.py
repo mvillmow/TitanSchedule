@@ -196,9 +196,14 @@ class TeamScheduleExporter:
                     opponent = None
                 opponent_id = None
 
-            # For conditional games, check if opponent is missing
+            # For conditional games, use the opponent name field as descriptive text
             if status == "conditional" and opponent_id is None:
-                opponent_text = "TBD"
+                if role == "home" and away_team_name:
+                    opponent_text = away_team_name
+                elif role == "away" and home_team_name:
+                    opponent_text = home_team_name
+                else:
+                    opponent_text = "TBD"
                 opponent = None
 
             # Determine won (only for final games)

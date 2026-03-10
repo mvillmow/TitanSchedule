@@ -54,25 +54,31 @@ class GraphBuilder:
         self.edges = []
         self.division_name = division.name
 
-        # Step 2: Collect all matches with round indices
-        all_matches: list[tuple[Match, int]] = []
+        # Step 2: Collect all matches with round indices and metadata
+        # Each entry: (match, round_index, round_name, group_name)
+        all_matches: list[tuple[Match, int, str, str]] = []
 
         # Build maps for round lookup
         round_by_play_id: dict[int, int] = {}  # play_id -> round_index
         round_by_group_id: dict[int, int] = {}  # group_id -> round_index
+        round_list = division.rounds
 
-        for round_index, round_obj in enumerate(division.rounds):
+        for round_index, round_obj in enumerate(round_list):
             if round_obj.type == "pool":
                 round_by_play_id[round_obj.id] = round_index
             elif round_obj.type == "bracket":
                 if round_obj.group_id is not None:
                     round_by_group_id[round_obj.group_id] = round_index
 
-        # Collect pool matches
+        # Collect pool matches — round_name = pool name, group_name from round
         for pool in division.pools:
             round_index = round_by_play_id.get(pool.play_id, -1)
+            matched_round = (
+                round_list[round_index] if 0 <= round_index < len(round_list) else None
+            )
+            group_name = matched_round.group_name if matched_round else ""
             for match in pool.matches:
-                all_matches.append((match, round_index))
+                all_matches.append((match, round_index, pool.name, group_name))
 
         # Collect bracket matches
         for bracket_match in division.bracket_matches:
@@ -81,7 +87,12 @@ class GraphBuilder:
                 if bracket_match.group_id is not None
                 else -1
             )
-            all_matches.append((bracket_match, round_index))
+            matched_round = (
+                round_list[round_index] if 0 <= round_index < len(round_list) else None
+            )
+            round_name = matched_round.name if matched_round else bracket_match.group_name
+            group_name = bracket_match.group_name
+            all_matches.append((bracket_match, round_index, round_name, group_name))
 
         # If no matches, create only start/end nodes
         if not all_matches:
@@ -94,7 +105,7 @@ class GraphBuilder:
 
         # Step 4: Group matches by (round_index, date, time) and assign phases
         match_groups: dict[tuple[int, str, str], list[Match]] = {}
-        for match, round_index in all_matches:
+        for match, round_index, _, _ in all_matches:
             key = (round_index, match.date, match.time)
             if key not in match_groups:
                 match_groups[key] = []
@@ -113,9 +124,12 @@ class GraphBuilder:
                 match_to_phase[match.id] = phase
 
         # Step 5: Create match and port nodes
-        for match, _ in all_matches:
+        for match, _, round_name, group_name in all_matches:
             phase = match_to_phase.get(match.id, 1)
             status = self._get_match_status(match)
+
+            # Convert SetScore objects to [home, away] lists
+            scores: list[list[int]] = [[s.home, s.away] for s in match.scores]
 
             # Match node
             match_node = Node(
@@ -136,6 +150,9 @@ class GraphBuilder:
                     "home_sets_won": match.home_sets_won,
                     "away_sets_won": match.away_sets_won,
                     "status": status,
+                    "round_name": round_name,
+                    "group_name": group_name,
+                    "scores": scores,
                 },
             )
             self.nodes[match_node.id] = match_node
@@ -184,13 +201,6 @@ class GraphBuilder:
 
     def _create_start_ranking_nodes(self, division: Division) -> None:
         """Create start ranking nodes for all teams in the division."""
-        teams_by_seed: list[tuple[int | None, int, str, str]] = []
-        for team_id, team in division.teams.items():
-            teams_by_seed.append((team.seed, team_id, team.name, team.club))
-
-        # Sort by seed: None seeds go last, then ascending seed number
-        teams_by_seed.sort(key=lambda x: (x[0] is None, x[0]))
-
         for team_id, team in division.teams.items():
             start_node = Node(
                 id=f"start_{team_id}",

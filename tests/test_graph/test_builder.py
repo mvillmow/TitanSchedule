@@ -107,6 +107,9 @@ class TestGraphBuilderSimplePool:
         assert match_node.data["status"] == "final"
         assert match_node.data["home_team_id"] == 1
         assert match_node.data["away_team_id"] == 2
+        # round_name, group_name, scores should be populated
+        assert match_node.data["round_name"] == "Pool A"
+        assert match_node.data["scores"] == [[25, 18], [25, 21]]
 
         # Assert port nodes exist
         assert "port_-200_home" in builder.nodes
@@ -665,6 +668,9 @@ class TestGraphBuilderMatchNodeMetadata:
         assert match_node.data["court"] == "Court 3"
         assert match_node.data["date"] == "2025-03-08"
         assert match_node.data["time"] == "10:30"
+        assert match_node.data["round_name"] == "Pool A"
+        assert match_node.data["group_name"] == ""
+        assert match_node.data["scores"] == []
 
 
 class TestGraphBuilderDivisionName:

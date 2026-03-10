@@ -296,6 +296,45 @@ class TestTeamScheduleExporter:
         assert game["opponent_text"] == "TBD"
         assert game["won"] is None
 
+    def test_conditional_game_with_follow_on_text(self) -> None:
+        """Conditional match with descriptive away_team_name uses it as opponent_text."""
+        builder = GraphBuilder()
+        builder.division_name = "16s"
+        builder.nodes["start_5"] = Node(
+            id="start_5", type="ranking", phase=0,
+            data={"team_id": 5, "team_name": "Team E", "club": "Club E", "seed": 1},
+        )
+        builder.nodes["match_-300"] = Node(
+            id="match_-300", type="match", phase=1,
+            data={
+                "match_id": -300, "date": "2025-03-09", "time": "10:00",
+                "court": "Court 1", "round_name": "Bracket", "group_name": "Gold",
+                "status": "conditional", "home_team_id": 5, "away_team_id": None,
+                "home_team_name": "Team E", "away_team_name": "1st R1P1",
+                "work_team_id": None, "work_team_name": "",
+                "scores": [], "home_sets_won": 0, "away_sets_won": 0,
+            },
+        )
+        builder.nodes["port_-300_home"] = Node(
+            id="port_-300_home", type="port", phase=1, data={"match_id": -300, "role": "home"},
+        )
+        builder.nodes["end_5"] = Node(
+            id="end_5", type="ranking", phase=2,
+            data={"team_id": 5, "team_name": "Team E", "wins": 0, "losses": 0, "rank": None},
+        )
+        builder.edges = [
+            Edge(source="start_5", target="port_-300_home",
+                 team_id=5, team_name="Team E", role="home"),
+            Edge(source="port_-300_home", target="end_5",
+                 team_id=5, team_name="Team E", role="home"),
+        ]
+        division = Division(id=1, name="16s")
+        exporter = TeamScheduleExporter()
+        result = exporter.export(builder, division)
+        game = result["teams"]["5"]["games"][0]
+        assert game["opponent_text"] == "1st R1P1"
+        assert game["opponent"] is None
+
     def test_work_team(self) -> None:
         """Test work team (ref) participation in a match."""
         builder = GraphBuilder()
