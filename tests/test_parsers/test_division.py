@@ -39,6 +39,28 @@ class TestParseDivisionPlays:
         assert rounds[0].group_name == "Gold A"
         assert rounds[0].short_name == "R1P1"
 
+    def test_play_id_and_order(self) -> None:
+        data = [
+            {
+                "RoundId": -100,
+                "RoundName": "R1",
+                "Type": 0,
+                "PlayId": -51151,
+                "Order": 3,
+                "Date": "2025-03-08",
+            }
+        ]
+        rounds = parse_division_plays(data)
+        assert rounds[0].play_id == -51151
+        assert rounds[0].order == 3
+        assert rounds[0].date == "2025-03-08"
+
+    def test_missing_play_id_defaults_none(self) -> None:
+        data = [{"RoundId": -100, "RoundName": "R1", "Type": 0}]
+        rounds = parse_division_plays(data)
+        assert rounds[0].play_id is None
+        assert rounds[0].order == 0
+
     def test_empty_input(self) -> None:
         assert parse_division_plays([]) == []
 

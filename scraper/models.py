@@ -97,6 +97,9 @@ class Round:
     type: str = "pool"  # "pool" or "bracket"
     group_id: int | None = None
     group_name: str = ""
+    play_id: int | None = None
+    order: int = 0
+    date: str = ""
 
 
 @dataclass(slots=True)
@@ -120,6 +123,7 @@ class Division:
     bracket_matches: list[BracketMatch] = field(default_factory=list)
     follow_ons: list[FollowOnEdge] = field(default_factory=list)
     teams: dict[int, Team] = field(default_factory=dict)
+    dates: list[str] = field(default_factory=list)
     is_finished: bool = False
     color_hex: str = ""
     code_alias: str = ""

@@ -7,9 +7,19 @@ from typing import Any
 
 import httpx
 
-from scraper.config import API_BASE, DEFAULT_HEADERS, MAX_RETRIES, RATE_LIMIT_DELAY
+from scraper.config import API_BASE, DEFAULT_HEADERS, MAX_RETRIES, RATE_LIMIT_DELAY, REQUEST_TIMEOUT
 
 _RETRY_STATUSES = {429, 500, 502, 503, 504}
+
+
+class AESRequestError(Exception):
+    """Raised when an AES API request fails after all retries."""
+
+    def __init__(self, path: str, attempts: int, cause: Exception) -> None:
+        self.path = path
+        self.attempts = attempts
+        self.cause = cause
+        super().__init__(f"Request to {path} failed after {attempts} attempts: {cause}")
 
 
 class AESClient:
@@ -20,7 +30,7 @@ class AESClient:
         base_url: str = API_BASE,
         delay: float = RATE_LIMIT_DELAY,
         max_retries: int = MAX_RETRIES,
-        timeout: float = 30.0,
+        timeout: float = REQUEST_TIMEOUT,
     ) -> None:
         self.base_url = base_url
         self.delay = delay
@@ -62,7 +72,7 @@ class AESClient:
             except httpx.TimeoutException as exc:
                 last_exc = exc
                 continue
-        raise last_exc  # type: ignore[misc]
+        raise AESRequestError(path, self.max_retries, last_exc) from last_exc  # type: ignore[arg-type]
 
     async def get_event(self, event_key: str) -> Any:
         return await self._request(f"/event/{event_key}")

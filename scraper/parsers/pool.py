@@ -2,15 +2,19 @@
 
 from __future__ import annotations
 
+import logging
 from typing import Any
 
 from scraper.models import Match, Pool, PoolStanding, SetScore, Team
+
+logger = logging.getLogger(__name__)
 
 
 def parse_pool_sheet(data: dict[str, Any]) -> Pool:
     """Parse a poolsheet API response into a Pool model.
 
     Handles empty pools (no matches) and missing team data gracefully.
+    Logs a warning for empty pools.
     """
     play_id: int = int(data.get("PlayId", 0))
     name: str = str(data.get("Name", ""))
@@ -74,6 +78,9 @@ def parse_pool_sheet(data: dict[str, Any]) -> Pool:
                 losses=int(s.get("Losses", 0)),
             )
         )
+
+    if not matches:
+        logger.warning("Pool %r (PlayId=%d) has no matches", name, play_id)
 
     return Pool(
         play_id=play_id,

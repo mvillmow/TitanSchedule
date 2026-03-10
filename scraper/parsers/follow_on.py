@@ -3,22 +3,35 @@
 from __future__ import annotations
 
 import re
+from dataclasses import dataclass
 
-from scraper.models import FollowOnEdge
+
+@dataclass(slots=True)
+class FollowOnRef:
+    """Parsed follow-on reference from FutureRoundMatches text.
+
+    Attributes:
+        rank: The placement rank (e.g., 1 for "1st").
+        source_short_name: The CompleteShortName of the source play (e.g., "R1P1").
+    """
+
+    rank: int
+    source_short_name: str
 
 
-def parse_follow_on(
-    text: str, source_round_id: int, target_round_id: int
-) -> FollowOnEdge | None:
-    """Parse follow-on text like '1st R1P1' into a FollowOnEdge.
+def parse_follow_on(text: str) -> FollowOnRef | None:
+    """Parse follow-on text like '1st R1P1' into a FollowOnRef.
+
+    The text format is "{rank}{ordinal} {CompleteShortName}" where:
+    - rank is a leading integer (1, 2, 3, ...)
+    - ordinal suffix is optional (st, nd, rd, th)
+    - CompleteShortName identifies the source pool (e.g., "R1P1")
 
     Args:
         text: The FutureRoundMatches rank text (e.g., "1st R1P1", "2nd R1P1").
-        source_round_id: The round ID of the source pool.
-        target_round_id: The round ID of the target bracket.
 
     Returns:
-        A FollowOnEdge if parseable, None otherwise.
+        A FollowOnRef if parseable, None otherwise.
     """
     if not text:
         return None
@@ -29,13 +42,6 @@ def parse_follow_on(
         return None
 
     rank = int(rank_match.group(1))
+    source_short_name = text[rank_match.end() :].strip()
 
-    # The remaining text after the rank is the target slot identifier
-    target_slot = text[rank_match.end() :].strip()
-
-    return FollowOnEdge(
-        source_round_id=source_round_id,
-        source_rank=rank,
-        target_round_id=target_round_id,
-        target_slot=target_slot,
-    )
+    return FollowOnRef(rank=rank, source_short_name=source_short_name)

@@ -18,6 +18,7 @@ def parse_division_plays(data: list[dict[str, Any]]) -> list[Round]:
         round_id = int(play.get("RoundId", 0))
         round_type = "bracket" if play.get("Type") == 1 else "pool"
         group_id_raw = play.get("GroupId")
+        play_id_raw = play.get("PlayId")
         rounds.append(
             Round(
                 id=round_id,
@@ -26,6 +27,9 @@ def parse_division_plays(data: list[dict[str, Any]]) -> list[Round]:
                 type=round_type,
                 group_id=int(group_id_raw) if group_id_raw else None,
                 group_name=str(play.get("GroupName", "")),
+                play_id=int(play_id_raw) if play_id_raw is not None else None,
+                order=int(play.get("Order", 0)),
+                date=str(play.get("Date", "")),
             )
         )
 

@@ -4,7 +4,7 @@ import httpx
 import pytest
 import respx
 
-from scraper.client import AESClient
+from scraper.client import AESClient, AESRequestError
 
 
 @pytest.fixture
@@ -77,7 +77,7 @@ class TestAESClient:
         respx.get("https://test.example.com/event/KEY").mock(
             return_value=httpx.Response(500)
         )
-        with pytest.raises(httpx.HTTPStatusError):
+        with pytest.raises(AESRequestError, match="/event/KEY"):
             await mock_client.get_event("KEY")
         await mock_client.close()
 

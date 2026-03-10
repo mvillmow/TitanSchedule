@@ -75,6 +75,18 @@ class TestRound:
         r = Round(id=-1, name="R")
         assert r.type == "pool"
 
+    def test_play_id_and_order(self) -> None:
+        r = Round(id=-100, name="R1", play_id=-51151, order=1, date="2025-03-08")
+        assert r.play_id == -51151
+        assert r.order == 1
+        assert r.date == "2025-03-08"
+
+    def test_defaults_new_fields(self) -> None:
+        r = Round(id=-1, name="R")
+        assert r.play_id is None
+        assert r.order == 0
+        assert r.date == ""
+
 
 class TestFollowOnEdge:
     def test_construction(self) -> None:
@@ -99,6 +111,7 @@ class TestDivision:
         assert d.id == 199189
         assert d.rounds == []
         assert d.teams == {}
+        assert d.dates == []
         assert d.is_finished is False
 
     def test_with_teams(self) -> None:
