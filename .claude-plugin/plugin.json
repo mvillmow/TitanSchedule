@@ -1,9 +1,9 @@
 {
-  "name": "frontend-from-data-contract",
+  "name": "scaffold-from-spec",
   "version": "1.0.0",
   "category": "architecture",
-  "description": "Build a vanilla JS frontend from a JSON data contract, with review checklist for spec compliance",
+  "description": "Cross-reference architecture docs against implementation plans to ensure all skeleton files are created during greenfield project scaffolding",
   "created": "2026-03-10",
-  "skills": ["skills/frontend-from-data-contract/SKILL.md"],
+  "skills": ["skills/scaffold-from-spec/SKILL.md"],
   "references": ["references/notes.md"]
 }
