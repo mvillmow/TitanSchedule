@@ -4,11 +4,14 @@ This file provides guidance to Claude Code when working with code in this reposi
 
 ## Project Overview
 
-TitanSchedule is a tournament sorting network visualization tool for SportsEngine AES volleyball
-tournaments. It consumes the AES public REST JSON API (no auth required) to build a DAG of
-tournament matches and renders them with Cytoscape.js.
+TitanSchedule is a tournament schedule viewer for SportsEngine AES volleyball tournaments.
+It scrapes the AES public REST JSON API (no auth required), builds an internal sorting-network
+DAG, exports team-centric JSON, and renders a static team card UI optimized for parents
+checking schedules on their phones at tournaments.
 
 **Stack**: Python (scraper) + vanilla JS/HTML/Tailwind CSS (frontend) + pixi (environment)
+
+**Canonical architecture**: See `docs/research.md` for the full design document.
 
 ## CRITICAL RULES
 
@@ -30,6 +33,7 @@ See [Git Commit Policy](.claude/shared/git-commit-policy.md) for details.
 
 ## Quick Links
 
+- [Architecture Design (research.md)](docs/research.md)
 - [Common Constraints](.claude/shared/common-constraints.md)
 - [PR Workflow](.claude/shared/pr-workflow.md)
 - [Git Commit Policy](.claude/shared/git-commit-policy.md)
@@ -44,12 +48,14 @@ pixi run test-all         # Run all tests including integration
 pixi run scrape <URL>     # Full scrape pipeline
 pixi run serve            # http.server on port 8080
 pixi run capture-fixtures <URL>  # Save API JSON to tests/fixtures/
+pixi run lint             # ruff check scraper/ tests/
+pixi run typecheck        # mypy scraper/
 ```
 
 ## Tech Stack
 
-- **Python** (`scraper/`): API client, parsers, graph builder, exporter, CLI
-- **Vanilla JS/HTML** (`web/`): Cytoscape.js 3.28, Tailwind CSS, jsPDF — all CDN, no build tools
+- **Python** (`scraper/`): Async HTTP client (httpx), parsers, graph builder, team exporter, CLI (click)
+- **Vanilla JS/HTML** (`web/`): Tailwind CSS (CDN), no frameworks, no build tools
 - **pixi**: Environment and dependency management (uses uv internally)
 - **pytest**: Test framework with inline fixtures
 
@@ -57,19 +63,80 @@ pixi run capture-fixtures <URL>  # Save API JSON to tests/fixtures/
 
 ```text
 TitanSchedule/
-├── scraper/          # Python package (client, parsers, graph, exporter, CLI)
-├── web/              # Frontend SPA (CDN-only, no build tools)
-│   └── js/           # Cytoscape.js graph, controls, trajectory, export
-├── tests/            # pytest suite with inline fixtures
-├── scripts/          # Shell automation (scrape.sh, serve.sh, etc.)
-├── docs/             # Documentation and research
-├── .claude/          # Agent system
-│   ├── agents/       # 6 agent definitions
-│   ├── commands/     # 4 slash commands
-│   ├── skills/       # 8 skill directories
-│   └── shared/       # 4 shared constraint/policy files
-└── CLAUDE.md         # This file
+├── pyproject.toml         # pixi config, deps, tool settings
+├── CLAUDE.md              # This file
+├── docs/
+│   ├── research.md        # Canonical architecture document
+│   └── prompts/           # Sequential implementation prompts
+├── scraper/
+│   ├── __init__.py
+│   ├── client.py          # Async HTTP client (httpx)
+│   ├── config.py          # API config, constants
+│   ├── models.py          # Data classes
+│   ├── url.py             # AES URL parser
+│   ├── cli.py             # CLI entry point (click)
+│   ├── parsers/
+│   │   ├── division.py
+│   │   ├── pool.py
+│   │   ├── bracket.py
+│   │   └── follow_on.py
+│   └── graph/
+│       ├── builder.py     # Sorting network DAG builder
+│       └── team_exporter.py  # DAG → team-centric JSON
+├── web/
+│   ├── index.html
+│   ├── js/
+│   │   └── app.js         # Frontend logic
+│   ├── css/
+│   │   └── style.css
+│   └── data/              # Generated JSON (gitignored)
+│       └── index.json     # Division index
+├── tests/
+│   ├── conftest.py
+│   ├── test_client.py
+│   ├── test_parsers/
+│   ├── test_graph/
+│   └── fixtures/          # Captured API responses
+├── scripts/
+│   ├── scrape.sh
+│   └── serve.sh
+└── .github/
+    └── workflows/
+        ├── ci.yml         # lint → typecheck → test
+        └── scrape.yml     # Cron scrape + deploy to GitHub Pages
 ```
+
+## Pipeline
+
+```text
+AES REST API → httpx client → parsers → sorting network DAG → TeamScheduleExporter → JSON → static HTML
+```
+
+### TeamScheduleExporter Output
+
+The exporter converts the DAG into team-centric JSON at `web/data/{slug}/tournament.json`:
+
+- **Game status values**: `"final"`, `"in_progress"`, `"scheduled"`, `"conditional"`
+- **Conditional games**: `opponent` is null, `opponent_text` describes source (e.g., "Winner of M3", "1st Pool A")
+- Each team has: name, club, seed, games array, record, rank
+
+### Tournament Format Variants
+
+- **Power League**: Multi-date season with tiered groups (Gold/Silver/Bronze), re-seeding between rounds
+- **Single-Weekend**: Day 1 pools → Day 2 brackets, follow-on edges link pool standings to bracket seeds
+- **Pool-Play-Only**: Just pools, no brackets, rankings come from pool standings directly
+
+## Frontend
+
+Mobile-first team card layout for parents at tournaments:
+
+- **Division selector**: Dropdown populated from `web/data/index.json`
+- **Team selector**: Dropdown + search, "All Teams" default
+- **Day tabs**: One per tournament date, preserves team selection on switch
+- **Team cards**: Header (name, club, seed, W-L) + game rows (time, court, opponent, role, status/scores)
+- **URL hash**: `#division-slug/team-id/date`
+- **Color coding**: Green=win, Red=loss, Gray=scheduled, Yellow=in-progress, Purple/dashed=conditional
+- **CDN-only**: Tailwind CSS, no npm, no build tools, no frameworks
 
 ## Key Development Principles
 
@@ -99,7 +166,7 @@ Follow conventional commits:
 
 ```text
 feat(scraper): add bracket parser for elimination rounds
-fix(web): correct highlight opacity on hidden nodes
+fix(web): correct day tab switching on team selection
 docs(readme): update API endpoint documentation
 refactor(graph): simplify phase grouping logic
 test(parsers): add edge case for negative match IDs
@@ -118,7 +185,7 @@ This project uses a flat agent system for Claude Code automation.
 | `code-review-orchestrator` | sonnet | Coordinates 3 review dimensions |
 | `ci-failure-analyzer` | sonnet | CI log analysis and diagnosis |
 | `documentation-engineer` | haiku | Docstrings, README, examples |
-| `frontend-engineer` | haiku | Vanilla JS, Cytoscape.js, Tailwind |
+| `frontend-engineer` | haiku | Vanilla JS, Tailwind CSS, team cards |
 
 ### Commands (`.claude/commands/`)
 
@@ -148,10 +215,10 @@ Agents delegate to skills using these patterns:
 - Header: `Accept: application/json` (no auth)
 - AES IDs are **negative integers** (e.g., PlayId: -51151, MatchId: -51190)
 - Round sort: less negative = earlier round; sort `reverse=True` for chronological order
+- Match timeline tiebreaker: `-match_id` so less-negative sorts first
 
 ## Common Pitfalls
 
 - `[] or DEFAULT` evaluates to DEFAULT in Python — use `X if X is None else DEFAULT`
 - AES match IDs are negative — timeline tiebreaker uses `-match_id`
-- Port nodes use `data.parentId` (not `data.parent`) — Cytoscape reserves `data.parent`
-- HTML overlay exports (PNG/SVG/PDF) do NOT capture `.match-card`/`.ranking-card` overlays
+- FutureRoundMatches text format: "1st R1P1" where R1P1 = CompleteShortName
