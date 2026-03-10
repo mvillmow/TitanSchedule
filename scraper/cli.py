@@ -46,10 +46,10 @@ async def _scrape(url: str) -> None:
             code_alias=division_code,
         )
 
-        # Fetch pool data for pool rounds
+        # Fetch pool data for pool rounds — each round entry has a unique play_id
         for round_ in rounds:
-            if round_.type == "pool":
-                pool_data = await client.get_pool_sheet(event_key, round_.id)
+            if round_.type == "pool" and round_.play_id is not None:
+                pool_data = await client.get_pool_sheet(event_key, round_.play_id)
                 pool = parse_pool_sheet(pool_data)
                 division.pools.append(pool)
                 # Collect teams from pools
@@ -121,11 +121,13 @@ def _write_output(slug: str, data: ExportDict) -> None:
 def _update_index(slug: str, division_name: str, event_name: str) -> None:
     """Update web/data/index.json with this division."""
     index_file = WEB_DATA_DIR / "index.json"
+    index: dict[str, Any] = {"event": event_name, "divisions": []}
     if index_file.exists():
-        index = json.loads(index_file.read_text())
+        raw = json.loads(index_file.read_text())
+        if isinstance(raw, dict):
+            index = raw
     else:
         WEB_DATA_DIR.mkdir(parents=True, exist_ok=True)
-        index = {"event": event_name, "divisions": []}
 
     # Update or add division entry
     divisions = index.get("divisions", [])

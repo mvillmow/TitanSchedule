@@ -65,7 +65,11 @@ class GraphBuilder:
 
         for round_index, round_obj in enumerate(round_list):
             if round_obj.type == "pool":
-                round_by_play_id[round_obj.id] = round_index
+                # Map play_id (unique per pool) to round_index
+                if round_obj.play_id is not None:
+                    round_by_play_id[round_obj.play_id] = round_index
+                else:
+                    round_by_play_id[round_obj.id] = round_index
             elif round_obj.type == "bracket":
                 if round_obj.group_id is not None:
                     round_by_group_id[round_obj.group_id] = round_index
