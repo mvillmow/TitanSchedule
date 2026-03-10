@@ -51,7 +51,8 @@
     try {
       const res = await fetch("data/index.json");
       if (!res.ok) throw new Error(res.statusText);
-      divisions = await res.json();
+      const data = await res.json();
+      divisions = Array.isArray(data) ? data : (data.divisions || []);
     } catch {
       divisions = [];
     }
