@@ -22,16 +22,6 @@
 
   let listboxIndex = -1;
 
-  // --- Sanitization ---
-  // All user-supplied strings are escaped via esc() before DOM insertion.
-  // esc() uses textContent assignment which converts special chars to entities,
-  // preventing XSS. Only static/controlled markup uses innerHTML.
-  function esc(str) {
-    const el = document.createElement("span");
-    el.textContent = str;
-    return el.innerHTML;
-  }
-
   // --- Init ---
   async function init() {
     const hash = parseHash();
@@ -53,6 +43,10 @@
       if (!res.ok) throw new Error(res.statusText);
       const data = await res.json();
       divisions = Array.isArray(data) ? data : (data.divisions || []);
+      // Update header with event name if available
+      if (data.event) {
+        document.getElementById("event-title").textContent = data.event;
+      }
     } catch {
       divisions = [];
     }
@@ -270,7 +264,7 @@
     const row = document.createElement("div");
     const statusCls = getStatusClasses(game);
     const borderCls = getStatusBorder(game);
-    const altBg = index % 2 === 1 ? " even-row" : "";
+    const altBg = index % 2 === 1 && !statusCls ? " even-row" : "";
     row.className = `px-4 py-2.5 flex items-center gap-3 text-sm ${borderCls}${statusCls ? " " + statusCls : ""}${altBg}`;
 
     // Time + court column
