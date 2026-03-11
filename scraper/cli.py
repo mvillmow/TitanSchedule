@@ -12,7 +12,7 @@ import click
 from scraper.client import AESClient
 from scraper.graph.builder import GraphBuilder
 from scraper.graph.team_exporter import ExportDict, TeamScheduleExporter
-from scraper.models import Division
+from scraper.models import Division, Team
 from scraper.parsers import parse_brackets, parse_division_plays, parse_pool_sheet
 from scraper.url import parse_aes_url
 
@@ -63,6 +63,21 @@ async def _scrape(url: str) -> None:
             if bracket_data:
                 bracket_matches = parse_brackets(bracket_data)
                 division.bracket_matches.extend(bracket_matches)
+
+        # Collect teams from bracket matches (may include teams not in pools)
+        for bm in division.bracket_matches:
+            if bm.home_team_id and bm.home_team_id not in division.teams:
+                division.teams[bm.home_team_id] = Team(
+                    id=bm.home_team_id, name=bm.home_team_name
+                )
+            if bm.away_team_id and bm.away_team_id not in division.teams:
+                division.teams[bm.away_team_id] = Team(
+                    id=bm.away_team_id, name=bm.away_team_name
+                )
+
+        # TODO: Parse FutureRoundMatches from poolsheet responses to build
+        # follow-on edges (Division.follow_ons) linking pool standings to
+        # bracket seeds. Requires mapping CompleteShortName back to round IDs.
 
         # 5. Build graph
         builder = GraphBuilder()

@@ -356,8 +356,8 @@ class GraphBuilder:
 
         # Wire edges for each team
         for team_id, matches_list in team_matches.items():
-            # Sort matches by phase and match_id for chronological order
-            matches_list.sort(key=lambda x: (x[2], x[0]))
+            # Sort matches by phase, then -match_id (less-negative = earlier)
+            matches_list.sort(key=lambda x: (x[2], -x[0]))
 
             team = division.teams.get(team_id)
             team_name = team.name if team else ""
